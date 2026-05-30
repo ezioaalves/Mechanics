@@ -1,0 +1,170 @@
+[
+  {
+    "name": "ALL-SEEING EYE",
+    "prerequisite": "Advanced Bloodline (Byakugan), Byakugan Sight, Byakugan +3, Keen Sight +4.",
+    "benefit": "Up to three times per day, while Byakugan is active, you can spend a swift action to gain Blindsense with a range up to 30 feet for 1 round. The Blindsense is lost if you become blinded.",
+    "special": ""
+  },
+  {
+    "name": "BATTLE-READY (BYAKUGAN) [META-CHAKRA]",
+    "prerequisite": "Advanced Bloodline (Byakugan), Byakugan +2.",
+    "benefit": "You can spend 1 meta-chakra to activate your Byakugan as a swift action.",
+    "special": ""
+  },
+  {
+    "name": "BYAKUGAN SIGHT",
+    "prerequisite": "Advanced Bloodline (Byakugan), Wis 13, Spot 6 ranks, Byakugan +2, Tenketsu Sealing.",
+    "benefit": "While your Byakugan is active, you can only be flanked by creatures of your level of higher. When using Telescopic Eye, you can look in any direction without needing to move your head or body. Finally, you cannot be denied your Dexterity bonus to Defense while your Byakugan is active (including while using Telescopic Sight), unless you are flat-footed, immobilized, or a technique or ability specifically denies you your Dexterity to Defense.",
+    "special": ""
+  },
+  {
+    "name": "FARSEEING EYE",
+    "prerequisite": "Advanced Bloodline (Byakugan), Byakugan +2, Keen Sight +2, Telescopic Eye.",
+    "benefit": "While your Byakugan is active, you ignore distance penalties to Spot checks for the first 50 feet. While using Telescopic Eye, you ignore Spot penalties for an additional 100 feet, and distance penalties become -1 for every 50 feet beyond that instead of their usual value.",
+    "special": ""
+  },
+  {
+    "name": "BATTLE-READY (DOUKAGAN) [META-CHAKRA]",
+    "prerequisite": "Advanced Bloodline (Doukagan), Doukagan +1, Osmosis.",
+    "benefit": "You can spend 1 meta-chakra to activate your Doukagan as a swift action.",
+    "special": ""
+  },
+  {
+    "name": "GREATER OSMOSIS [META-CHAKRA]",
+    "prerequisite": "Advanced Bloodline (Doukagan), Osmosis.",
+    "benefit": "Up to twice per day, you can spend a metachakra charge instead of an action point to use Osmosis.",
+    "special": ""
+  },
+  {
+    "name": "WEBSPINNER",
+    "prerequisite": "Advanced Bloodline (Gumoshin), Gumokeitou.",
+    "benefit": "You can spend 2 Chakra as a free action to create 2 additional kumonosu, up to three times per day. You cannot exceed your maximum number of kumonosu this way. Your kumonosu recharge rate is now 4 per hour.",
+    "special": ""
+  },
+  {
+    "name": "BATTLE-READY (KEIRIGAN) [META-CHAKRA]",
+    "prerequisite": "Advanced Bloodline (Keirigan), Keirigan +2.",
+    "benefit": "You can spend 1 meta-chakra to activate your Keirigan as a swift action.",
+    "special": ""
+  },
+  {
+    "name": "DESTRUCTION MARK [META-CHAKRA]",
+    "prerequisite": "Advanced Bloodline (Keirigan), Keirigan +2, Deadly Insight +2, Executioner's Mark.",
+    "benefit": "You can spend a meta-chakra charge to empower an attack made with the Executioner's Mark bonus. If the attack is a melee or ranged attack, its critical threat range increases by your Deadly Insight bonus. If the attack is a spell, ability or technique, its Save DC increases by your Deadly Insight bonus, but only for the studied target. Attacks made targeting an object or structure deal 50% extra damage.\n\nThis feat can be used twice per day. Critical threat range and Save DC increases do not stack with similar bonuses provided by other sources.",
+    "special": ""
+  },
+  {
+    "name": "TIMELESS BODY [EPIC FEAT]",
+    "prerequisite": "Advanced Bloodline (Sharingan), Sharingan +2.",
+    "benefit": "You can spend 1 meta-chakra to activate your Sharingan as a swift action.",
+    "special": ""
+  },
+  {
+    "name": "DARKBANE SHARINGAN (EPIC)",
+    "prerequisite": "Advanced Bloodline (Sharingan), Mangekyou Sharingan, Sharingan +6, Spot 27 ranks.",
+    "benefit": "You can activate your Mangekyou Sharingan safely for 2 additional times per day, and you gain LowLight Vision and Darkvision with 60 feet range while the ability is active. Your eyes permanently look like Mangekyou Sharingan is active, though you do not gain its bonuses. You do not suffer Mangekyou Sharingan Blindness as a result of using a technique, and can use\n\ntechniques requiring the Mangekyou Sharingan without having the ability active. You heal one additional point of Mangekyou Sharingan Blindness per evening of rest.\n\nNote: The main way to obtain this technique is to absorb someone else's pair of Mangekyou Sharingan eyes, which also immediately teaches you their host's Mangekyou Sharingan techniques (see Mangekyou Sharingan below).",
+    "special": ""
+  },
+  {
+    "name": "MANGEKYOU SHARINGAN",
+    "prerequisite": "Advanced Bloodline (Sharingan), Sharingan +4.",
+    "benefit": "You gain the Mangekyou Sharingan ability (see below), and you are now able to Learn Magen Kyouten Chiten and two of the following techniques: Amaterasu, Kamui or Tsukuyomi.",
+    "special": "The GM may require you to accomplish a special deed before you can take this feat.\n\nMANGEKYOU SHARINGAN (SU)\n\nWhile Sharingan is active, you can activate this power as a free action. For 2 rounds, your Sharingan and Offensive Insight bonuses increase by 1, you can See Chakra without needing to concentrate, and gain the ability to See Through Chakra while concentrating (as per Sharingan). This ability can be used once per day per five levels, but each use beyond the fourth on a given day adds one point of Mangekyou Sharingan Blindness.\n\nMangekyou Sharingan Blindness: Relying too much on the power of the Mangekyou Sharingan results in this condition, measured by points which are treated as ability damage that heals at the rate of 1 point per evening of rest, doubled with complete bed rest. However, Mangekyou Sharingan Blindness does not heal until all other temporary ability damage has been mended. Having one or more points of Mangekyou Sharingan Blindness incurs penalties (see Table 10-1: Mangekyou Sharingan Blindness) which apply whenever your Mangekyou Sharingan is not active.\n\n| Blindness   | Attack   | Defense   | Spot   | Reflex   | Special                                       |\n|-------------|----------|-----------|--------|----------|-----------------------------------------------|\n| 1 or less   | -        | -         | -      | -        | -                                             |\n| 2           | -1       | -1        | -2     | -1       | -                                             |\n| 3           | -1       | -2        | -4     | -1       | -                                             |\n| 4           | -2       | -3        | -6     | -2       | -                                             |\n| 5           | -2       | -3        | -8     | -2       | Fatigued for 30m after encounters             |\n| 6           | -3       | -4        | -10    | -3       | Fatigued for 1h after encounters              |\n| 7           | -3       | -5        | -12    | -3       | Exhausted for 1h after encounters             |\n| 8           | -3       | -6        | -14    | -3       | Exhausted for 2h after encounters             |\n| 9           | -4       | -6        | -16    | -4       | Exhausted for 4h after encounters             |\n| 10 or more  | -4       | -7        | -18    | -4       | Blinded and Exhausted for 8h after encounters |"
+  },
+  {
+    "name": "NINJA'S MIMICRY",
+    "prerequisite": "Advanced Bloodline (Sharingan), Sharingan +2.",
+    "benefit": "The bonus gained from Sharingan to checks to remember things you have seen is doubled.\n\nYou can ready an action to copy the next technique you see performed within 50 feet and identify, as long as it is a Genjutsu or Ninjutsu technique requiring Half or Hand Seals, or a Strike or Stance Taijutsu technique. You must meet all of the technique's requirements (including Perform Requirements), or the attempt fails and the action is wasted. Even if you meet all the requirements, the ability has an 80% chance of success, reduced to 50% if the technique was enhanced by a Meta-Chakra feat. If you can See Chakra, the chance is increased by 10%, and your chances are increased a further 10% if the target is under the Technique Copy effect of the Sharingan Ougi - Shinkou Jutsu technique. Upon success, you must pay the same Chakra Cost as the technique's user did, after which you choose to either Copy, Memorize or Nullify:\n\n- Copy: You perform the technique exactly as performed by the target, though you can choose new targets or area of effect if it has any. You gain a +2 bonus to Learn checks made to Develop the technique for 2 weeks.\n- Memorize: You gain a +4 bonus to Learn checks made to Develop the technique for 1 month, and regain half the Chakra you paid for the technique.\n- Nullify (Genjutsu or Ninjutsu only): You counter the target's technique, causing it to have no effect, and gain a +2 bonus to Learn checks made to Develop the technique for 2 weeks. You cannot nullify techniques with a Range of Personal.",
+    "special": ""
+  },
+  {
+    "name": "EPIC SHARINGAN [EPIC]",
+    "prerequisite": "Advanced Bloodline (Sharingan), Sharingan +4, Genjutsu, Ninjutsu and Taijutsu 18 ranks.",
+    "benefit": "You can partially activate your Sharingan, reducing its cost to 1 Chakra per 10 minutes. While partially active, you only benefit from half the normal Sharingan bonuses (rounded down, maximum +3), and do not benefit from Offensive Foresight, Glare or High Speed Sight. You can still use techniques requiring an active Sharingan, use Ninja's Mimicry, concentrate to See Chakra and activate the  Mangekyou Sharingan (which increases the Sharingan bonus by +1, up to +4 maximum in this state).",
+    "special": ""
+  },
+  {
+    "name": "BLACK DEATH",
+    "prerequisite": "Symbiote, Hivemind, Greater Hivemind. Benefit: Every Hive Mother born inside your body has a poison added to her bite attack, which does not apply when she merges with a swarm. The poison deals 1d4 Dexterity damage as both primary and secondary damage, and has a Fortitude save DC of 10 + 1/3 level + Hive Mother's Constitution modifier.",
+    "benefit": "",
+    "special": ""
+  },
+  {
+    "name": "BUG RESERVE",
+    "prerequisite": "Symbiote, Reserve.",
+    "benefit": "The maximum amount of swarms you can carry and/or control increases by one.",
+    "special": ""
+  },
+  {
+    "name": "DESTRUCTION BUGS",
+    "prerequisite": "Symbiote.",
+    "benefit": "Your swarms gain 1 hp per Hit Die, and the DC of their distractions increases by 2.",
+    "special": ""
+  },
+  {
+    "name": "EMERGENCE",
+    "prerequisite": "Symbiote, Schism +2, Symbiosis +4, Base Will Save +10.",
+    "benefit": "You can carry, control and create an extra type of insect swarm (as the Symbiote ability).",
+    "special": ""
+  },
+  {
+    "name": "GREATER HIVEMIND",
+    "prerequisite": "Hivemind, Symbiote, ability to Sense Chakra without assistance.",
+    "benefit": "Hive Mothers gain 5 energy resistance against cold, earth, electricity, fire, wind and water damage, and confer this bonus onto any swarm with which they merge, for as long as they remain merged.",
+    "special": ""
+  },
+  {
+    "name": "HIVEMIND",
+    "prerequisite": "Symbiote, one or more Symbiote bloodline levels.",
+    "benefit": "In addition to your insect swarms, your body produces 1 Hive Mother per day, and you can carry up to one Hive Mother per 5 levels (maximum 4). A Hive Mother can Sense Chakra passively, at a range of 20 feet. By concentrating (as the Sense Chakra ability), you can Sense Chakra through the Hive Mother, as normal.\n\nA Hive Mother can merge with an insect swarm that does not yet have one, increasing the swarm's Constitution score by 2. If the swarm is destroyed, so is the Hive Mother merged with it. See the Friends and Foes chapter (p370) for more details on a Hive Mother.",
+    "special": ""
+  },
+  {
+    "name": "HEART OF THE BLADE [META-CHAKRA]",
+    "prerequisite": "Wis 15, Blade Affinity +1, DR 1/Bludgeoning or Piercing, Satori (20 feet).",
+    "benefit": "You can spend a meta-chakra charge as a free action to increase the Defense bonus granted by Blade Affinity by 2, as well as increase your DR/Bludgeoning or Piercing value by 2, for 1 round.",
+    "special": ""
+  },
+  {
+    "name": "SUCCESSOR OF THE MURYOU SAIKYOU RYU",
+    "prerequisite": "",
+    "benefit": "See the same feat under the Satori bloodline, above (p335).",
+    "special": ""
+  },
+  {
+    "name": "TRUE RED EYES",
+    "prerequisite": "Can only be taken as a 1 st level Heroic character, Intimidate 4 ranks, Strength, Dexterity or Constitution 16.",
+    "benefit": "You gain the Red Eyes bloodline, and your ECL increases by 1. Your Red Eyes ability becomes active permanently and cannot be turned off, and it no longer costs any Chakra to maintain. The bonuses it grants become sacred bonuses (rather than enhancement bonuses), and you are able to use skills and techniques normally.",
+    "special": ""
+  },
+  {
+    "name": "MARK OF THE RED KING [META-CHAKRA]",
+    "prerequisite": "True Red Eyes, Intimidate 15 ranks, Strong Mind, Strong Body +2.",
+    "benefit": "As a swift action up to twice a day, you can spend a meta-chakra charge to gain a +2 bonus to your Red Eyes and Strong Mind, Strong Body abilities, a 10 foot increase to your Swiftness ability and gain the ability to Sense Chakra as a free action each round without requiring concentration. While active, a glowing red cross appears on your back, and your eye turns blood red, with a white pupil.\n\nLasts 2 rounds.",
+    "special": ""
+  },
+  {
+    "name": "CURSED TOUGHNESS",
+    "prerequisite": "Toughness, Cursed Strike 2/day class ability.",
+    "benefit": "At the end of each day, your CSP decreases by 3.",
+    "special": ""
+  },
+  {
+    "name": "TRUE ORIGIN",
+    "prerequisite": "Heroic character, can only be taken at 1 st level.",
+    "benefit": "You were born with the Cursed Seal template, and have the Cursed Seal Level 1 ability. Your Cursed Seal has no origin, though you still decide whether you are a willing or unwilling bearer. You can activate and deactivate your Cursed Seal freely, without the need for Control Cursed Seal skill checks, and you do not gain CSP for using the cursed seal, though you still suffer Constitution damage from overuse.\n\nWhile your Cursed Seal is active, you are overcome with a frenzy lasting (6 + your Con modifier) rounds, during which you must attack those you perceive as foes to the best of your ability, without regard for your own safety. If you run out of enemies, you can make a Will save (DC 25) or a Control Cursed Seal check (DC 20, willing bearer only) each round to end the frenzy. If unsuccessful, you start attacking the nearest creature. A partial manifestation does not induce this frenzy.",
+    "special": "Your Level Adjustment increases by 1."
+  },
+  {
+    "name": "ANIMAL BOND",
+    "prerequisite": "Handle Animal 6 ranks, Moujuu Aishou. Benefit: Your effective level for the purpose of determining your animal companion's strength increases by 1. An animal companion can never have more HD than you.",
+    "benefit": "",
+    "special": ""
+  },
+  {
+    "name": "SPIRIT OF THE BEAST [EPIC FEAT]",
+    "prerequisite": "Handle Animal 16 ranks, Moujuu Aishou.",
+    "benefit": "You improve your animal companion's Strength, Dexterity or natural armor bonus to Defense by 1, or you can teach it an additional trick.",
+    "special": "Can be selected multiple times."
+  }
+]

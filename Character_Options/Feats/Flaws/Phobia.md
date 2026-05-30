@@ -1,0 +1,3 @@
+You are afraid of something. 
+
+Effect: You are afraid of a particular kind of object, creature or environment, as chosen fro m the list below. You are shaken if you are aware of the presence of something that would trigger your phobia within 30 ft. The condition lasts until the triggering situation is overcome, or 1d6 rounds if the trigger is an instantaneous event. If the trigg er is an object or creature, you become frightened if you touch (or are touched by) the object; or if the creature speaks or makes a cry directly to you.    

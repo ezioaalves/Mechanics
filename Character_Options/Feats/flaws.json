@@ -1,0 +1,410 @@
+[
+  {
+    "name": "Amputee",
+    "prerequisite": "",
+    "benefit": "You are missing one limb of your choice that you would normally have for your race.",
+    "special": ""
+  },
+  {
+    "name": "Anxious",
+    "prerequisite": "",
+    "benefit": "Characters with this flaw suffer a -2 penalty to all Bluff, Diplomacy and Intimidate checks.",
+    "special": ""
+  },
+  {
+    "name": "Asthmatic",
+    "prerequisite": "",
+    "benefit": "Asthmatic characters cannot take the feat Endurance, nor any feat requiring Endurance as a prerequisite. You take -2 to Climb, Jump and Swim.",
+    "special": ""
+  },
+  {
+    "name": "Blind",
+    "prerequisite": "Your race must have functional eyes.",
+    "benefit": "You are permanently blinded. Because you have grown accustomed to this state, the associated penalties to AC and skill checks are halved. You can move at three-quarters your normal speed.",
+    "special": ""
+  },
+  {
+    "name": "Blind, Partially",
+    "prerequisite": "Your race must have functional eyes.",
+    "benefit": "-4 to all Spot and Search checks.",
+    "special": ""
+  },
+  {
+    "name": "Brittle Bones",
+    "prerequisite": "",
+    "benefit": "Your weight is 75% of the minimum weight of your race. You take a -1 penalty to AC. Your threshold for massive damage is 25 hit points, rather than 50.",
+    "special": ""
+  },
+  {
+    "name": "Callous",
+    "prerequisite": "",
+    "benefit": "You take a -4 penalty to all Sense Motive and Diplomacy checks.",
+    "special": ""
+  },
+  {
+    "name": "Chakra Corrupting Touch",
+    "prerequisite": "",
+    "benefit": "A sealed item that you wear or otherwise utilize for the first time has a 25% chance of becoming cursed. This roll is made in secret by the DM. If the item is cursed, the type of curse is chosen at random or selected by the DM. If the item was cursed prior to you touching it, it now has two curses.",
+    "special": ""
+  },
+  {
+    "name": "Chivalrous",
+    "prerequisite": "",
+    "benefit": "You may not attack (or aid another in attacking) a female of your race. Furthermore, you take a -2 penalty to attacks against female humanoids of any sort.",
+    "special": ""
+  },
+  {
+    "name": "Clumsiness",
+    "prerequisite": "Your race must have functional eyes and limbs.",
+    "benefit": "You take a -4 competence penalty to all Perform checks requiring use of hand seals or half seals.",
+    "special": ""
+  },
+  {
+    "name": "Cold-Blooded",
+    "prerequisite": "",
+    "benefit": "You take a -6 to Fortitude penalty saves made to overcome the effects of high temperatures. Fire-based effects deal an additional 2 points of fire damage to you, per die of damage if applicable.",
+    "special": ""
+  },
+  {
+    "name": "Compulsive Liar",
+    "prerequisite": "",
+    "benefit": "When someone asks you a question that you know the answer to, roll a 1d3. If you get a 1, you must attempt to lie and misdirect the person questioning you (your Bluff against their Sense Motive). You must not ever hint to the truth about the question if this happens. If affected by anything that would otherwise force you to tell the truth, you must cower until the effect has passed.",
+    "special": ""
+  },
+  {
+    "name": "Corruptible",
+    "prerequisite": "",
+    "benefit": "You take a -4 penalty to will saves against mind-affecting and compulsion effects. Furthermore, you are not granted additional saves when confronted with a suggestion that might conflict with your ethics or morals, nor do spells automatically fail when you are compelled to harm something or someone.",
+    "special": ""
+  },
+  {
+    "name": "Coward",
+    "prerequisite": "Must not be immune to fear.",
+    "benefit": "You have a -6 penalty on all saves against fear effects. Even if you succeed on such a save, you are still shaken for 1 round.",
+    "special": "If the effect would normally leave you shaken on a successful save, you become frightened instead. If the effect would normally leave you frightened on a successful save, you become panicked. This flaw overrides any class features, should they come into conflict."
+  },
+  {
+    "name": "Deaf",
+    "prerequisite": "Your race must have functional ears or equivalent organs.",
+    "benefit": "You are considered to be permanently deafened.",
+    "special": ""
+  },
+  {
+    "name": "Deep Scar",
+    "prerequisite": "",
+    "benefit": "Whenever the character fails a Strength check by 4 or more, they aggravate the old wound and are shaken for 1d4 rounds. Furthermore, they take a -2 penalty to all Fortitude and Reflex saves.",
+    "special": ""
+  },
+  {
+    "name": "Ditzy",
+    "prerequisite": "",
+    "benefit": "You take a -4 penalty to all Concentration, Disguise, Gather Information, and Knowledge checks.",
+    "special": ""
+  },
+  {
+    "name": "Dyslexia",
+    "prerequisite": "You must be literate.",
+    "benefit": "You take a -4 penalty on all Craft (calligraphy), Craft (writing), Decipher Script, Forgery, and Fuinjutsu checks. Learning a new language via the Speak Language skill requires double the amount of skill points invested.",
+    "special": ""
+  },
+  {
+    "name": "Fearless",
+    "prerequisite": "",
+    "benefit": "You cannot use the fighting defensively, withdraw, perform techniques defensively, or total defense actions.",
+    "special": ""
+  },
+  {
+    "name": "Feeble",
+    "prerequisite": "",
+    "benefit": "You take a -2 penalty on Strength, Dexterity, and Constitution-based ability checks and skill checks.",
+    "special": ""
+  },
+  {
+    "name": "Frail",
+    "prerequisite": "Constitution 4 or higher.",
+    "benefit": "Subtract 1 from the number of hit points you gain at each level. This flaw can reduce the number of hit points you gain to 0 (but not below).",
+    "special": ""
+  },
+  {
+    "name": "Gullible",
+    "prerequisite": "",
+    "benefit": "You take a -4 penalty on all Sense Motive rolls, Forgery rolls to detect a forgery, and a -4 penalty to saving throws made to detect illusions.",
+    "special": ""
+  },
+  {
+    "name": "Hemophilia",
+    "prerequisite": "Must have a Constitution score.",
+    "benefit": "When you are dying, you only have a 1% chance of becoming stable. In addition, you cannot restore Constitution damage naturally.",
+    "special": "If you're using the New Action Point Uses variant, you cannot spend an Action Point to stabilize."
+  },
+  {
+    "name": "High Metabolism",
+    "prerequisite": "Must be a race that requires eating regularly.",
+    "benefit": "You require twice the amount of daily food for a creature of your size (2 pounds for a Medium creature) and begin to feel the effects of starvation in half the time a normal creature would (1.5 days).",
+    "special": ""
+  },
+  {
+    "name": "Honest",
+    "prerequisite": "",
+    "benefit": "You cannot make Bluff checks (except to Feint). Furthermore, any ally within earshot of you who lies, you feel greatly compelled to correct their lie and speak the truth.",
+    "special": ""
+  },
+  {
+    "name": "Honourable Fighter",
+    "prerequisite": "",
+    "benefit": "Whenever you are wielding a weapon and attack an opponent who is not wielding a weapon, you take a -5 penalty to attacks. If your opponent has natural weapons like fangs and claws, or is clearly skilled in unarmed combat, ignore this penalty.",
+    "special": ""
+  },
+  {
+    "name": "Hot-Blooded",
+    "prerequisite": "",
+    "benefit": "You take a -6 to Fortitude penalty saves made to overcome the effects of low temperatures. Cold-based effects deal an additional 2 points of cold damage to you, per die of damage if applicable.",
+    "special": ""
+  },
+  {
+    "name": "Hunted",
+    "prerequisite": "",
+    "benefit": "When you select this flaw, your DM chooses one race or group common to your campaign. Members of this group have a +2 competence bonus to Gather Information, Spot, Listen and Sense Motive checks made to locate or identify you; and to attack rolls made against you.",
+    "special": ""
+  },
+  {
+    "name": "Hypochondriasis",
+    "prerequisite": "",
+    "benefit": "In any stressful situation where you cannot otherwise take 10, you take a -2 penalty on all Strength-based skill checks. When running, you decrease your speed by one multiple lower than normal. Furthermore, you heal naturally at half the normal rate and automatically suffer the longest duration on the following conditions: exhaustion, fatigue, nausea, paralysis, shaken, stunned, and sleep effects.",
+    "special": ""
+  },
+  {
+    "name": "Impatient",
+    "prerequisite": "",
+    "benefit": "You take a -4 penalty to all Craft checks and cannot delay actions.",
+    "special": ""
+  },
+  {
+    "name": "Inattentive",
+    "prerequisite": "",
+    "benefit": "You take a -4 penalty on Listen checks and Spot checks.",
+    "special": ""
+  },
+  {
+    "name": "Incompetent",
+    "prerequisite": "",
+    "benefit": "You cannot provide a flanking bonus for friendly creatures or take an Aid Another action. You never gain bonuses to skill checks from skill synergies.",
+    "special": ""
+  },
+  {
+    "name": "Informal Training",
+    "prerequisite": "",
+    "benefit": "Whenever you are subject to an attack with a weapon you are not proficient in (including natural weapons), you are considered flat-footed and therefore lose any and all dodge bonuses to AC against the attack, including those provided by fighting defensively or total defense.",
+    "special": "This flaw overrides Uncanny Dodge."
+  },
+  {
+    "name": "Loud",
+    "prerequisite": "",
+    "benefit": "You suffer a -4 penalty to Move Silently and Hide skill checks.",
+    "special": ""
+  },
+  {
+    "name": "Love of Nature",
+    "prerequisite": "",
+    "benefit": "When attacking a creature with the animal, plant, or vermin type, you may only make attacks that deal nonlethal damage.",
+    "special": ""
+  },
+  {
+    "name": "Lustful",
+    "prerequisite": "",
+    "benefit": "Choose a sex. Creatures of the chosen sex of the same creature type as you may make a Charisma check (DC 10 + your own Charisma modifier) in social situations against you. If successful, you are considered charmed by that creature for as long as you remain in communication with it and 10 minutes thereafter. In combat, you take a -1 penalty on attack rolls and AC against creatures of the chosen sex.",
+    "special": ""
+  },
+  {
+    "name": "Meager Fortitude",
+    "prerequisite": "",
+    "benefit": "You take a -3 penalty on Fortitude saves.",
+    "special": ""
+  },
+  {
+    "name": "Merciful",
+    "prerequisite": "Good alignment.",
+    "benefit": "Whenever you or an ally you can see deals enough damage to a dragon, giant, fey, humanoid, magical beast or monstrous humanoid to bring it below 0 hit points and dying (but not killed), you feel compelled to save that creature's life. You are shaken until you or an ally makes a first aid check to stabilize that creature. If you or an ally willingly kills the creature, or you are otherwise unable to tend to it, you remain shaken for the rest of the day.",
+    "special": ""
+  },
+  {
+    "name": "Motion Sickness",
+    "prerequisite": "",
+    "benefit": "Any time you move more than 30 feet per round, you become sickened until the end of the round. This effect is constantly in effect when riding on an animal or vehicle until dismounting.",
+    "special": ""
+  },
+  {
+    "name": "Murky-Eyed",
+    "prerequisite": "",
+    "benefit": "In combat, every time you attack an opponent that has concealment, roll your miss chance twice. If either or both results indicate that you miss, your attack fails.",
+    "special": ""
+  },
+  {
+    "name": "Music Lover",
+    "prerequisite": "",
+    "benefit": "You take a -4 penalty to saving throws against special attacks and techniques that use song or music. In addition, if you go for a whole day without hearing song or music being performed by someone with at least 1 rank in Perform, you are shaken until you hear such an artist.",
+    "special": ""
+  },
+  {
+    "name": "Mute",
+    "prerequisite": "Must be able to speak intelligently.",
+    "benefit": "You cannot speak. Any benefits from Speak Language are limited to reading and writing. Furthermore, you take a -8 penalty to all Diplomacy, Bluff and Intimidate checks.",
+    "special": ""
+  },
+  {
+    "name": "Narcissistic",
+    "prerequisite": "",
+    "benefit": "Whenever you see yourself in a reflective surface, you are fascinated by it for 1d4 rounds. Additionally, if you take a full HD's worth of damage in one attack, you become shaken until you spend a standard action to check yourself over. Failure to do so will leave you shaken until you do.",
+    "special": ""
+  },
+  {
+    "name": "Narcolepsy",
+    "prerequisite": "",
+    "benefit": "You suffer a -6 penalty to any saves against sleep effects. When you fail a save against a sleep effect, the duration is doubled. You lose any immunity to sleep effects and cannot gain immunity to sleeping effects by any means.",
+    "special": ""
+  },
+  {
+    "name": "Near Sighted",
+    "prerequisite": "",
+    "benefit": "The penalty for Spot checks increases to -3 per 10 feet of distance. Also, due to your inability to see things coming, you get a -2 penalty to Initiative checks.",
+    "special": ""
+  },
+  {
+    "name": "Night Blindness",
+    "prerequisite": "Must have eyes. Cannot have darkvision or low-light vision.",
+    "benefit": "A character takes double the normal penalties within darkness conditions.",
+    "special": ""
+  },
+  {
+    "name": "Noncombatant",
+    "prerequisite": "",
+    "benefit": "You take a -2 penalty on all melee attack rolls.",
+    "special": ""
+  },
+  {
+    "name": "Nyctalopia",
+    "prerequisite": "Must have functional eyes.",
+    "benefit": "You treat shadowy lighting as dark lighting. You can never benefit from darkvision or low-light vision.",
+    "special": ""
+  },
+  {
+    "name": "Obese",
+    "prerequisite": "Dexterity 13 or lower.",
+    "benefit": "Your weight is the maximum possible value for your race. Half of your weight contributes towards your load. Normal armor, clothing and outfits do not fit you and must be custom-made for twice the normal cost.",
+    "special": ""
+  },
+  {
+    "name": "Pathetic",
+    "prerequisite": "The total of your ability modifiers must be 7 or lower.",
+    "benefit": "Reduce one of your ability scores by 2.",
+    "special": ""
+  },
+  {
+    "name": "Petit Mal Seizures",
+    "prerequisite": "",
+    "benefit": "Whenever you fail a skill or ability check by 5 or more, you have an absence epileptic seizure and are stunned for one round.",
+    "special": ""
+  },
+  {
+    "name": "Phobia",
+    "prerequisite": "",
+    "benefit": "You are afraid of a particular kind of object, creature or environment. You are shaken if you are aware of the presence of something that would trigger your phobia within 30 ft. The condition lasts until the triggering situation is overcome, or 1d6 rounds if the trigger is an instantaneous event. If the trigger is an object or creature, you become frightened if you touch (or are touched by) the object; or if the creature speaks or makes a cry directly to you.",
+    "special": ""
+  },
+  {
+    "name": "Photosensibility",
+    "prerequisite": "Must not be a race that already has light sensitivity, and must not have the Daylight Adaptation feat.",
+    "benefit": "You are dazzled in areas of bright light, such as within bright sunlight or within the radius of a daylight effect.",
+    "special": ""
+  },
+  {
+    "name": "Poor Reflexes",
+    "prerequisite": "",
+    "benefit": "You take a -3 penalty on Reflex saves.",
+    "special": ""
+  },
+  {
+    "name": "Shaky",
+    "prerequisite": "",
+    "benefit": "You take a -2 penalty on all ranged attack rolls.",
+    "special": ""
+  },
+  {
+    "name": "Short Temper",
+    "prerequisite": "",
+    "benefit": "Whenever you suffer damage, you become enraged. Whilst enraged, you take a -2 penalty to Armor Class and cannot make Intelligence, Wisdom or Charisma-based skill checks. You will stay in this enraged state for 1d4 rounds or until the thing that caused the damage is defeated.",
+    "special": ""
+  },
+  {
+    "name": "Slow",
+    "prerequisite": "Base land speed of at least 20 feet.",
+    "benefit": "Your base land speed is halved (round down to the nearest 5-foot interval).",
+    "special": ""
+  },
+  {
+    "name": "Stiff",
+    "prerequisite": "",
+    "benefit": "Your base land speed is 5 feet less. You suffer a -2 penalty to Balance, Climb, Disable Device, Jump, Move Silently, Ride, Swim, and Tumble.",
+    "special": ""
+  },
+  {
+    "name": "Substance Addiction",
+    "prerequisite": "",
+    "benefit": "You are addicted to a substance which, if not indulged in regularly, prevents you from functioning properly. You need to consume 50 ryo x Character Level worth of the substance daily. If you do not get your daily fix, you are shaken. After two days without your fix, you are both shaken and fatigued.",
+    "special": ""
+  },
+  {
+    "name": "Terrible Tumbler",
+    "prerequisite": "",
+    "benefit": "You can never make a Jump or Tumble check to avoid falling damage, nor can you choose to take non-lethal falling damage by deliberately jumping. In addition, you take a -2 penalty to Jump checks and Tumble checks.",
+    "special": ""
+  },
+  {
+    "name": "Tourette Syndrome",
+    "prerequisite": "",
+    "benefit": "You have physical and vocal tics. You take a -4 penalty to Move Silently and Balance checks.",
+    "special": ""
+  },
+  {
+    "name": "Trap Lover",
+    "prerequisite": "",
+    "benefit": "You take a -4 penalty to Disable Device checks. If you are within 30 feet of a trap you know about, you are shaken until you personally trigger the trap or the trap can no longer be seen by you.",
+    "special": ""
+  },
+  {
+    "name": "Uncontrollable Chakra Resistance",
+    "prerequisite": "Chakra Resistance.",
+    "benefit": "You cannot willingly forgo your chakra resistance to allow a technique to affect you normally. Any technique used on you, including beneficial techniques, must beat your Chakra Resistance before affecting you.",
+    "special": ""
+  },
+  {
+    "name": "Unfocused",
+    "prerequisite": "",
+    "benefit": "You take a -4 penalty on any skill check that would take longer than 2 minutes to resolve. You can never take 20 on a skill check.",
+    "special": ""
+  },
+  {
+    "name": "Unlucky",
+    "prerequisite": "",
+    "benefit": "You can never benefit from a luck bonus. In addition, whenever a roll is made on a table for a result that would affect only you and is a subject of unforeseen circumstance, two rolls are made and the least desirable outcome is chosen.",
+    "special": ""
+  },
+  {
+    "name": "Unreactive",
+    "prerequisite": "",
+    "benefit": "You take a -6 penalty on initiative checks.",
+    "special": ""
+  },
+  {
+    "name": "Urbanite",
+    "prerequisite": "",
+    "benefit": "You suffer a -4 penalty on all Knowledge (Nature) and Survival checks. If forced to camp outdoors in anything less substantial than a tent and bedroll, you have a 20% chance to awaken fatigued.",
+    "special": ""
+  },
+  {
+    "name": "Vulnerable",
+    "prerequisite": "",
+    "benefit": "You take a -1 penalty to Defense.",
+    "special": ""
+  }
+]

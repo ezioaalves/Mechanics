@@ -1,0 +1,3 @@
+As with Hijutsu, a Kinjutsu is a descriptor and not a technique type in itself. Kinjutsu are often techniques that were sealed away or lost, and can only be self-taught from an item or scroll, or taught to you by someone tho knows it. Unless a character knows of the technique, identifying it may prove difficult.
+
+A Kinjutsu can under no circumstances be developed (learned from only observation). Kinjutsu literally means "forbidden art," and the use of one can, and often will, lead to trouble. A Lost Kinjutsu is a technique that belongs to no clan, and it is unlikely to encounter it.

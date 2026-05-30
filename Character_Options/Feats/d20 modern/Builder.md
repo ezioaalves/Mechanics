@@ -1,0 +1,7 @@
+# Builder
+
+You have a knack for building things.
+
+**Benefit**: Pick two of the following skills: Craft (chemical), Craft (electronic), Craft (mechanical), and Craft (structural). The character gets a +2 bonus on all checks with those skills.
+
+**Special**: The character can select this feat twice. The second time, the character applies it to the two skills he or she didn't pick originally. Remember that Craft (chemical), Craft (electronic), and Craft (mechanical) cannot be used untrained.

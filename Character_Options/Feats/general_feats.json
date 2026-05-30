@@ -1,0 +1,116 @@
+[
+  {
+    "name": "CHAKRA PRESENCE",
+    "prerequisite": "Chakra Pool 50+.",
+    "benefit": "If your Chakra Pool is above 25, you may spend a move action to activate this ability. For 1 minute, any creatures that come within 10 feet of you suffer a -2 penalty to attack rolls, Defense and skill checks for as long as they remain within 10 feet of you.\n\nA successful Fortitude save (DC 10 + 1 per 10 points of your Chakra Pool, maximum DC 30) will negate this penalty while they remain in range. If your Chakra Pool increases enough to increase the save DC, all creatures within range that aren't yet affected must make another save.\n\nThis ability can be used up to three times per day.",
+    "special": ""
+  },
+  {
+    "name": "CHAKRA RESTORATION",
+    "prerequisite": "",
+    "benefit": "You now recover double your character level's worth of Chakra Reserve per evening of rest, and can use a short rest to recover Chakra one additional time per day.",
+    "special": ""
+  },
+  {
+    "name": "CHUUNIN",
+    "prerequisite": "Heroic character level 6, Genin. Know at least 9 techniques or have finished at least 8 C-Rank (or higher) missions, Cha 12.",
+    "benefit": "You get a 'Restricted' license in your Ninja village, a +3 Wealth bonus and a +2 bonus to one of the following: Bluff, Chakra Control, Diplomacy, Disable Device, Gather Information, Genjutsu, Hide, Investigate, Knowledge (ninja lore), Move Silently, Ninjutsu or Taijutsu. You may gain the ability to Sense Chakra (p11) or Suppress Chakra (p11) instead of the skill bonus.\n\nGaining this feat does not grant you the Chuunin title. Likewise, getting the title does not grant you this feat.",
+    "special": ""
+  },
+  {
+    "name": "EMPOWERED RESILIENCE",
+    "prerequisite": "Chakra Control 6 ranks, Chakra Pool 16.",
+    "benefit": "You may spend an instant action and 1 point of Chakra to gain a +4 resistance bonus to all saves until your next turn. Must be declared before rolling a save.",
+    "special": ""
+  },
+  {
+    "name": "FORCE OF PERSONALITY",
+    "prerequisite": "Cha 13.",
+    "benefit": "You may use your Charisma modifier for your Will saves instead of your Wisdom modifier.",
+    "special": ""
+  },
+  {
+    "name": "FORENSICS TRAINING",
+    "prerequisite": "Knowledge (earth and life sciences) 6 ranks, Treat Injury 6 ranks.",
+    "benefit": "You can perform autopsies by using the Knowledge (earth and life sciences) skill (See p39). You can only perform an autopsy on subjects of the same creature type as you. For every 3 ranks in the Knowledge (earth and life sciences) skill you have beyond 6, you learn to autopsy an additional creature type. (Skill ranks gained after this feat was acquired can still add additional creature types)",
+    "special": ""
+  },
+  {
+    "name": "GENIN",
+    "prerequisite": "Know at least 4 techniques.",
+    "benefit": "You get a 'Licensed' license in your Ninja village, a +1 Wealth bonus and a +1 bonus to one of the following: Chakra Control, Gather Information, Genjutsu, Hide, Investigate, Move Silently, Ninjutsu or Taijutsu. You may substitute the skill bonus for the Sense Chakra (p11) or Suppress Chakra (p11) ability.\n\nGaining this feat does not grant you the Genin title, and getting the title does not grant you this feat.",
+    "special": ""
+  },
+  {
+    "name": "IMPROVED CHAKRA POOL",
+    "prerequisite": "",
+    "benefit": "Your Chakra Pool increases by 3, and your Chakra Reserves increase by 1.",
+    "special": "You may select this feat multiple times."
+  },
+  {
+    "name": "IMPROVED COMBAT EXPERTISE",
+    "prerequisite": "Int 13, [Universal: Defensive Stance], base attack bonus +6.",
+    "benefit": "When using [Universal: Defensive Stance], you may lower your attack bonus by any number up to your base attack bonus, and increase your Defense accordingly.",
+    "special": ""
+  },
+  {
+    "name": "IMPROVED FEINT",
+    "prerequisite": "Int 13, [Universal: Defensive Stance].",
+    "benefit": "You can make a Bluff check to feint in combat as a move action rather than as an attack action.",
+    "special": ""
+  },
+  {
+    "name": "IMPROVED GRAPPLE",
+    "prerequisite": "Str 13, Combat Throw.",
+    "benefit": "You do not provoke attacks of opportunity when trying to start a grapple, and gain a +4 competence bonus to all grapple checks.",
+    "special": ""
+  },
+  {
+    "name": "INSIGHTFUL REFLEXES",
+    "prerequisite": "Int 13.",
+    "benefit": "You may use your Intelligence modifier for your Reflex saves instead of your Dexterity modifier.",
+    "special": ""
+  },
+  {
+    "name": "JOUNIN",
+    "prerequisite": "Heroic character level 12, Genin. Chuunin, Know at least 17 techniques or have finished at least 20 B-Rank (or higher) missions, Cha 13.",
+    "benefit": "You get a 'Military' license in your Ninja village, a +4 Wealth bonus and a +2 bonus to any two of the following: Balance, Bluff, Chakra Control, Demolition, Diplomacy, Disable Device, Disguise, Gather Information, Genjutsu, Hide, Investigate, Knowledge (ninja lore), Move Silently, Ninjutsu, Search, Sleight of Hand, Survival, Taijutsu or Tumble. You may substitute the skill bonus for the Sense Chakra (p11) or Suppress Chakra (p11) ability.\n\nGaining this feat does not grant you the Jounin title, and getting the title does not grant you this feat.",
+    "special": ""
+  },
+  {
+    "name": "KEEN SENSES",
+    "prerequisite": "Heroic character level 6, Wis 13, Sense Chakra.",
+    "benefit": "Once per encounter, you can Sense Chakra as a swift action (unlimited out of combat). Your Sense Chakra now lasts as long as you concentrate plus 1d4+1 rounds, and you gain a +2 competence bonus to Wisdom and Spot checks made while using the ability.",
+    "special": ""
+  },
+  {
+    "name": "LIGHT SLEEPER",
+    "prerequisite": "Con 13.",
+    "benefit": "You can sleep only 4 hours, recovering half the HP, Chakra and Chakra Reserves you normally would during a full night's rest, but no ability damage. You decrease the penalty to Listen checks while asleep by 2.",
+    "special": ""
+  },
+  {
+    "name": "RESIST POISONS",
+    "prerequisite": "",
+    "benefit": "You gain a +4 bonus to Fortitude saves made against poisons and diseases.",
+    "special": ""
+  },
+  {
+    "name": "SKILLFUL ASSAULT",
+    "prerequisite": "Wis 13, Heroic character.",
+    "benefit": "At the start of your turn, you may designate one opponent. Attacks you make against that opponent suffer a -2 circumstance penalty to attack and damage rolls, but will not reduce the opponent below 0 hit points.",
+    "special": ""
+  },
+  {
+    "name": "SPECIALIST'S GAZE COUNTER",
+    "prerequisite": "Wis 13, base attack bonus +3.",
+    "benefit": "When Averting One's Eyes (D20 Modern, p227, Gaze (Su)) to defend against gaze attacks, you may reroll the success chance once if you fail and the opponent does not gain a concealment bonus against you.",
+    "special": ""
+  },
+  {
+    "name": "TALENTED SHINOBI",
+    "prerequisite": "",
+    "benefit": "Gain (5 + your Intelligence modifier) skill points (minimum 4). Spend these points only on class skills and/or the following: Balance, Chakra Control, Concentration, Craft (calligraphy, chemical, mechanical), Fuinjutsu, Genjutsu, Hide, Jump, Knowledge (ninja lore, tactics), Listen, Move Silently, Ninjutsu, Search, Sign Language, Sleight of Hand, Spot, Survival, Taijutsu and Tumble.",
+    "special": ""
+  }
+]

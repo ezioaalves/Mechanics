@@ -1,0 +1,3 @@
+Your devotion to your own beauty tends to be distracting. 
+
+Effect: Whenever yo u see yourself in a reflective surface, you are fascinated by it for 1d4 rounds. Additionally, if you take a full HD's worth of damage (for example, if a Fast Hero takes 8 damage) in one attack, you become shaken until you spend a standard action to check themselves to see if they've been made any less beautiful from the attack. Failure to do so will leave the character shaken until they do. Characters with different HD values must use their lowest value HD for this purpose. 

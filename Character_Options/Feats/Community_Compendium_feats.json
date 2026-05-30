@@ -1,0 +1,824 @@
+[
+  {
+    "name": "Action Boost",
+    "prerequisite": "",
+    "benefit": "When you spend an action point, you roll d8s instead of d6s for the action result.",
+    "special": ""
+  },
+  {
+    "name": "Action Point Recovery",
+    "prerequisite": "",
+    "benefit": "At the end of an encounter, you automatically recover 1 Action Point spent during the encounter. This feat does not work outside of combat.",
+    "special": "You may select this feat multiple times, its effects stack."
+  },
+  {
+    "name": "Action Point Regeneration",
+    "prerequisite": "",
+    "benefit": "You now regenerate Action Points at a slow pace. You regenerate 1 Action Point once a week whenever you fall below your maximum (the amount of Action Points you gained from the most recent level). The maximum is 15 (regardless of how many you have above that from saving Action Points); if you spend one and one week passes by, you may add one more Action Point, up to your maximum. If you level within that week, you do not receive that Action Point back. Each level your pool readjusts to the new proper amount.",
+    "special": ""
+  },
+  {
+    "name": "Advanced Combat Martial Arts",
+    "prerequisite": "Combat Martial Arts, Improved Combat Martial Arts, base attack bonus +8.",
+    "benefit": "When the character scores a critical hit on an opponent with an unarmed strike, the character deals triple damage.",
+    "special": ""
+  },
+  {
+    "name": "Advanced Dodge",
+    "prerequisite": "Dodge, Improved Dodge, Dex 17.",
+    "benefit": "You may apply the effects of the Dodge feat to a number of targets equal to your Dexterity modifier +1 (minimum of 2). You may also apply the effects twice (stacking) to a given target. Doing so counts as applying Dodge's effects to two different targets. You may not apply the effects of Dodge to a single target more than twice. This feat replaces the Improved Dodge feat.",
+    "special": ""
+  },
+  {
+    "name": "Advanced Nature: Bakuton",
+    "prerequisite": "Primary elemental affinity Fire or Earth, can only be taken at 1st level.",
+    "benefit": "You gain an elemental affinity to Explosion as well as Fire or Earth (whichever you didn't select as your primary elemental affinity). Your Explosion affinity may replace your primary elemental affinity, which is then downgraded to a normal affinity. You do not gain a new nature until level 21 via level progression. This release has the descriptor of Explosion.",
+    "special": ""
+  },
+  {
+    "name": "Advanced Nature: Futton",
+    "prerequisite": "Primary elemental affinity Fire or Water, can only be taken at 1st level.",
+    "benefit": "You gain an elemental affinity to Boil as well as Fire or Water (whichever you didn't select as your primary elemental affinity). Your Boil affinity may replace your primary elemental affinity, which is then downgraded to a normal affinity. You do not gain a new nature until level 21 via level progression. This release has the descriptor of Boil.",
+    "special": ""
+  },
+  {
+    "name": "Advanced Nature: Hyouton",
+    "prerequisite": "Primary elemental affinity Water or Wind, can only be taken at 1st level.",
+    "benefit": "You gain an elemental affinity to Ice as well as Water or Wind (whichever you didn't select as your primary elemental affinity). Your Ice affinity may replace your primary elemental affinity, which is then downgraded to a normal affinity. You do not gain a new nature until level 21 via level progression. This release has the descriptor of Cold.",
+    "special": ""
+  },
+  {
+    "name": "Advanced Nature: Jiton",
+    "prerequisite": "Primary elemental affinity Earth or Lightning, can only be taken at 1st level.",
+    "benefit": "You gain an elemental affinity to Magnet as well as Earth or Lightning (whichever you didn't select as your primary elemental affinity). Your Magnet affinity may replace your primary elemental affinity, which is then downgraded to a normal affinity. You do not gain a new nature until level 21 via level progression. This release has the descriptor of Magnet.",
+    "special": ""
+  },
+  {
+    "name": "Advanced Nature: Mokuton",
+    "prerequisite": "Primary elemental affinity Earth or Water, can only be taken at 1st level.",
+    "benefit": "You gain an elemental affinity to Wood as well as Earth or Water (whichever you didn't select as your primary elemental affinity). Your Wood affinity may replace your primary elemental affinity, which is then downgraded to a normal affinity. You do not gain a new nature until level 21 via level progression. This release has the descriptor of Wood.",
+    "special": ""
+  },
+  {
+    "name": "Advanced Nature: Ranton",
+    "prerequisite": "Primary elemental affinity Lightning or Water, can only be taken at 1st level.",
+    "benefit": "You gain an elemental affinity to Storm as well as Lightning or Water (whichever you didn't select as your primary elemental affinity). Your Storm affinity may replace your primary elemental affinity, which is then downgraded to a normal affinity. You do not gain a new nature until level 21 via level progression. This release has the descriptor of Storm.",
+    "special": ""
+  },
+  {
+    "name": "Advanced Nature: Shakuton",
+    "prerequisite": "Primary elemental affinity Fire or Wind, can only be taken at 1st level.",
+    "benefit": "You gain an elemental affinity to Scorch as well as Fire or Wind (whichever you didn't select as your primary elemental affinity). Your Scorch affinity may replace your primary elemental affinity, which is then downgraded to a normal affinity. You do not gain a new nature until level 21 via level progression. This release has the descriptor of Scorch.",
+    "special": ""
+  },
+  {
+    "name": "Advanced Nature: Yoton",
+    "prerequisite": "Primary elemental affinity Earth or Fire, can only be taken at 1st level.",
+    "benefit": "You gain an elemental affinity to Lava as well as Earth or Fire (whichever you didn't select as your primary elemental affinity). Your Lava affinity may replace your primary elemental affinity, which is then downgraded to a normal affinity. You do not gain a new nature until level 21 via level progression. This release has the descriptor of Lava.",
+    "special": ""
+  },
+  {
+    "name": "Agile Riposte",
+    "prerequisite": "Dex 13, Dodge.",
+    "benefit": "Once per round, if the opponent you have designated as your dodge target makes a melee attack or melee touch attack against you and misses, you may make an attack of opportunity against that opponent. Resolve and apply the effects from both attacks simultaneously. Even with Combat Reflexes, Agile Riposte can't be used more than once per round. It does not grant more attacks of opportunity than the character is normally allowed in a round.",
+    "special": ""
+  },
+  {
+    "name": "All or Nothing",
+    "prerequisite": "Base attack bonus +4.",
+    "benefit": "Whenever you make a full attack, you can make it an all or nothing attack. You receive an additional melee strike at your highest base attack bonus. However, you lose one full action on your next initiative turn, and suffer a -4 circumstance penalty to Defense until you are able to perform another action.",
+    "special": ""
+  },
+  {
+    "name": "Ambassador",
+    "prerequisite": "",
+    "benefit": "You gain a +2 competence bonus to all Diplomacy and Sense Motive checks.",
+    "special": ""
+  },
+  {
+    "name": "Ambush",
+    "prerequisite": "Base attack bonus +4, Wis 13.",
+    "benefit": "When setting an ambush, you receive a +4 circumstance bonus to your Initiative check, and also in determining awareness to see if the enemy perceives you. The bonus applies to Hide or Move Silently rolls, or whatever the DM deems appropriate to the situation.",
+    "special": ""
+  },
+  {
+    "name": "Armor Focus",
+    "prerequisite": "Armor Proficiency (light or medium).",
+    "benefit": "Choose one type of armor that you are proficient with. While wearing that type of armor, your speed is reduced by 5 ft. less than usual. Further, your armor check penalty while wearing the chosen type of armor is reduced to -1.",
+    "special": "This feat may be taken multiple times. Each time it is taken, you must specify a new type of armor."
+  },
+  {
+    "name": "Arterial Strike",
+    "prerequisite": "Base attack bonus +4, sneak attack ability.",
+    "benefit": "If you hit with a sneak attack, you may choose to forgo +1d6 of extra sneak attack damage to deliver a wound that won't stop bleeding. Each wound caused in this manner saps an extra point of damage per round from the victim, until the victim receives the benefit of a DC 15 Treat Injury check. Wounds from multiple arterial strikes result in cumulative bleeding loss. You may deliver only one bleeding wound per successful sneak attack.",
+    "special": ""
+  },
+  {
+    "name": "Artistic Illusions [Meta-Chakra]",
+    "prerequisite": "Perform (any instrument) 6 ranks, Genjutsu 6 ranks, Genjutsu Adept or Genius Ninja (genjutsu).",
+    "benefit": "You gain the ability to eschew hand seals and half seals when performing genjutsu, and can instead perform them with an additional material focus of your instrument of choice, and somatic components to play said instrument. This makes the genjutsu sound-based. Performing techniques this way makes them highly discreet — opponents unaware of your ability will not typically be prepared to counter your techniques or suspect you as the source of genjutsu. The technique's perform requirements increase by 2. You can spend a meta-chakra charge to ignore the perform requirement increase for one technique.",
+    "special": "If you apply this feat to a technique, it cannot be enhanced by another meta-chakra feat. Applying this feat does not always consume a meta-chakra charge."
+  },
+  {
+    "name": "Assassin Strike",
+    "prerequisite": "Sneak Attack 1d6, base attack bonus +5, Intimidate 9 ranks.",
+    "benefit": "By spending one action point upon delivering a successful sneak attack, all opponents within 30 ft. who could see the attack must make a save versus Demoralize for 1 round. The DC is 10 + Charisma Modifier + Sneak Attack Damage.",
+    "special": ""
+  },
+  {
+    "name": "Assessment",
+    "prerequisite": "",
+    "benefit": "As a move action, choose a target you can accurately perceive and make a Sense Motive check opposed by the target's Bluff check result. If you succeed, the GM tells you the target's attack and defense bonus relative to yours (lower, higher, or equal). In cases of a 5-point or greater difference, the GM may indicate the difference is considerable.",
+    "special": ""
+  },
+  {
+    "name": "Augment Summoning",
+    "prerequisite": "Blood Pact.",
+    "benefit": "Upon taking this feat you select one Blood Pact which you have. Each creature you summon from that Blood Pact gains a +4 enhancement to Strength and Constitution for the duration of their summoning.",
+    "special": ""
+  },
+  {
+    "name": "Balls of Your Feet",
+    "prerequisite": "Uncanny Dodge 1.",
+    "benefit": "You cannot be caught flat-footed unless the attacker is 4 levels higher than you, you have lost your Dexterity modifier, are unconscious, or are otherwise immobilized.",
+    "special": ""
+  },
+  {
+    "name": "Battle-Scarred",
+    "prerequisite": "",
+    "benefit": "You get a +2 bonus on all Fortitude saves and Sense Motive checks in combat.",
+    "special": ""
+  },
+  {
+    "name": "Blindsight",
+    "prerequisite": "Base attack bonus +4, Wis 13, Blind-Fight.",
+    "benefit": "When attacking an opponent with an unarmed or melee attack, ignore concealment bonuses to your target's Defense within 10 ft.",
+    "special": ""
+  },
+  {
+    "name": "Blooded",
+    "prerequisite": "",
+    "benefit": "You get a +2 bonus on Initiative and a +2 bonus on all Spot checks.",
+    "special": ""
+  },
+  {
+    "name": "Bloodline's Chosen",
+    "prerequisite": "Can only be taken at the 1st level, Advanced Bloodline.",
+    "benefit": "Upon selecting this feat, the potency of the chosen bloodline is decreased by one category. For example, a Major bloodline becomes an Intermediate bloodline for the sake of determining the number of levels that must be taken to advance the bloodline.",
+    "special": ""
+  },
+  {
+    "name": "Bowl Over",
+    "prerequisite": "Str 15+, Heft, Rout, Windup.",
+    "benefit": "Whenever you deal 10 or more points of damage to an opponent with a thrown weapon, you may immediately make a trip attack as a free action against that target. When you make a trip attack in this manner, you cannot be tripped in turn. The benefit of this ability does not stack with the benefit of the Deft Maneuvers feat.",
+    "special": ""
+  },
+  {
+    "name": "Bureaucratic Flair",
+    "prerequisite": "",
+    "benefit": "You gain a +2 aptitude bonus on all Diplomacy checks and a +2 aptitude bonus on all Knowledge (bureaucracy) checks.",
+    "special": ""
+  },
+  {
+    "name": "Calling Card",
+    "prerequisite": "Mastery in at least one technique, HD 8 or higher, Technique Focus.",
+    "benefit": "The ninja gains a +2 to Reputation. The character chooses a technique that they have selected with Technique Focus and have at least 1 level of mastery in. Once per encounter, the character may choose to perform this technique, dealing 2 additional die of damage if it deals damage and increasing the perform check by 5 and the chakra cost by 1. A technique that doesn't deal damage has its DC increased by 1 and duration increased by 50%. Every time an opponent is defeated with the calling card technique, the character gains a +1 to reputation.",
+    "special": ""
+  },
+  {
+    "name": "Chakra Regeneration",
+    "prerequisite": "",
+    "benefit": "Your body uses chakra to heal itself. When resting to regain hit points, you may heal double your hit points but your chakra pool and chakra reserve recovers only half (rounded down) their normal amount.",
+    "special": "If you possess the Light Sleeper feat and use it, you recover a normal full night's rest but only recover one quarter (rounded down) of your chakra pool and chakra reserve."
+  },
+  {
+    "name": "Chakra Void",
+    "prerequisite": "Energy Resistance talent, Chakra Affinity.",
+    "benefit": "Whenever the character would reduce the damage taken from a technique by means of the Energy Resistance ability, they gain an equal amount of temporary chakra. This temporary chakra lasts until the end of the next round.",
+    "special": ""
+  },
+  {
+    "name": "Champuru",
+    "prerequisite": "Taijutsu and Tumble 4 ranks.",
+    "benefit": "You can learn Champuru techniques without penalties to your learn check. In addition, the character is able to trip opponents with any medium weapon and does not provoke attacks of opportunity when tripping while unarmed.",
+    "special": ""
+  },
+  {
+    "name": "Charismatic Plus",
+    "prerequisite": "",
+    "benefit": "You gain two talents from the Charismatic hero's talent trees. The talents must be selected from the following list, and you must meet all prerequisites: Favor, Captivate, Dazzle, Taunt, Inspiration, Greater Inspiration.",
+    "special": "You may select this feat multiple times. Each time you select this feat, you must choose a different pair of talents."
+  },
+  {
+    "name": "Chau Murky",
+    "prerequisite": "Poison Use.",
+    "benefit": "You gain a +2 competence bonus on Craft checks to prepare and identify poisons, and a +2 competence bonus to Treat Injury checks to treat poison. Additionally, if you are ever poisoned because of a botched roll, you may spend an action point to re-roll the failure.",
+    "special": ""
+  },
+  {
+    "name": "Class Plus",
+    "prerequisite": "",
+    "benefit": "You gain two talents from an advanced or prestige class in which you already have levels. Classes that offer a recurring same-named benefit with different options qualify (such as the Exarch's Exarch Arcana). You must still qualify for the abilities you select. The restrictions for those classes still apply.",
+    "special": "This does not apply to bloodline classes. Talents that grant bonus feats instead of special abilities cannot be selected. You may select this feat multiple times."
+  },
+  {
+    "name": "Cleaving Charge",
+    "prerequisite": "Base attack bonus +6, Str 15, Great Cleave.",
+    "benefit": "As Great Cleave, except that you may move one 5 ft. square before each extra attack. You may not exceed half your speed during the action.",
+    "special": ""
+  },
+  {
+    "name": "Combat Awareness",
+    "prerequisite": "Wis 13, base attack bonus +1.",
+    "benefit": "Attackers do not gain the usual +2 bonus on their attack rolls when flanking you. This feat grants no effect when you are denied your Dexterity modifier to Defense, such as when you are flat-footed. You may still be sneak attacked when flanked.",
+    "special": ""
+  },
+  {
+    "name": "Combat Instincts",
+    "prerequisite": "",
+    "benefit": "If you are not flat-footed when an adjacent opponent's melee attack roll misses you by more than 5, you may immediately make a single attack at your highest attack bonus as a free action against that opponent. You may use this feat a number of times per round equal to your Dexterity modifier.",
+    "special": ""
+  },
+  {
+    "name": "Concealed Weapon",
+    "prerequisite": "Sleight of Hand 4 ranks.",
+    "benefit": "Whenever you are searched, you gain a +10 competence bonus to your Sleight of Hand checks to conceal one small item or weapon.",
+    "special": ""
+  },
+  {
+    "name": "Darkstalker",
+    "prerequisite": "",
+    "benefit": "When you hide, creatures with Blindsense, Blindsight, Scent, or Tremorsense must make a Listen check or a Spot check (whichever DC is higher) to notice you, just as sighted creatures would make Spot checks to detect you. You cannot hide in plain sight unless you have that ability as a class feature. In addition, you can flank creatures that have the all-around vision special quality.",
+    "special": ""
+  },
+  {
+    "name": "Dead Eye",
+    "prerequisite": "Dex 13, base attack bonus +1, Precise Shot, Weapon Focus (any ranged weapon).",
+    "benefit": "You may add your Dexterity bonus to all damage rolls made with ranged weapons for which you have the Weapon Focus feat, so long as the target is within 30 feet.",
+    "special": "Dead Eye does not increase the damage dealt to creatures that are immune to critical hits."
+  },
+  {
+    "name": "Dedicated Plus",
+    "prerequisite": "",
+    "benefit": "You gain two talents from the Dedicated hero's talent trees. The talents must be selected from the following list, and you must meet all prerequisites: Improved Aid Another, Intuition, Healing Touch 1, Healing Touch 2, Aware, Faith, Cool Under Pressure.",
+    "special": "You may select this feat multiple times. Each time you select this feat, you must choose a different pair of talents."
+  },
+  {
+    "name": "Defensive Strike",
+    "prerequisite": "Dex 13, Int 13, [Universal: Defensive Stance], Dodge.",
+    "benefit": "If an opponent attacks you and misses while you are using the total defense action, you can attack that opponent on your next turn with a +4 bonus on your attack roll. You gain no bonus against an opponent that does not attack you or against an opponent that attacks and hits you.",
+    "special": ""
+  },
+  {
+    "name": "Deflect Arrows",
+    "prerequisite": "Dex 13, Combat Martial Arts.",
+    "benefit": "You must have at least one hand free to use this feat. Once per round when you would normally be hit with a ranged weapon, you may deflect it so that you take no damage from it. You must be aware of the attack and not flat-footed. Attempting to deflect a ranged weapon doesn't count as an action. Unusually massive ranged weapons and ranged attacks generated by jutsu effects cannot be deflected.",
+    "special": ""
+  },
+  {
+    "name": "Demolition Expert [Meta-Chakra]",
+    "prerequisite": "Chakra Control 9 ranks, any other Meta-Chakra feat.",
+    "benefit": "The character is able to empower an exploding tag with extra power. To do so, he must spend 2 additional points of chakra per damage dice when charging the tag. When the tag explodes, it deals 50% extra damage and the blast radius increases by 10 feet. Every use expends a meta-chakra charge. The DC to detonate said tag also increases by 5.",
+    "special": ""
+  },
+  {
+    "name": "Discerning",
+    "prerequisite": "Int 13.",
+    "benefit": "The hero may choose Sense Motive as a class skill. The skill is now modified by Intelligence.",
+    "special": ""
+  },
+  {
+    "name": "Donate Chakra",
+    "prerequisite": "Treat Injury 9 ranks, Harmony, Medical Expert.",
+    "benefit": "As a move action you are able to give up to your Wisdom modifier per round in chakra to another creature. This does not counteract chakra depletion.",
+    "special": ""
+  },
+  {
+    "name": "Dual Strike",
+    "prerequisite": "Base attack bonus +3, Combat Reflexes.",
+    "benefit": "If you and an ally both flank an opponent, you gain a +4 bonus on your attack roll.",
+    "special": ""
+  },
+  {
+    "name": "Dynamic Entrance",
+    "prerequisite": "Taijutsu 6 ranks, Taijutsu Adept.",
+    "benefit": "During this character's first round of combat, any opponent who is the target of this character's melee attack or Taijutsu technique is considered to be flat-footed. If the user was undetected, the bonuses conferred by Invisible Attacker are doubled for this round.",
+    "special": ""
+  },
+  {
+    "name": "Empowered Nature: Enton",
+    "prerequisite": "Primary elemental affinity Fire, can only be taken at 1st level.",
+    "benefit": "The character gains access to the Empowered Nature Enton.",
+    "special": ""
+  },
+  {
+    "name": "Empowered Nature: Koton",
+    "prerequisite": "Primary elemental affinity Earth, can only be taken at 1st level.",
+    "benefit": "The character gains access to the Empowered Nature Koton.",
+    "special": ""
+  },
+  {
+    "name": "Empowered Nature: Namiton",
+    "prerequisite": "Primary elemental affinity Water, can only be taken at 1st level.",
+    "benefit": "The character gains access to the Empowered Nature Namiton.",
+    "special": ""
+  },
+  {
+    "name": "Empowered Nature: Purazumaton",
+    "prerequisite": "Primary elemental affinity Lightning, can only be taken at 1st level.",
+    "benefit": "The character gains access to the Empowered Nature Purazumaton.",
+    "special": ""
+  },
+  {
+    "name": "Empowered Nature: Taiton",
+    "prerequisite": "Primary elemental affinity Wind, can only be taken at 1st level.",
+    "benefit": "The character gains access to the Empowered Nature Taiton.",
+    "special": ""
+  },
+  {
+    "name": "Enhanced Athletics",
+    "prerequisite": "Harmony.",
+    "benefit": "You may add a bonus equal to one half your level to all Balance, Climb, Jump, Swim, and Tumble checks by spending 2 chakra.",
+    "special": ""
+  },
+  {
+    "name": "Epic Leadership [Epic]",
+    "prerequisite": "Cha 25, Leadership, Leadership score 25.",
+    "benefit": "The character attracts a cohort and followers as shown on the Epic Leadership table. In all other ways, Epic Leadership functions as the Leadership feat.",
+    "special": ""
+  },
+  {
+    "name": "Expert Advice",
+    "prerequisite": "At least 1 rank in the skill selected.",
+    "benefit": "When making checks with the selected skill, you may use your Reputation bonus instead of the usual ability modifier.",
+    "special": "You may gain this feat multiple times; its effects do not stack. Each time you take it, you select a different skill."
+  },
+  {
+    "name": "Eye of Foresight [Heritage]",
+    "prerequisite": "Wisdom 15, Sense Motive 4 ranks. Can only be taken at 1st level; may not be chosen if the user has already selected the Advanced Bloodline feat.",
+    "benefit": "You have the blood of the priestesses of Demon Country running through your veins. At the start of combat, the user gains their Wisdom modifier to Initiative, Defense and Saving Throws. This bonus reduces by 1 each round until it reaches 0. In addition, the user gains a +1 bonus to Initiative every 5th level.",
+    "special": ""
+  },
+  {
+    "name": "Fast Plus",
+    "prerequisite": "",
+    "benefit": "You gain two talents from the Fast hero's talent trees. The talents must be selected from the following list, and you must meet all prerequisites: Uncanny Dodge 1, Uncanny Dodge 2, Defensive Roll, Opportunist, Improved Increased Speed, Advanced Increased Speed.",
+    "special": "You may select this feat multiple times. Each time you select this feat, you must choose a different pair of talents."
+  },
+  {
+    "name": "Favored Terrain",
+    "prerequisite": "Survival 4 ranks.",
+    "benefit": "Choose one type of terrain (arctic, desert, forest, jungle, mountain, or swamp). When in this terrain, you gain a +3 competence bonus on Hide, Move Silently, and Survival checks, and any cover bonuses to Defense you gain are increased by +1.",
+    "special": "You may take this feat multiple times. Each time you take this feat, it applies to a different terrain."
+  },
+  {
+    "name": "Fearsome Stare",
+    "prerequisite": "Genjutsu Adept, Intimidate 6 ranks.",
+    "benefit": "Whenever the character succeeds on Intimidating an opponent in combat, the user's next use of a Genjutsu with the Doujutsu descriptor against that same opponent has its DC raised by 1.",
+    "special": ""
+  },
+  {
+    "name": "Fleeting Foot [Tactical]",
+    "prerequisite": "Dodge, base attack bonus +6.",
+    "benefit": "The Fleeting Foot feat enables the use of three tactical maneuvers.\n\nNegate [Universal: Risky Strike]: If a foe designated with your Dodge feat uses the [Universal: Risky Strike] feat against you, the foe gains no bonus on the damage roll but still takes the corresponding penalty on the attack roll.\n\nDiverting Defense: You must be flanked. The first attack of the round from the opponent designated with your Dodge feat automatically misses you and may strike the other flanking foe instead (the attacking creature makes an attack roll normally, and its ally is considered flat-footed).\n\nCause Overreach: When you provoke an attack of opportunity from a foe by moving out of a threatened square and that foe misses you, you can make a free trip attempt against this foe; the foe does not get a chance to trip you if your attempt fails.",
+    "special": ""
+  },
+  {
+    "name": "Fleet of Foot",
+    "prerequisite": "Run.",
+    "benefit": "When running or charging, you can make a single direction change of 90 degrees or less. You cannot use this feat while wearing medium or heavy armor, or if you're carrying a medium or heavy load.",
+    "special": ""
+  },
+  {
+    "name": "Flick of the Wrist",
+    "prerequisite": "Dex 16, Sleight of Hand 5 ranks, Quick Draw.",
+    "benefit": "If you draw a light weapon and make an attack with it in the same round, you catch your opponent flat-footed (for the purpose of this attack only). You may use this feat only once per round and once per opponent during any single combat encounter.",
+    "special": ""
+  },
+  {
+    "name": "Greater Dodge",
+    "prerequisite": "Dex 13, Dodge, Improved Dodge.",
+    "benefit": "Your skill with the Dodge feat is such that you receive a +3 dodge bonus to Defense against attacks from your chosen opponent.",
+    "special": ""
+  },
+  {
+    "name": "Greater Two Weapon Defense",
+    "prerequisite": "Dex 19, Improved Two-Weapon Defense, Two-Weapon Defense, Two-Weapon Fighting, base attack bonus +11.",
+    "benefit": "When wielding two weapons (not including natural weapons or unarmed strikes), you gain a +3 shield bonus to your AC. When you are fighting defensively or using the total defense action, this shield bonus increases to +6.",
+    "special": ""
+  },
+  {
+    "name": "Headstrong",
+    "prerequisite": "",
+    "benefit": "You get a +1 bonus on all Will saving throws and +2 synergy bonus on all Intimidate checks.",
+    "special": ""
+  },
+  {
+    "name": "Heat Endurance",
+    "prerequisite": "Base Fortitude save +2.",
+    "benefit": "You gain a +2 bonus on saving throws against fire effects. You can exist comfortably in temperatures up to 120° F without having to make Fortitude saves.",
+    "special": ""
+  },
+  {
+    "name": "Heft",
+    "prerequisite": "Str 15, Windup.",
+    "benefit": "You may add 150% of your Strength bonus to all damage rolls for thrown weapons instead of the Strength bonus you would normally add. If you are using weapons in both hands, this feat applies only to weapons thrown with your primary hand.",
+    "special": ""
+  },
+  {
+    "name": "Hyper Fighting",
+    "prerequisite": "Advanced Combat Martial Arts, Weapon Focus (Unarmed), [Universal: Defensive Stance].",
+    "benefit": "At the cost of an Action Point, all unarmed attacks made by the user for 1 round have a 50% chance to deny the target their Dexterity to Defense. In addition, when using the full attack action, the user may make an additional attack at their highest attack bonus. All attacks made during this round suffer a -4 penalty.",
+    "special": ""
+  },
+  {
+    "name": "Iaijutsu Master",
+    "prerequisite": "",
+    "benefit": "Once per day, you can make any one attack roll, saving throw, or skill check using your Iaijutsu Focus skill modifier in place of all other modifiers.",
+    "special": ""
+  },
+  {
+    "name": "Improved Action Boost",
+    "prerequisite": "Action Boost.",
+    "benefit": "When you spend an action point, you roll d10s instead of d8s for the action result.",
+    "special": ""
+  },
+  {
+    "name": "Improved [Universal: Defensive Stance]",
+    "prerequisite": "Int 13, [Universal: Defensive Stance], base attack bonus +6.",
+    "benefit": "When you use [Universal: Defensive Stance] to improve your Defense, the number you subtract from your attack roll and add to your Defense can be any number that does not exceed your base attack bonus.",
+    "special": ""
+  },
+  {
+    "name": "Improved Critical",
+    "prerequisite": "Base attack bonus +8, proficient with weapon.",
+    "benefit": "When using the weapon you selected, the weapon's normal threat range is doubled.",
+    "special": "You can gain Improved Critical multiple times. The effects do not stack. Each time you take the feat, it applies to a new type of weapon."
+  },
+  {
+    "name": "Improved Deflect Arrows",
+    "prerequisite": "Dex 16, Combat Martial Arts, Deflect Arrows.",
+    "benefit": "You may now deflect a number of attacks per round equal to your Dexterity modifier.",
+    "special": ""
+  },
+  {
+    "name": "Improved Dodge",
+    "prerequisite": "Dodge, Dex 15.",
+    "benefit": "You may apply the effects of the Dodge feat to two targets simultaneously, or apply its effects to a single target twice (the effects stack). A target that you have applied Dodge to twice is still counted as having only one application for the purposes of feats and abilities such as Agile Riposte.",
+    "special": ""
+  },
+  {
+    "name": "Unarmed Combatant",
+    "prerequisite": "Brawl, Dex 13.",
+    "benefit": "You do not provoke an attack of opportunity when you make a touch attack to start a grapple. You also gain a +4 bonus on all grapple checks, regardless of whether you started the grapple.",
+    "special": ""
+  },
+  {
+    "name": "Improved Heat Endurance",
+    "prerequisite": "Base Fortitude save +6, Heat Endurance.",
+    "benefit": "You gain fire resistance 5. If you already have fire resistance, it increases by 5. You can exist comfortably in high temperatures without having to make Fortitude saves.",
+    "special": ""
+  },
+  {
+    "name": "Improved Iaijutsu Focus [Epic]",
+    "prerequisite": "Iaijutsu Focus 27 ranks.",
+    "benefit": "The extra damage you inflict when you make an Iaijutsu Focus check no longer has a maximum die cap. The progression of extra damage continues indefinitely, increasing by +1d6 for every 5 points over a result of 10 you receive on the check.",
+    "special": ""
+  },
+  {
+    "name": "Improved Natural Healing",
+    "prerequisite": "Base Fortitude save bonus +5.",
+    "benefit": "You recover 2 hit points per character level per rest period (8 hours of sleep). If you undergo complete bed rest, you recover 4 hit points per character level per day. Ability damage returns at 2 points for resting 8 hours, or 4 points per day with complete bed rest.",
+    "special": ""
+  },
+  {
+    "name": "Powerful Maneuvers",
+    "prerequisite": "[Universal: Risky Strike], Strength 13.",
+    "benefit": "When you attempt to overrun an opponent, the target may not choose to avoid you. You also gain a +4 competence bonus on the Strength check to knock down your opponent.",
+    "special": ""
+  },
+  {
+    "name": "Improved Power Critical",
+    "prerequisite": "Base attack bonus +10, proficiency with weapon.",
+    "benefit": "You may spend an action point before making an attack with a weapon with which you are proficient. If the attack hits, it automatically threatens a critical hit (regardless of whether the attack roll falls within the weapon's actual threat range). You must roll to confirm the critical hit, as normal. This is a supernatural ability.",
+    "special": ""
+  },
+  {
+    "name": "Improved Precise Shot",
+    "prerequisite": "Base attack bonus +11, Dex 19, Precise Shot, Precise Shot.",
+    "benefit": "Your ranged attacks ignore the Defense bonus granted to targets by anything less than total cover, and the miss chance granted to targets by anything less than total concealment. Total cover and total concealment provide their normal benefits against your ranged attacks. In addition, when you shoot or throw ranged weapons at a grappling opponent, you automatically strike at the opponent you have chosen.",
+    "special": ""
+  },
+  {
+    "name": "Powerful Maneuvers",
+    "prerequisite": "Str 13, [Universal: Risky Strike], Powerful Maneuvers.",
+    "benefit": "When you strike at an object held or carried by an opponent, you do not provoke an attack of opportunity. You also gain a +4 bonus on any attack roll made to attack an object held or carried by another character.",
+    "special": ""
+  },
+  {
+    "name": "Improved Two-Weapon Defense",
+    "prerequisite": "Base attack bonus +6, Dex 17, Two-Weapon Defense, Two-Weapon Fighting.",
+    "benefit": "When wielding two weapons (not including natural weapons or unarmed strikes), you gain a +2 shield bonus to your Defense. When you are fighting defensively or using the total defense action, this shield bonus increases to +4.",
+    "special": ""
+  },
+  {
+    "name": "Increased Speed",
+    "prerequisite": "Run.",
+    "benefit": "Your base speed is increased by 10 feet.",
+    "special": ""
+  },
+  {
+    "name": "Infamy",
+    "prerequisite": "",
+    "benefit": "The character's Reputation bonus increases by +3 and the character is considered Infamous.",
+    "special": "You can't select both the Renown feat and the Infamy feat."
+  },
+  {
+    "name": "Influence",
+    "prerequisite": "",
+    "benefit": "You get a +2 synergy bonus on all Reputation checks and favor checks.",
+    "special": ""
+  },
+  {
+    "name": "Inspire",
+    "prerequisite": "Cha 15, character level 8th, Leadership.",
+    "benefit": "By spending an action point and taking a move action, you can give a number of allies equal to your Charisma bonus one of the following benefits: A +2 bonus on attack rolls and saving throws for the next round; Immediately shake off a stunned or dazed condition; Gain an immediate new Will saving throw against a mental power affecting them, with a +2 bonus; or Reduce current vitality point damage by 3. The same benefit must be given to all affected allies, and they must all be able to hear and understand you.",
+    "special": ""
+  },
+  {
+    "name": "Inventor",
+    "prerequisite": "Master Crafter.",
+    "benefit": "When using the Master Crafter feat, you are only required to pay 1/3 the ordinary item's cost in XP.",
+    "special": ""
+  },
+  {
+    "name": "Investigator",
+    "prerequisite": "",
+    "benefit": "You get a +2 bonus on all Gather Information and Search checks.",
+    "special": ""
+  },
+  {
+    "name": "Iron Stomach [Monstrous]",
+    "prerequisite": "Con 15, Swallow Whole.",
+    "benefit": "You apply your full natural armor to your AC for those attempting to cut themselves out after being swallowed whole.",
+    "special": ""
+  },
+  {
+    "name": "Jack of All Trades",
+    "prerequisite": "Character level 8th.",
+    "benefit": "You can use any skill untrained, even those that normally require training and those that are exclusive to classes you don't have. You cannot, however, gain ranks in a skill unless you are allowed to select it.",
+    "special": ""
+  },
+  {
+    "name": "Jinchuuriki's Descendant [Heritage]",
+    "prerequisite": "Chakra Control 4 ranks, Chakra Affinity feat. Can only be taken at 1st level; may not be chosen if the user has already selected the Advanced Bloodline feat.",
+    "benefit": "Somewhere in the history of your family, an individual was either blessed or cursed with having one of the legendary tailed beasts sealed inside of them. The user gains the Improved Chakra Pool feat for free and the Overwhelming Chakra ability. The user's chakra signature is always treated as 1 higher for the purpose of sensing chakra and is incapable of Suppressing Chakra. In addition, the user gains the Improved Chakra Pool feat at every 5th level.",
+    "special": ""
+  },
+  {
+    "name": "Leadership",
+    "prerequisite": "Character level 7th.",
+    "benefit": "This feat enables you to attract a loyal cohort and a number of devoted subordinates who assist you. Your leader score is equal to the sum of your character level, your Reputation, and your Charisma modifier, modified by various factors. You can attract a cohort of up to a level determined by your leader score, and a number of followers by level as shown on the Leadership table.",
+    "special": ""
+  },
+  {
+    "name": "Master Demolitions",
+    "prerequisite": "",
+    "benefit": "The DC to halve the damage of any Exploding Tag or Greater Exploding Tag detonated by you increases by two.",
+    "special": ""
+  },
+  {
+    "name": "Meditate",
+    "prerequisite": "Int 13, Wis 13, Focused.",
+    "benefit": "You can pay 1 action point to meditate for 2 rounds. If the action succeeds, you gain +2 on Defense, +3 on all attack rolls, +1 on all unarmed damage rolls, deal lethal damage on unarmed attacks, and get a +1 Concentration bonus on all skills for 2d6 rounds.",
+    "special": ""
+  },
+  {
+    "name": "Meditation Discipline",
+    "prerequisite": "Wis 13.",
+    "benefit": "The hero may choose Concentration as a class skill. The skill is now modified by Wisdom.",
+    "special": ""
+  },
+  {
+    "name": "Minions",
+    "prerequisite": "6th level.",
+    "benefit": "You attract loyal minions according to the Minions table based on your leader score. Your leader score is equal to the sum of your character level, your Reputation, and your Charisma modifier, modified by various factors. Minions are generally loyal, but aren't fanatical and won't do anything obviously suicidal. Minions who die or leave the character are replaced with new recruits within a month's time.",
+    "special": ""
+  },
+  {
+    "name": "Mirror Arts",
+    "prerequisite": "Knowledge (Physical Sciences) 5 ranks, Ninjutsu 5 ranks.",
+    "benefit": "You can learn Mirror techniques. Mirror Arts techniques can be affected by Elemental Specialization. The shinobi distorts the humidity in the air to create a reflective screen.",
+    "special": ""
+  },
+  {
+    "name": "Neck Hairs Raised",
+    "prerequisite": "",
+    "benefit": "You can make a Wisdom check (DC 20) to avoid being surprised. A successful check allows you to act during the surprise round, even if you would otherwise be surprised.",
+    "special": ""
+  },
+  {
+    "name": "Nerve Pinch",
+    "prerequisite": "Combat Martial Arts, base attack bonus +4.",
+    "benefit": "You make an unarmed attack against a living creature. If the attack succeeds, the target takes no damage but must succeed on a Fortitude save (DC 10 + one-half your character level + your Strength modifier) or be paralyzed for 1d4+1 rounds. If the target's attack of opportunity hits you and deals damage, the nerve pinch automatically fails.",
+    "special": "This ability does not work on creatures without nervous systems or discernible anatomies, such as oozes and plants."
+  },
+  {
+    "name": "Open Minded",
+    "prerequisite": "Int 15.",
+    "benefit": "The character gets an extra skill point per HD. If he gains another HD, he gains another skill point for each time he possesses this feat.",
+    "special": "If taken at level 1, this extra skill point is multiplied by 4 as usual. You can take this feat multiple times."
+  },
+  {
+    "name": "Origami Arts",
+    "prerequisite": "Craft (Visual Arts) 4 ranks, Ninjutsu 4 ranks.",
+    "benefit": "You do not take a -5 penalty to learn checks and take double the time when learning Paper techniques.",
+    "special": ""
+  },
+  {
+    "name": "Persuasive",
+    "prerequisite": "",
+    "benefit": "You get a +2 bonus on all Bluff checks and Intimidate checks.",
+    "special": ""
+  },
+  {
+    "name": "[Universal: Risky Strike]-Iaijutsu",
+    "prerequisite": "",
+    "benefit": "You add an extra 1d6 points of damage to the damage from your Iaijutsu Focus checks.",
+    "special": ""
+  },
+  {
+    "name": "Precise Strike",
+    "prerequisite": "Base attack bonus +5.",
+    "benefit": "Before making an attack on your turn, choose a single opponent and spend an action point. Until the beginning of your next turn, any attacks you make against that opponent use that opponent's touch Defense instead of the opponent's normal Defense.",
+    "special": ""
+  },
+  {
+    "name": "Pushing the Attack",
+    "prerequisite": "Base attack bonus +4.",
+    "benefit": "Whenever the user successfully deals damage to an opponent that is under the effect of the Staggered condition, the duration of Staggered is increased by 1 round. This ability can be used once per day for every 4 hit dice of the user and its use must be declared before the attack roll is made.",
+    "special": ""
+  },
+  {
+    "name": "Raven's Pick",
+    "prerequisite": "Wis 13, Powerful Maneuvers, Brawl.",
+    "benefit": "When you make an unarmed strike against an object, you may add your Wisdom bonus to the damage dealt to the object.",
+    "special": ""
+  },
+  {
+    "name": "Roof Walker [Tactical]",
+    "prerequisite": "Balance 5 ranks, Jump 5 ranks, Dodge, Dodge.",
+    "benefit": "The Roof Walker feat enables the use of three tactical maneuvers.\n\nFleet of Feet: You can move at your full speed without taking a -5 penalty on your Balance check.\n\nGraceful Drop: If you intentionally jump from a height, you take falling damage as if you had dropped 20 fewer feet than you actually did (requires a successful Jump check).\n\nMaster of the Roof: You gain a +1 dodge bonus to Defense against any opponent who is at a different elevation from you.",
+    "special": ""
+  },
+  {
+    "name": "Route",
+    "prerequisite": "Str 13, Windup.",
+    "benefit": "Any attack you make with a thrown weapon weighing at least 2 pounds also affects your opponent as if you had performed a bull rush. You don't actually move or provoke attacks of opportunity, nor can you push your target back more than 5 feet or move along with the defender.",
+    "special": ""
+  },
+  {
+    "name": "Secret Identity",
+    "prerequisite": "",
+    "benefit": "You have two Reputation scores, one for each identity. One identity (you choose which one) takes the Reputation score you've earned subsequent to taking this feat. The other identity has a Reputation score of 0. Most people won't connect your two identities unless confronted with incontrovertible evidence.",
+    "special": "If your public persona adopts a distinctive style of dress or moniker, increase your Reputation score by 2."
+  },
+  {
+    "name": "Sex Appeal",
+    "prerequisite": "",
+    "benefit": "You receive a +3 bonus to Diplomacy and Bluff checks made to influence NPCs who would normally be attracted to your gender.",
+    "special": ""
+  },
+  {
+    "name": "Sharingan Eye [Heritage]",
+    "prerequisite": "Uchiha Clan Occupation, Affinity Fire. Can only be taken at 1st level; may not be chosen if the user has already selected the Advanced Bloodline feat.",
+    "benefit": "Those that simply carry the Uchiha bloodline trait have found greater proficiency with Doujutsu techniques. The skill threshold of techniques with the Doujutsu descriptor are decreased by 2 and the DCs of those techniques are increased by 1.",
+    "special": ""
+  },
+  {
+    "name": "Sharp-Eyed",
+    "prerequisite": "",
+    "benefit": "You get a +2 bonus on all Search checks and Sense Motive checks.",
+    "special": ""
+  },
+  {
+    "name": "Shifting Fist",
+    "prerequisite": "Brawl, Improved Brawl.",
+    "benefit": "As a swift action, you can opt for your unarmed strikes to deal your choice of bludgeoning, piercing, or slashing damage. Once you make this choice, your unarmed strikes continue to deal the chosen damage type until you use another swift action to change it.",
+    "special": ""
+  },
+  {
+    "name": "Side Kick",
+    "prerequisite": "6th level.",
+    "benefit": "Using your Leadership score, you receive a single higher-level NPC sidekick rather than a group of low-level NPCs. Your sidekick must always be at least one level lower than you are. It takes about three months to recruit a new sidekick if the old one dies or leaves.",
+    "special": ""
+  },
+  {
+    "name": "Signature Weapon",
+    "prerequisite": "Weapon Focus, Weapon Specialization.",
+    "benefit": "Choose a specific model of weapon. When you're wielding that weapon, you gain a +2 bonus to attack and a +1 bonus to damage. This stacks with Weapon Focus and Weapon Specialization for the same weapon.",
+    "special": ""
+  },
+  {
+    "name": "Silent Running",
+    "prerequisite": "Character level 6th, Dexterity 12, Move Silently 10 ranks, Hide 10 ranks, Stealthy.",
+    "benefit": "You suffer no penalty for moving at your base speed when making Move Silently skill checks. In addition, you suffer only a -10 penalty for running or charging when making Move Silently skill checks.",
+    "special": ""
+  },
+  {
+    "name": "Skill Emphasis",
+    "prerequisite": "",
+    "benefit": "You get a +3 bonus on all skill checks with the chosen skill.",
+    "special": "You can gain this feat multiple times. Its effects do not stack. Each time you take this feat, it applies to a different skill."
+  },
+  {
+    "name": "Skip Shot",
+    "prerequisite": "Precise Shot, Precise Shot.",
+    "benefit": "If you have a solid, relatively smooth surface on which to skip a one-handed projectile (kunai, senbon, shuriken) and a target within 10 ft. of that surface, you may ignore cover between you and the target. However, you suffer a -2 penalty to your attack, and your attack deals -1 die of damage. Each ricochet takes another -2 to the attack roll and halves the damage again.",
+    "special": ""
+  },
+  {
+    "name": "Smart Combatant",
+    "prerequisite": "Int 16, Dex 16, base attack bonus +6.",
+    "benefit": "The character with this feat may use his Int bonus rather than Str bonus for a melee attack and their Dex bonus in their damage step of an unarmed attack.",
+    "special": "If taken a second time, the effect applies to all melee attacks."
+  },
+  {
+    "name": "Smart Defense",
+    "prerequisite": "Intelligence 18, Dexterity 16.",
+    "benefit": "Add half your Intelligence modifier (rounded down) to your Defense.",
+    "special": ""
+  },
+  {
+    "name": "Smart Plus",
+    "prerequisite": "",
+    "benefit": "You gain two talents from the Smart hero's talent trees. The talents must be selected from the following list, and you must meet all prerequisites: Savant, Linguist, Exploit Weakness, Plan, Trick.",
+    "special": "You may select this feat multiple times. Each time you select this feat, you must choose a different pair of talents. The Savant talent can be selected multiple times, but must apply to a different skill each time."
+  },
+  {
+    "name": "Speed Over Power",
+    "prerequisite": "Taijutsu Adept.",
+    "benefit": "The character may use his or her Dexterity modifier instead of the Strength modifier when performing Taijutsu techniques. This change affects attack rolls, perform checks and identify checks but not the damage dealt by Taijutsu techniques.",
+    "special": ""
+  },
+  {
+    "name": "Stance Specialization",
+    "prerequisite": "Technique Focus in a Taijutsu Stance technique, 5th step of mastery in the same technique.",
+    "benefit": "While in the chosen stance, the character gains either a +2 competence bonus to melee damage rolls or a +2 insight bonus to attack rolls. This bonus can be switched once per round as a free action.",
+    "special": ""
+  },
+  {
+    "name": "Steely Gaze",
+    "prerequisite": "",
+    "benefit": "You get a +2 bonus on Intimidate checks, and you can Intimidate as a move-equivalent action.",
+    "special": ""
+  },
+  {
+    "name": "Strong Plus",
+    "prerequisite": "",
+    "benefit": "You gain two talents from the Strong hero's talent trees. The talents must be selected from the following list, and you must meet all prerequisites: Improved Extreme Effort, Advanced Extreme Effort, Improved Ignore Hardness, Advanced Ignore Hardness, Improved Melee Smash, Advanced Melee Smash.",
+    "special": "You may select this feat multiple times. Each time you select this feat, you must choose a different pair of talents."
+  },
+  {
+    "name": "Supernatural Strike",
+    "prerequisite": "Base attack bonus +2.",
+    "benefit": "When you roll a threat against a creature normally unaffected by critical hits (such as a construct, ooze, or undead), you may check for a critical hit and deal the increased damage if the threat is confirmed. This is a supernatural ability.",
+    "special": ""
+  },
+  {
+    "name": "Throw Anything",
+    "prerequisite": "Dex 15, base attack bonus +2.",
+    "benefit": "You can throw a melee weapon you are proficient with as if it were a ranged weapon. The range increment of weapons used in conjunction with this feat is 10 feet.",
+    "special": ""
+  },
+  {
+    "name": "Tough Plus",
+    "prerequisite": "",
+    "benefit": "You gain two talents from the Tough hero's talent trees. The talents must be selected from the following list, and you must meet all prerequisites: Damage Reduction 2/—, Damage Reduction 3/—, Energy Resistance (choose one energy type), Remain Conscious, Second Wind, Stamina.",
+    "special": "You may select this feat multiple times. Each time you select this feat, you must choose a different pair of talents."
+  },
+  {
+    "name": "True Origin [Heritage]",
+    "prerequisite": "Intimidate 4 ranks, Constitution 15. Can only be taken at 1st level; may not be chosen if the user has already selected the Advanced Bloodline feat.",
+    "benefit": "The user gains an inherent +4 bonus to their Chakra Pool. The character can manifest the Cursed Seal Level 1 ability for 1 round per level each day. After 10th level, the character can access the Cursed Seal Level 2 ability for 1 round per 3 levels each day. Each time the user activates either ability, they must succeed on a Will Save DC 15 or be enthralled by an unshakeable Rage for the duration. The user suffers 1 point of temporary Wisdom damage whenever they deactivate either ability.",
+    "special": ""
+  },
+  {
+    "name": "Ultra-Immune System",
+    "prerequisite": "Constitution 13.",
+    "benefit": "You gain a +2 bonus on Fortitude saving throws to resist poisons, diseases, and radiation sickness. Furthermore, any permanent ability drain inflicted upon you is treated as temporary ability damage instead.",
+    "special": ""
+  },
+  {
+    "name": "Vile Leadership",
+    "prerequisite": "Character level 7th.",
+    "benefit": "You can attract a loyal cohort and a number of cowed followers to assist you. This feat is similar to Leadership, except Vile Leadership rewards rather than hinders leaders who have cruel reputations or who cause the deaths of their followers. In order to benefit from this feat, you must belong to one of the evil organizations and be in good standing with that organization. Your Vile Leadership score is determined by your character level, Reputation, and Charisma modifier, adjusted by various table factors.",
+    "special": ""
+  },
+  {
+    "name": "Windup",
+    "prerequisite": "Str 13.",
+    "benefit": "On your action, before making your attack rolls for the round, you may choose to subtract a number from all attack rolls for thrown weapons and add the same number to all damage rolls for those weapons. This number may not exceed your base attack bonus. The penalty on attacks and bonus damage apply until your next action.",
+    "special": ""
+  }
+]

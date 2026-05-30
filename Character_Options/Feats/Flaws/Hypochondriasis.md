@@ -1,0 +1,3 @@
+You are constantly worried of becoming sick and every bodily function is heavily scrutinized. 
+
+Effect: In any stressful situation where you can otherwise not take 10, you take a -2 penalty on all Strength -based sk ill checks. When running, you decrease your speed by one multiple lower than normal (three times, or two times when in heavy armor). Furthermore, you heal naturally half as much as normal characters and automatically suffer the longest duration on the following conditions: exhaustion, fatigue, nausea, paralysis, shaken, stunned and sleep effects. 

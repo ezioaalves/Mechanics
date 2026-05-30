@@ -1,0 +1,104 @@
+[
+  {
+    "name": "ADVANCED TWO-WEAPON DEFENSE",
+    "prerequisite": "Improved Two-Weapon Defense, TwoWeapon Defense, Two-Weapon Fighting.",
+    "benefit": "As Two-Weapon Defense, but the bonus increases to +3, or +6 when fighting defensively or using the total defense action.",
+    "special": ""
+  },
+  {
+    "name": "IMPROVED POWER ATTACK",
+    "prerequisite": "Str 17, [Universal: Risky Strike], base attack bonus +6",
+    "benefit": "When using [Universal: Risky Strike], increase the bonus damage by 50% (rounded down) when wielding a weapon with one hand, or by 100% when wielding a weapon with both hands.",
+    "special": ""
+  },
+  {
+    "name": "IMPROVED TWO-WEAPON DEFENSE",
+    "prerequisite": "Two-Weapon Defense, Two-Weapon Fighting.",
+    "benefit": "As Two-Weapon Defense, but the bonus increases to +2, or +4 when fighting defensively or using the total defense action.",
+    "special": ""
+  },
+  {
+    "name": "KUSARI-GAMA STYLE",
+    "prerequisite": "Int 13, [Universal: Defensive Stance], proficiency with the kusari-gama.",
+    "benefit": "You may wield the kusari-gama as a twohanded weapon, allowing you to attack with either end (though not both) with a reach of 10 ft. Unlike normal reach weapons, you do not threaten a larger area, and can still attack adjacent opponents. The chain end can be used to trip or disarm opponents within reach. If the attempt fails and the opponent would trip or disarm you, you may drop the kusari-gama to avoid it.\n\nIn addition, while using the [Universal: Defensive Stance] feat, if you exchange 2 or more points, the bonus to Defense increases by 1. If you exchange 4 or more points, the penalty to attack is reduced by 1.\n\nInt 13\n\nYou can retrain weapon-specific feats and abilities",
+    "special": ""
+  },
+  {
+    "name": "MELEE MASTERY",
+    "prerequisite": "Weapon Focus, Weapon Specialization, base attack bonus +11.",
+    "benefit": "Choose a damage type (bludgeoning, piercing or slashing) of a melee weapon for which you have the Weapon Focus and Weapon Specialization feats/abilities. When using a melee weapon that inflicts the chosen damage type, gain a +1 bonus to attack and damage rolls.",
+    "special": "You may select this feat multiple times, applying it to a different (eligible) damage type each time."
+  },
+  {
+    "name": "MONKEY GRIP",
+    "prerequisite": "Str 13, base attack bonus +1.",
+    "benefit": "You can wield one-handed and two-handed weapons one size larger than you as a one-handed or two-handed weapon (respectively), though you still suffer the -2 penalty for wielding a weapon one size too large. In addition, you can perform techniques with a half seal component or cast spells with somatic components while wielding a two-handed weapon, as you temporarily free one of your hands.",
+    "special": ""
+  },
+  {
+    "name": "NIN WEAPONS PROFICIENCY",
+    "prerequisite": "",
+    "benefit": "You gain proficiency in all weapons from the Nin Weapons group.",
+    "special": ""
+  },
+  {
+    "name": "OVERSIZED TWO-WEAPON FIGHTING",
+    "prerequisite": "Str 13, Two-Weapon Fighting.",
+    "benefit": "You may treat one-handed weapons in your off hand as light weapons when two-weapon fighting.",
+    "special": ""
+  },
+  {
+    "name": "OVERSIZED WEAPONS MASTERY",
+    "prerequisite": "Str 15, Monkey Grip, Oversized Weapons Proficiency, base attack bonus +11.",
+    "benefit": "You can wield oversized weapons as though they were their normal size. In addition, you can treat one-handed weapons as light weapons, and will not suffer a penalty if the weapon was not specifically made for a creature of your size.",
+    "special": ""
+  },
+  {
+    "name": "OVERSIZED WEAPONS PROFICIENCY",
+    "prerequisite": "Str 13, Monkey Grip, base attack bonus +1.",
+    "benefit": "You no longer suffer the -4 nonproficiency penalty when wielding oversized weapons.",
+    "special": ""
+  },
+  {
+    "name": "POWER CRITICAL",
+    "prerequisite": "Base attack bonus +4, Weapon Focus.",
+    "benefit": "Choose a weapon for which you have Weapon Focus. Gain a +4 bonus to attack rolls to confirm critical hits with that weapon.",
+    "special": "You may select this feat more than once, either for the same weapon or a different one."
+  },
+  {
+    "name": "RANGED MASTERY",
+    "prerequisite": "Weapon Focus, Weapon Specialization, base attack bonus +11.",
+    "benefit": "Choose a damage type (ballistic, bludgeoning, piercing or slashing) of a ranged weapon for which you have the Weapon Focus and Weapon Specialization feats/abilities. When using any ranged weapon that inflicts the chosen damage type, gain a +1 bonus to attack and damage rolls.",
+    "special": "You may select this feat multiple times, applying it to a different eligible damage type each time."
+  },
+  {
+    "name": "RAPID SHOT",
+    "prerequisite": "Dex 13, Precise Shot.",
+    "benefit": "When making a Full Attack with a bow or thrown weapon, you may make an additional attack at your highest attack bonus. All attacks you make during the action take a -2 penalty. Does not stack with other abilities that grant an extra attack (such as the Renzuki technique or the Storm of Blows class ability).",
+    "special": ""
+  },
+  {
+    "name": "SUPERIOR COMBAT MARTIAL ARTS",
+    "prerequisite": "Combat Martial Arts, base attack bonus +3",
+    "benefit": "Your unarmed attacks deal 1d6 damage, increasing to 1d8 at level 9 and 1d10 at level 17 (based on a Medium-sized creature). If you have the Feral Combat, Living Weapon, Sacred Fist Stance or Unarmed Strike class ability, you count as four class levels higher to determine the bonus it grants you.",
+    "special": ""
+  },
+  {
+    "name": "TACTICAL IMPLEMENTS",
+    "prerequisite": "Weapon Focus.",
+    "benefit": "Choose a weapon for which you have the Weapon Focus ability. For any Strike technique with the Armed descriptor that requires that weapon as a Material Focus, you may substitute for it any other weapon (including improvised ones) of a similar shape and size.",
+    "special": ""
+  },
+  {
+    "name": "TWO-WEAPON DEFENSE",
+    "prerequisite": "Two-Weapon Fighting.",
+    "benefit": "While wielding a weapon in both hands (not counting unarmed attacks), you gain a +1 shield bonus to Defense, which increases to +2 while fighting defensively or taking a total defense action.",
+    "special": ""
+  },
+  {
+    "name": "WEAPON ADAPTATION TRAINING",
+    "prerequisite": "Int 13.",
+    "benefit": "You may attempt to retrain a single weaponspecific feat or ability to have it apply to a different weapon you are proficient with.\n\nDoing so requires you to succeed at an Intelligence check (DC 10), for which you cannot take 10. You may make as many attempts as you need, but each attempt takes 4 hours.\n\nIf after retraining an ability, you lack any prerequisites it might have, it becomes unusable until you gain the required abilities. Similarly, if you retrain an ability that is required for other abilities you know, those abilities become unusable until you either retrain them to the new weapon type, or learn the required ability again.\n\nYou can only retrain abilities that offer a choice of weapon type when they are learned.",
+    "special": ""
+  }
+]

@@ -1,0 +1,3 @@
+You are easily manipulated by people you are attracted to. 
+
+Effect: Choose a sex. Creatures of the chosen sex of the same creature type (or similar type) as you may make a Charisma check (DC 10 + your own Charisma modifier) in social situations against you. If successful, you are considered charmed by that creature for as long as you remain in communication with it and 10 minutes thereafter. The charm effect break as normal if the creature attempt to make you do suicidal actions or attempt to harm you and your allies. In combat, you take a -1 penalty on attack roll and AC a gainst creatures of the chosen sex. 

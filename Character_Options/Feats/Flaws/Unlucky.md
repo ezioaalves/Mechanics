@@ -1,0 +1,3 @@
+You seem to always fall short at the worst possible moment, right when it matters most. 
+
+Effect: You can never benefit from a luck bonus. In addition, whenever a roll is made on a table for a result that would affect only you and is a subject of unforeseen circumstance (not direct actions, such as attacks or leaping over a hole), two rolls are made and the least desirable outcome is chosen. Examples mig ht include finding treasure or triggering a single -use trap; but not for wandering monsters or other events that would certainly impact the whole party, and not for attacks made on your person or saving throws to resist effects, or skill checks made with knowledge of potential danger. 

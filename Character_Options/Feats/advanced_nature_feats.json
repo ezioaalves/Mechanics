@@ -1,0 +1,14 @@
+[
+  {
+    "name": "MOKUTON",
+    "prerequisite": "Primary Elemental Affinity (Earth or Water), can only be taken at 1st level, heroic character.",
+    "benefit": "When gaining a secondary elemental affinity to earth or water (whichever you didn't select as your primary elemental affinity), you also gain a Mokuton affinity.",
+    "special": ""
+  },
+  {
+    "name": "HYOUTON",
+    "prerequisite": "Primary elemental affinity (water or wind), can only be taken at 1st level, heroic character.",
+    "benefit": "You gain an elemental affinity to Ice as well as Water or Wind (whichever you didn't select as your primary elemental affinity). Your Ice affinity may replace your primary elemental affinity, which is then downgraded to a normal affinity.\n\nYou do not gain elemental affinities from levels.",
+    "special": ""
+  }
+]

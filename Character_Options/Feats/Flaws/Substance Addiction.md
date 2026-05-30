@@ -1,0 +1,3 @@
+You are physically or mentally dependent on some kind of addictive substance. 
+
+Effect: You are addicted to a substance which, if not indulged in regularly, prevents you from functioning properly on a day -to -day basis. Consult with your DM to determine what the specific substance is, but it should be eith er rare or illegal. As your level increases, so does your dependency on the substance and the amount you need to consume. You need to consume 50 ryo x Character Level (or a predetermined amount determined by your DM) worth of the substance daily. If you do not get your daily fix, you are shaken. After two days without your fix, you are both shaken and fatigued. 

@@ -1,0 +1,9 @@
+# Frightful Presence
+
+Your mere presence can terrify those around you.
+
+**Prerequisite**: Charisma 15,, Intimidate 9 ranks.
+
+**Benefit**: When the character uses this feat, all opponents within 10 feet who have fewer levels than the character must make a Will saving throw (DC 10 + 1/2 the character's level + the character's Charisma modifier). An opponent who fails his or her save is shaken, taking a -2 penalty on attack rolls, saves, and skill checks for a number of rounds equal to 1d6 + the character's Charisma modifier. The character can use the feat once per round as a free action. A successful save indicates that the opponent is immune to the character's use of this feat for 24 hours. This feat does not affect creatures with an Intelligence of 3 or lower.
+
+**Special**: If the character has the Renown feat, the Will saving throw's DC increases by 5.

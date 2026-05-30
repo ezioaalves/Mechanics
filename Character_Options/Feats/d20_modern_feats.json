@@ -1,0 +1,818 @@
+[
+  {
+    "name": "Acrobatic",
+    "prerequisite": "",
+    "benefit": "The character gets a +2 bonus on all Jump checks and Tumble checks.",
+    "special": "Remember that the Tumble skill can't be used untrained."
+  },
+  {
+    "name": "Action Boost",
+    "prerequisite": "",
+    "benefit": "When you spend an action point, you roll d8s instead of d6s for the action result.",
+    "special": ""
+  },
+  {
+    "name": "Alertness",
+    "prerequisite": "",
+    "benefit": "The character gets a +2 bonus on all Listen checks and Spot checks.",
+    "special": ""
+  },
+  {
+    "name": "Alien Weapons Proficiency",
+    "prerequisite": "",
+    "benefit": "Creatures with this feat take no penalty on attack rolls when using any kind of alien weapon.",
+    "special": "A creature without this feat takes a -4 nonproficient penalty when making attacks with an alien weapon."
+  },
+  {
+    "name": "Aircraft Operation",
+    "prerequisite": "Pilot 4 ranks.",
+    "benefit": "The character takes no penalty on Pilot checks or attack rolls made when operating an aircraft of the selected class (heavy aircraft, helicopters, jet fighters, or spacecraft).",
+    "special": "The character can gain this feat multiple times. Each time the character takes the feat, the character selects a different class of aircraft."
+  },
+  {
+    "name": "Animal Affinity",
+    "prerequisite": "",
+    "benefit": "The character gets a +2 bonus on all Handle Animal checks and Ride checks.",
+    "special": "Remember that the Handle Animal skill can't be used untrained."
+  },
+  {
+    "name": "Archaic Weapons Proficiency",
+    "prerequisite": "",
+    "benefit": "The character takes no penalty on attack rolls when using any kind of archaic weapon.",
+    "special": ""
+  },
+  {
+    "name": "Armor Proficiency (Light)",
+    "prerequisite": "",
+    "benefit": "When the character wears a type of armor with which the character is proficient, the character gets to add the armor's equipment bonus to his or her Defense. Also, the armor check penalty only applies to the following skills: Balance, Climb, Escape Artist, Hide, Jump, Move Silently, and Tumble.",
+    "special": ""
+  },
+  {
+    "name": "Armor Proficiency (Medium)",
+    "prerequisite": "Armor Proficiency (Light).",
+    "benefit": "When the character wears a type of armor with which the character is proficient, the character gets to add the armor's equipment bonus to his or her Defense. Also, the armor check penalty only applies to the following skills: Balance, Climb, Escape Artist, Hide, Jump, Move Silently, and Tumble.",
+    "special": ""
+  },
+  {
+    "name": "Armor Proficiency (Heavy)",
+    "prerequisite": "Armor Proficiency (Light), Armor Proficiency (Medium).",
+    "benefit": "When the character wears a type of armor with which the character is proficient, the character gets to add the armor's equipment bonus to his or her Defense. Also, the armor check penalty only applies to the following skills: Balance, Climb, Escape Artist, Hide, Jump, Move Silently, and Tumble.",
+    "special": ""
+  },
+  {
+    "name": "Armor Proficiency (Powered)",
+    "prerequisite": "Armor Proficiency (Light), Armor Proficiency (Medium).",
+    "benefit": "When you wear powered armor, you may add the armor's entire equipment bonus to your Defense.",
+    "special": "A Soldier may select this feat as one of his bonus feats."
+  },
+  {
+    "name": "Athletic",
+    "prerequisite": "",
+    "benefit": "The character gets a +2 bonus on all Climb checks and Swim checks.",
+    "special": ""
+  },
+  {
+    "name": "Attentive",
+    "prerequisite": "",
+    "benefit": "The character gets a +2 bonus on all Investigate checks and Sense Motive checks.",
+    "special": "Remember that the Investigate skill can't be used untrained."
+  },
+  {
+    "name": "Blind-Fight",
+    "prerequisite": "",
+    "benefit": "In melee combat, every time the character misses because of concealment, the character can reroll the miss chance roll one time to see if the character actually hits.\n\nThe character takes only half the usual penalty to speed for being unable to see. Darkness and poor visibility in general reduces the character's speed to three-quarters of normal.",
+    "special": ""
+  },
+  {
+    "name": "Brawl",
+    "prerequisite": "",
+    "benefit": "When making an unarmed attack, the character receives a +1 competence bonus on attack rolls, and the character deals nonlethal damage equal to 1d6 + his or her Strength modifier.",
+    "special": ""
+  },
+  {
+    "name": "Improved Brawl",
+    "prerequisite": "Base attack bonus 3, Brawl.",
+    "benefit": "When making an unarmed attack, the character receives a +2 competence bonus on his or her attack roll, and the character deals nonlethal damage equal to 1d8 + the character's Strength modifier.",
+    "special": ""
+  },
+  {
+    "name": "Knockout Punch",
+    "prerequisite": "Base attack bonus 3, Brawl.",
+    "benefit": "When making the character's first unarmed attack against a flat-footed opponent, treat a successful attack as a critical hit. This damage is nonlethal damage.",
+    "special": "Even if the character has the ability to treat unarmed damage as lethal damage, the damage from a knockout punch is always nonlethal."
+  },
+  {
+    "name": "Improved Knockout Punch",
+    "prerequisite": "Base attack bonus 6, Brawl, Knockout Punch.",
+    "benefit": "When making the character's first unarmed attack against a flat-footed opponent, treat a successful attack as a critical hit. This critical hit deals triple damage. The damage is nonlethal damage.",
+    "special": "Even if the character has the ability to treat unarmed damage as lethal damage, the damage from a knockout punch is always nonlethal."
+  },
+  {
+    "name": "Streetfighting",
+    "prerequisite": "Base attack bonus 2, Brawl.",
+    "benefit": "Once per round, if the character makes a successful melee attack with an unarmed strike or a light weapon, the character deals an extra 1d4 points of damage.",
+    "special": ""
+  },
+  {
+    "name": "Deft Maneuvers",
+    "prerequisite": "Intelligence 13, Brawl, Streetfighting.",
+    "benefit": "The character can make a Bluff check in combat as a move action. The character receives a +2 bonus on Bluff checks made to feint in melee combat.",
+    "special": ""
+  },
+  {
+    "name": "Builder",
+    "prerequisite": "",
+    "benefit": "Pick two of the following skills: Craft (chemical), Craft (electronic), Craft (mechanical), and Craft (structural). The character gets a +2 bonus on all checks with those skills.",
+    "special": "The character can select this feat twice. The second time, the character applies it to the two skills he or she didn't pick originally. Remember that Craft (chemical), Craft (electronic), and Craft (mechanical) cannot be used untrained."
+  },
+  {
+    "name": "Cautious",
+    "prerequisite": "",
+    "benefit": "The character gets a +2 bonus on all Demolitions checks and Disable Device checks.",
+    "special": "Remember that the Demolitions skill and the Disable Device skill can't be used untrained."
+  },
+  {
+    "name": "[Universal: Defensive Stance]",
+    "prerequisite": "Intelligence 13.",
+    "benefit": "When the character uses the attack action or the full attack action in melee, the character can take a penalty of up to -5 on his or her attack roll and add the same number (up to +5) to the character's Defense. This number may not exceed the character's Base Attack Bonus. The bonus to the character's Defense is a dodge bonus.",
+    "special": ""
+  },
+  {
+    "name": "Deft Maneuvers",
+    "prerequisite": "Intelligence 13, [Universal: Defensive Stance].",
+    "benefit": "The character does not provoke an Attack of Opportunity when the character attempts to disarm an opponent, nor does the opponent get a chance to disarm the character.",
+    "special": ""
+  },
+  {
+    "name": "Deft Maneuvers",
+    "prerequisite": "Intelligence 13, [Universal: Defensive Stance].",
+    "benefit": "The character does not provoke an attack of opportunity when the character tries to trip an opponent while the character is unarmed. If the character trips an opponent in melee combat, the character immediately gets to make a melee attack against that opponent as if the character had not used his or her attack action for the trip attempt.",
+    "special": ""
+  },
+  {
+    "name": "Combat Martial Arts",
+    "prerequisite": "Base attack bonus 1.",
+    "benefit": "With an unarmed strike, the character deals lethal or nonlethal damage (the character's choice) equal to 1d4 + the character's Strength modifier. The character's unarmed attacks count as armed, which means that opponents do not get Attacks of Opportunity when the character attacks them unarmed. The character may make attacks of opportunity against opponents who provoke such attacks.",
+    "special": ""
+  },
+  {
+    "name": "Improved Combat Martial Arts",
+    "prerequisite": "Base attack bonus 4, Combat Martial Arts.",
+    "benefit": "The character's threat range on an unarmed strike improves to 19-20.",
+    "special": ""
+  },
+  {
+    "name": "Advanced Combat Martial Arts",
+    "prerequisite": "Base attack bonus 8, Combat Martial Arts, Improved Combat Martial Arts.",
+    "benefit": "When the character scores a critical hit on an opponent with an unarmed strike, the character deals triple damage.",
+    "special": ""
+  },
+  {
+    "name": "Nerve Pinch",
+    "prerequisite": "Base attack bonus 4, Combat Martial Arts.",
+    "benefit": "You make an unarmed attack against a living creature. If the attack succeeds, the target takes no damage but must succeed on a Fortitude save (DC 10 + one-half your character level + your Strength modifier) or be paralyzed for 1d4+1 rounds. If the target's attack of opportunity hits you and deals damage, the nerve pinch automatically fails.",
+    "special": "This ability does not work on creatures without nervous systems or discernible anatomies, such as oozes and plants."
+  },
+  {
+    "name": "Charismatic Plus",
+    "prerequisite": "At least three ranks in the Charismatic Hero class.",
+    "benefit": "Character gains two talents from the Charismatic hero's talent trees. The talents must be selected from the following list, and the character must meet all prerequisites:\n\nCharm Talent Tree: Favor or Captivate.\nFast-Talk Talent Tree: Dazzle or Taunt.\nLeadership Talent Tree: Inspiration or Greater Inspiration.",
+    "special": "This feat may be selected multiple times. Each time it is selected, a different pair of talents must be chosen than the previous times."
+  },
+  {
+    "name": "Combat Reflexes",
+    "prerequisite": "",
+    "benefit": "The maximum number of Attacks of Opportunity the character may make each round is equal to the character's Dexterity modifier + 1. The character can still only make one attack of opportunity on a single opponent. With this feat, the character may also make attacks of opportunity when flat-footed.",
+    "special": "The Combat Reflexes feat doesn't allow a Fast Hero with the opportunist talent to use that talent more than once per round."
+  },
+  {
+    "name": "Confident",
+    "prerequisite": "",
+    "benefit": "The character gets a +2 bonus on all Gamble checks and Intimidate checks, and on level checks to resist intimidation.",
+    "special": ""
+  },
+  {
+    "name": "Craft Cybernetics",
+    "prerequisite": "Craft (mechanical) 10 ranks, Craft (electrical) 10 ranks, Knowledge (technology) 5 ranks.",
+    "benefit": "The character can build cybernetic attachments. They must first make a Wealth check against the purchase DC of the attachment, then invest 24 hours in its construction. At the end of that time, they must succeed at a Craft (mechanical) check (DC 30) and a Craft (electrical) check (DC 30). If both checks succeed, the attachment can be installed at any time. If either check fails, another 24 hours must be spent fixing the problems.",
+    "special": "This feat does not allow a cybernetic attachment of a higher Progress Level to be built."
+  },
+  {
+    "name": "Creative",
+    "prerequisite": "",
+    "benefit": "Pick two Perform or Craft (visual art/writing) skills. The character gets a +2 bonus on all checks with those two skills.",
+    "special": "A character can select this feat as many as five times. Each time, the character selects two new skills from the available list."
+  },
+  {
+    "name": "Cybertaker",
+    "prerequisite": "",
+    "benefit": "The maximum number of cybernetic attachments the creature can have without suffering negative levels increases by 1.",
+    "special": "This feat may be selected multiple times. Its effects stack."
+  },
+  {
+    "name": "Deceptive",
+    "prerequisite": "",
+    "benefit": "The character gets a +2 bonus on all Bluff checks and Disguise checks.",
+    "special": ""
+  },
+  {
+    "name": "Dedicated Plus",
+    "prerequisite": "At least three levels in the Dedicated Hero class.",
+    "benefit": "Character gains two talents from the Dedicated hero's talent trees. The talents must be selected from the following list, and the character must meet all prerequisites:\n\nEmpathic Talent Tree: Improved Aid Another or Intuition.\nHealing Talent Tree: Healing Touch 1 or Healing Touch 2.\nInsightful Talent Tree: Aware, Faith, or Cool Under Pressure.",
+    "special": "This feat may be selected multiple times. Each time it is selected, a different pair of talents must be chosen than the previous times."
+  },
+  {
+    "name": "Defensive Martial Arts",
+    "prerequisite": "",
+    "benefit": "The character gains a +1 dodge bonus to Defense against melee attacks.",
+    "special": ""
+  },
+  {
+    "name": "Combat Throw",
+    "prerequisite": "Defensive Martial Arts.",
+    "benefit": "The character gains a +2 bonus on opposed Strength and Dexterity checks any time the character attempts trip or grapple attacks, or when the character tries to avoid a trip or grapple attack made against him.",
+    "special": ""
+  },
+  {
+    "name": "Improved Combat Throw",
+    "prerequisite": "Base attack bonus 3, Defensive Martial Arts, Combat Throw.",
+    "benefit": "In melee combat, if an opponent attacks and misses you, you may immediately make a trip attack against the opponent. This counts as an attack of opportunity which the character can make even if they are unarmed.",
+    "special": "This feat doesn't grant the character more attacks of opportunity than he is normally allowed in a round."
+  },
+  {
+    "name": "Elusive Target",
+    "prerequisite": "Dexterity 13, Defensive Martial Arts.",
+    "benefit": "When fighting an opponent or multiple opponents in melee, other opponents attempting to target the character with ranged attacks take a -4 penalty. This penalty is in addition to the normal -4 penalty for firing into melee, making the total penalty to target the character -8.",
+    "special": "An opponent with the Precise Shot feat has the penalty lessened to -4 when targeting the character."
+  },
+  {
+    "name": "Unbalance Opponent",
+    "prerequisite": "Base attack bonus 6, Defensive Martial Arts.",
+    "benefit": "During the character's action, the character designates an opponent no more than one size category larger or smaller than the character. That opponent doesn't get to add his or her Strength modifier to attack rolls when targeting the character. The character can select a new opponent on any action.",
+    "special": ""
+  },
+  {
+    "name": "Dodge",
+    "prerequisite": "Dexterity 13.",
+    "benefit": "During the character's action, the character designates an opponent and receives a +1 dodge bonus to Defense against any subsequent attacks from that opponent. The character can select a new opponent on any action.",
+    "special": ""
+  },
+  {
+    "name": "Agile Riposte",
+    "prerequisite": "Base attack bonus 11, Dexterity 13, Dodge.",
+    "benefit": "Once per round, if the opponent the character has designated as his or her dodge target makes a melee attack or melee touch attack against the character and misses, the character may make an attack of opportunity against that opponent. Resolve and apply the effects from both attacks simultaneously.",
+    "special": "Even a character with the Combat Reflexes feat can't use the Agile Riposte feat more than once per round. This feat does not grant more attacks of opportunity than the character is normally allowed in a round."
+  },
+  {
+    "name": "Dodge",
+    "prerequisite": "Dexterity 13, Dodge.",
+    "benefit": "The character gets a +4 dodge bonus to Defense against attacks of opportunity provoked when the character moves out of a threatened square.",
+    "special": ""
+  },
+  {
+    "name": "Spring Attack",
+    "prerequisite": "Base attack bonus 4, Dexterity 13, Dodge, Dodge.",
+    "benefit": "When using an attack action with a melee weapon, the character can move both before and after the attack, provided that the total distance moved is not greater than the character's speed. Moving in this way does not provoke an attack of opportunity from the defender the character is attacking. A character can't use this feat if he or she is carrying a heavy load or wearing heavy armor.",
+    "special": ""
+  },
+  {
+    "name": "Whirlwind Attack",
+    "prerequisite": "Base attack bonus 4, Dexterity 13, Intelligence 13, Dodge, Dodge, Spring Attack, [Universal: Defensive Stance].",
+    "benefit": "When the character performs a full-round action, the character can give up his or her regular attacks and instead make one melee attack at the character's highest base attack bonus against each adjacent opponent.",
+    "special": ""
+  },
+  {
+    "name": "Drive-By Attack",
+    "prerequisite": "",
+    "benefit": "The character takes no vehicle speed penalty when making an attack while in a moving vehicle. Also, if the character is the driver, he or she can take his or her attack action to make an attack at any point along the vehicle's movement.",
+    "special": ""
+  },
+  {
+    "name": "Educated",
+    "prerequisite": "",
+    "benefit": "Pick two Knowledge skills. The character gets a +2 bonus on all checks with those skills.",
+    "special": "A character can select this feat as many as seven times. Each time, the character selects two new Knowledge skills."
+  },
+  {
+    "name": "Endurance",
+    "prerequisite": "",
+    "benefit": "The character gains a +4 bonus on the following checks and saves: hourly Swim checks to avoid becoming fatigued, Constitution checks to continue running, Constitution checks to hold the character's breath, Constitution checks to avoid damage from starvation or thirst, Fortitude saves to avoid damage from hot or cold environments, and Fortitude saves to resist suffocation or drowning. Also, the character may sleep in medium or light armor without becoming Fatigued.",
+    "special": ""
+  },
+  {
+    "name": "Exotic Melee Weapons Proficiency",
+    "prerequisite": "Base attack bonus 1.",
+    "benefit": "The character makes attack rolls with the chosen exotic melee weapon normally.",
+    "special": "A character can gain this feat multiple times. Each time the character takes the feat, he or she selects a different exotic melee weapon."
+  },
+  {
+    "name": "Far Shot",
+    "prerequisite": "",
+    "benefit": "When the character uses a firearm or archaic ranged weapon, its range increment increases by one-half (multiply by 1.5). When the character throws a weapon, its range increment is doubled.",
+    "special": ""
+  },
+  {
+    "name": "[Universal: Risky Strike]",
+    "prerequisite": "Wisdom 13, Far Shot.",
+    "benefit": "Before making a ranged attack, the character may take a full-round action to line up their shot. This grants the character a +2 circumstance bonus on his or her next attack roll. Once the character begins aiming, he or she can't move, even to take a 5-foot step, until after the character makes his or her next attack, or the benefit of the feat is lost.",
+    "special": ""
+  },
+  {
+    "name": "Improved [Universal: Risky Strike]",
+    "prerequisite": "Wisdom 13, Far Shot, [Universal: Risky Strike].",
+    "benefit": "The circumstance bonus on attack rolls granted by the [Universal: Risky Strike] feat increases from +2 to +3.",
+    "special": ""
+  },
+  {
+    "name": "Fast Plus",
+    "prerequisite": "At least three ranks in the Fast Hero class.",
+    "benefit": "Character gains two talents from the Fast hero's talent trees. The talents must be selected from the following list, and the character must meet all prerequisites:\n\nDefensive Talent Tree: Uncanny Dodge 1, Uncanny Dodge 2, Defensive Roll, or Opportunist.\nIncreased Speed Talent Tree: Improved Increased Speed or Advanced Increased Speed.",
+    "special": "This feat may be selected multiple times. Each time it is selected, a different pair of talents must be chosen than the previous times."
+  },
+  {
+    "name": "Flyby Attack",
+    "prerequisite": "Fly speed.",
+    "benefit": "When flying, the creature can take a move action (including a dive) and another partial action at any point during the move. The creature cannot take a second move action during a round when it makes a flyby attack.",
+    "special": ""
+  },
+  {
+    "name": "Focused",
+    "prerequisite": "",
+    "benefit": "The character gets a +2 bonus on all Balance checks and Concentration checks.",
+    "special": ""
+  },
+  {
+    "name": "Frightful Presence",
+    "prerequisite": "Charisma 15, Intimidate 9 ranks.",
+    "benefit": "When the character uses this feat, all opponents within 10 feet who have fewer levels than the character must make a Will saving throw (DC 10 + 1/2 the character's level + the character's Charisma modifier). An opponent who fails his or her save is shaken, taking a -2 penalty on attack rolls, saves, and skill checks for a number of rounds equal to 1d6 + the character's Charisma modifier. The character can use the feat once per round as a free action. A successful save indicates that the opponent is immune to the character's use of this feat for 24 hours. This feat does not affect creatures with an Intelligence of 3 or lower.",
+    "special": "If the character has the Renown feat, the Will saving throw's DC increases by 5."
+  },
+  {
+    "name": "Gearhead",
+    "prerequisite": "",
+    "benefit": "The character gets a +2 bonus on all Computer Use checks and Repair checks.",
+    "special": ""
+  },
+  {
+    "name": "Great Fortitude",
+    "prerequisite": "",
+    "benefit": "The character gets a +2 bonus on all Fortitude saving throws.",
+    "special": ""
+  },
+  {
+    "name": "Guide",
+    "prerequisite": "",
+    "benefit": "The character gets a +2 bonus on all Navigate checks and Survival checks.",
+    "special": ""
+  },
+  {
+    "name": "Heroic Surge",
+    "prerequisite": "",
+    "benefit": "The character may take an extra move action or attack action in a round, either before or after the character's regular actions. Uses per day by character level: 1st-4th: 1/day; 5th-8th: 2/day; 9th-12th: 3/day; 13th-16th: 4/day; 17th-20th: 5/day. Never more than once per round.",
+    "special": ""
+  },
+  {
+    "name": "Hard-Eyed",
+    "prerequisite": "",
+    "benefit": "You gain a +5 circumstance bonus on Intimidate checks when aiming a firearm at the target of your check. The target must be within 30 feet, and must be able to see you (and your firearm). The target does not have to be flat-footed.",
+    "special": "This bonus does not stack with the +2 circumstance bonus for threatening the target with a gun, but it can stack with other circumstance bonuses."
+  },
+  {
+    "name": "Improved Damage Threshold",
+    "prerequisite": "",
+    "benefit": "The character increases his or her Massive Damage Threshold by 3 points.",
+    "special": ""
+  },
+  {
+    "name": "Improved Initiative",
+    "prerequisite": "",
+    "benefit": "The character gets a +4 circumstance bonus on initiative checks.",
+    "special": ""
+  },
+  {
+    "name": "Iron Will",
+    "prerequisite": "",
+    "benefit": "The character gets a +2 bonus on all Will saving throws.",
+    "special": ""
+  },
+  {
+    "name": "Jack of All Trades",
+    "prerequisite": "Character level 8th+.",
+    "benefit": "Use any skill untrained, even those that normally require training and those that are exclusive to classes this character does not have.",
+    "special": "This character still cannot gain ranks in a skill unless they are allowed to select it."
+  },
+  {
+    "name": "Lightning Reflexes",
+    "prerequisite": "",
+    "benefit": "The character gets a +2 bonus on all Reflex saving throws.",
+    "special": ""
+  },
+  {
+    "name": "Low Profile",
+    "prerequisite": "",
+    "benefit": "Reduce the character's Reputation bonus by 3 points.",
+    "special": ""
+  },
+  {
+    "name": "Mastercrafter",
+    "prerequisite": "Craft (electrical) 8 ranks, Craft (mechanical) 8 ranks.",
+    "benefit": "When successfully completed, a mastercraft electronic or mechanical object provides an equipment bonus on skill checks made to use the object. A mastercraft weapon provides a bonus on attack or damage rolls (your choice). A mastercraft suit of armor improves the armor's equipment bonus to Defense. The bonus can be +1, +2, or +3, and no single object can have more than one mastercraft feature.\n\nIt takes twice as long to build a mastercraft object. The cost to build is equal to the purchase DC of the object + the bonus provided (+1, +2, or +3). You must also pay 250 XP per point of the bonus.\n\nCraft check DC modifiers: Mastercraft (+1): +3; Mastercraft (+2): +5; Mastercraft (+3): +10.\n\nYou can add the mastercraft feature to an existing ordinary object or improve a lower-grade mastercraft object.",
+    "special": ""
+  },
+  {
+    "name": "Medical Expert",
+    "prerequisite": "",
+    "benefit": "The character gets a +2 bonus on all Craft (pharmaceutical) checks and Treat Injury checks.",
+    "special": "Remember that the Craft (pharmaceutical) skill can't be used untrained."
+  },
+  {
+    "name": "Meticulous",
+    "prerequisite": "",
+    "benefit": "The character gets a +2 bonus on all Forgery checks and Search checks.",
+    "special": ""
+  },
+  {
+    "name": "Nimble",
+    "prerequisite": "",
+    "benefit": "The character gets a +2 bonus on all Escape Artist checks and Sleight of Hand checks.",
+    "special": "Remember that the Sleight of Hand skill can't be used untrained."
+  },
+  {
+    "name": "Oathbound",
+    "prerequisite": "At least one declared allegiance.",
+    "benefit": "Choose one of your allegiances. The allegiance you select becomes your primary allegiance and cannot be broken, except by you. If your Aid Another attempt succeeds, your ally gains a +3 circumstance bonus (instead of +2) on his skill check result or attack roll. Your dedication also grants you a +1 bonus on attack rolls made against creatures that do not have this allegiance.",
+    "special": "You cannot apply the benefits of this feat to multiple allegiances. If you break your oathbound allegiance, you forever lose the benefits of this feat but may take the feat again and apply the benefits to a new allegiance."
+  },
+  {
+    "name": "Personal Firearms Proficiency",
+    "prerequisite": "",
+    "benefit": "The character can fire any personal firearm without penalty.",
+    "special": ""
+  },
+  {
+    "name": "Suppressive Fire",
+    "prerequisite": "Wisdom 13, Personal Firearms Proficiency.",
+    "benefit": "When you attack a target that is at least 30 feet away with a semiautomatic or automatic firearm, you threaten the target's square until your next action. You may make ranged attacks of opportunity into that square. Suppressive fire shoots five bullets in addition to the bullets fired in your attack and any attacks of opportunity, and can only be used if the weapon has five bullets in it.",
+    "special": ""
+  },
+  {
+    "name": "Advanced Firearms Proficiency",
+    "prerequisite": "Personal Firearms Proficiency.",
+    "benefit": "The character can fire any personal firearm on autofire without penalty (provided that it has an autofire setting).",
+    "special": ""
+  },
+  {
+    "name": "Improved Autofire",
+    "prerequisite": "",
+    "benefit": "",
+    "special": ""
+  },
+  {
+    "name": "Burst Fire",
+    "prerequisite": "Wisdom 13, Personal Firearms Proficiency, Advanced Firearms Proficiency.",
+    "benefit": "When using an automatic firearm with at least five bullets loaded, the character may fire a short burst as a single attack against a single target. The character receives a -4 penalty on the attack roll, but deals +2 dice of damage. Firing a burst expends five bullets.",
+    "special": "If the firearm has a three-round burst setting, firing a burst expends three bullets instead of five."
+  },
+  {
+    "name": "Exotic Firearms Proficiency",
+    "prerequisite": "Personal Firearms Proficiency, Advanced Firearms Proficiency.",
+    "benefit": "The character makes attack rolls with the chosen weapon group (cannons, heavy machine guns, grenade launchers, or rocket launchers) normally.",
+    "special": "A character can gain this feat as many as four times. Each time, he or she selects a different weapon group."
+  },
+  {
+    "name": "Strafe",
+    "prerequisite": "Personal Firearms Proficiency, Advanced Firearms Proficiency.",
+    "benefit": "When using a firearm on autofire, the character can affect any four squares in a straight line (an area four 5-foot squares long and one square wide).",
+    "special": ""
+  },
+  {
+    "name": "Planetary Adaptation",
+    "prerequisite": "",
+    "benefit": "You gain one of the following benefits based on your planet of origin:\n- Barren World: +4 Survival and +4 Constitution checks vs starvation/thirst.\n- Cold World: +4 Fortitude vs extreme cold, cold resistance 5.\n- Dark World: Darkvision 60 ft.\n- High-G World: +2 Strength; reduce base height by 6 inches.\n- Hot World: +4 Fortitude vs extreme heat, fire resistance 5.\n- Low-G World: +2 Dexterity; increase base height by 6 inches.\n- Water World: +4 Swim checks; hold breath for twice your Constitution score in rounds.",
+    "special": "Can only be taken at 1st level. May be selected more than once if multiple feats are gained at 1st level; each time you choose this feat, you gain a different benefit."
+  },
+  {
+    "name": "Precise Shot",
+    "prerequisite": "",
+    "benefit": "The character gets a +1 bonus on attack and damage rolls with ranged weapons against opponents within 30 feet.",
+    "special": ""
+  },
+  {
+    "name": "Double Tap",
+    "prerequisite": "Dexterity 13, Precise Shot.",
+    "benefit": "When using a semiautomatic firearm with at least two bullets loaded, the character may fire two bullets as a single attack against a single target. The character receives a -2 penalty on this attack, but deals +1 die of damage with a successful hit. Using this feat fires two bullets.",
+    "special": ""
+  },
+  {
+    "name": "Hail of Bullets",
+    "prerequisite": "Precise Shot, Double Tap.",
+    "benefit": "You can use semiautomatic firearms as if they are automatic firearms. You can make autofire attacks and use feats that require firearms with automatic settings, such as Burst Fire. You must meet all other requirements for these attacks.",
+    "special": ""
+  },
+  {
+    "name": "Precise Shot",
+    "prerequisite": "Precise Shot.",
+    "benefit": "The character can shoot or throw ranged weapons at an opponent engaged in melee without penalty.",
+    "special": ""
+  },
+  {
+    "name": "Bull's Eye",
+    "prerequisite": "",
+    "benefit": "",
+    "special": ""
+  },
+  {
+    "name": "Shot on the Run",
+    "prerequisite": "Dexterity 13, Dodge, Dodge, Precise Shot.",
+    "benefit": "When using an attack action with a ranged weapon, the character can move both before and after the attack, provided that the character's total distance moved is not greater than his or her base movement speed. Moving in this way does not provoke an attack of opportunity from the defender the character is attacking.",
+    "special": ""
+  },
+  {
+    "name": "Skip Shot",
+    "prerequisite": "Precise Shot, Precise Shot.",
+    "benefit": "If the character has a solid, relatively smooth surface on which to skip a bullet and a target within 10 feet of that surface, the character may ignore cover between the character and the target. However, the character receives a -2 penalty on his or her attack roll, and the character's attack deals -1 die of damage. The target can have no more than nine-tenths cover.",
+    "special": ""
+  },
+  {
+    "name": "[Universal: Risky Strike]",
+    "prerequisite": "Strength 13.",
+    "benefit": "On the character's action, before making attack rolls for a round, the character may choose to subtract a number from all melee attack rolls and add the same number to all melee damage rolls. This number may not exceed the character's base attack bonus. The penalty on attacks and bonus on damage applies until the character's next action.",
+    "special": ""
+  },
+  {
+    "name": "Cleave",
+    "prerequisite": "Strength 13, [Universal: Risky Strike].",
+    "benefit": "If the character deals an opponent enough damage to make the opponent drop, the character gets an immediate extra melee attack against another opponent adjacent to the character. The character can't take a 5-foot step before making this extra attack. The extra attack is with the same weapon and at the same bonus as the attack that dropped the previous opponent. The character can use this ability once per round.",
+    "special": ""
+  },
+  {
+    "name": "Great Cleave",
+    "prerequisite": "Base attack bonus 4, Strength 13, [Universal: Risky Strike], Cleave.",
+    "benefit": "As Cleave, except that the character has no limit to the number of times he or she can use it per round.",
+    "special": ""
+  },
+  {
+    "name": "Powerful Maneuvers",
+    "prerequisite": "Strength 13, [Universal: Risky Strike].",
+    "benefit": "When the character performs a bull rush, the character does not provoke an attack of opportunity from the defender.",
+    "special": ""
+  },
+  {
+    "name": "Powerful Maneuvers",
+    "prerequisite": "Strength 13, [Universal: Risky Strike].",
+    "benefit": "When the character strikes an object held or carried by an opponent, the character does not provoke an attack of opportunity. The character gains a +4 bonus on any attack roll made to attack an object held or carried by another character. The character deals double normal damage to objects, whether they are held or carried or not.",
+    "special": ""
+  },
+  {
+    "name": "Quick Draw",
+    "prerequisite": "Base attack bonus 1.",
+    "benefit": "The character can draw a weapon as a free action. A character with this feat may throw weapons at his or her full normal rate of attacks.",
+    "special": ""
+  },
+  {
+    "name": "Quick Reload",
+    "prerequisite": "Base attack bonus 1.",
+    "benefit": "Reloading a firearm with an already filled box magazine or speed loader is a free action. Reloading a revolver without a speed loader, or reloading any firearm with an internal magazine, is a move action.",
+    "special": ""
+  },
+  {
+    "name": "Reactive Shooter",
+    "prerequisite": "",
+    "benefit": "If you have a Medium-size or smaller ranged weapon in hand, you may act in the surprise round even if you are surprised. You roll initiative as though you were not surprised. The only action you may take in the surprise round is a single ranged attack with the weapon in your hand at your highest attack bonus, but you suffer a -5 penalty on the attack. You are still considered flat-footed during the surprise round.",
+    "special": ""
+  },
+  {
+    "name": "High Ready",
+    "prerequisite": "Dexterity 13, Reactive Shooter.",
+    "benefit": "You can use the Reactive Shooter feat with a Large weapon. To do so, you must first have stated that you are at the high ready position (on your feet, with your weapon shouldered, ready to fire). You can only move at half speed while prepared in this manner.",
+    "special": ""
+  },
+  {
+    "name": "Renown",
+    "prerequisite": "",
+    "benefit": "The character's Reputation bonus increases by +3.",
+    "special": ""
+  },
+  {
+    "name": "Run",
+    "prerequisite": "",
+    "benefit": "When running, the character moves a maximum of five times his or her normal speed instead of four times. If the character is in heavy armor, the character can move four times his or her speed rather than three times. If the character makes a long jump, the character gains a +2 competence bonus on his or her Jump check.",
+    "special": ""
+  },
+  {
+    "name": "Salvage",
+    "prerequisite": "",
+    "benefit": "Salvaging a destroyed vehicle, mecha, starship, robot, or cybernetic attachment takes time based on size. At the end of this time, make a Search check. If the check succeeds, you may increase your Wealth score by the indicated amount, either by selling the salvaged parts for scrap or using them to offset the cost of future building projects.",
+    "special": "A particular object can be successfully salvaged only once."
+  },
+  {
+    "name": "Simple Weapons Proficiency",
+    "prerequisite": "",
+    "benefit": "The character makes attack rolls with simple weapons normally.",
+    "special": ""
+  },
+  {
+    "name": "Smart Plus",
+    "prerequisite": "At least one level in the Smart Hero class.",
+    "benefit": "Character gains two talents from the Smart hero's talent trees. The talents must be selected from the following list, and the character must meet all prerequisites:\n\nResearch Talent Tree: Savant or Linguist.\nStrategy Talent Tree: Exploit Weakness, Plan, or Trick.",
+    "special": "This feat may be selected multiple times. Each time it is selected, a different pair of talents must be chosen; the Savant talent may be selected multiple times but must apply to a different skill each time."
+  },
+  {
+    "name": "Spacer",
+    "prerequisite": "",
+    "benefit": "",
+    "special": ""
+  },
+  {
+    "name": "Stealthy",
+    "prerequisite": "",
+    "benefit": "The character gets a +2 bonus on all Hide checks and Move Silently checks.",
+    "special": ""
+  },
+  {
+    "name": "Starship Operation",
+    "prerequisite": "Pilot 2 ranks.",
+    "benefit": "When operating a starship of the selected type, you take no penalty on Pilot checks and you apply your full class bonus to Defense to the ship's Defense.",
+    "special": "You can gain this feat multiple times. Each time you take the feat, it applies to a different type of starship (ultralight, light, mediumweight, heavy, or superheavy)."
+  },
+  {
+    "name": "Starship Feint",
+    "prerequisite": "Pilot 9 ranks, Starship Operation (of the appropriate type).",
+    "benefit": "When piloting a ship with which you are proficient, you can make a Bluff check in starship combat as a move action. In addition, you receive a +2 bonus on Bluff checks made to feint in starship combat.",
+    "special": ""
+  },
+  {
+    "name": "Starship Dodge",
+    "prerequisite": "Dexterity 13, Pilot 6 ranks, Starship Operation (of the appropriate type).",
+    "benefit": "When piloting a starship of a type with which you are proficient, you apply a +1 dodge bonus to your ship's Defense against attacks from one enemy starship you designate during your action. You can select a new enemy ship on any action.",
+    "special": ""
+  },
+  {
+    "name": "Starship Dodge",
+    "prerequisite": "Dexterity 13, Starship Dodge.",
+    "benefit": "When piloting a starship of a type with which you are proficient, you apply a +4 dodge bonus to your ship's Defense against attacks of opportunity caused when you move out of or within a starship's threatened area.",
+    "special": ""
+  },
+  {
+    "name": "Starship Battle Run",
+    "prerequisite": "Dexterity 13, Starship Dodge, Starship Dodge.",
+    "benefit": "When using an attack action with a starship ranged weapon, you can move both before and after the attack, provided that the total distance moved does not exceed the starship's tactical speed. Moving in this way does not provoke an attack of opportunity from the defender you are attacking.",
+    "special": ""
+  },
+  {
+    "name": "Starship Gunnery",
+    "prerequisite": "",
+    "benefit": "You do not take a penalty on attack rolls when firing a starship weapon.",
+    "special": ""
+  },
+  {
+    "name": "Starship Strafe",
+    "prerequisite": "Starship Gunnery.",
+    "benefit": "When using a starship's ranged weapon on autofire, you can affect an area four 500-foot squares long and one 500-foot square wide (any four 500-foot squares in a straight line).",
+    "special": ""
+  },
+  {
+    "name": "Strong Plus",
+    "prerequisite": "At least three ranks in the Strong Hero class.",
+    "benefit": "Character gains two talents from the Strong hero's talent trees. The talents must be selected from the following list, and the character must meet all prerequisites:\n\nExtreme Effort Talent Tree: Improved Extreme Effort or Advanced Extreme Effort.\nIgnore Hardness Talent Tree: Improved Ignore Hardness or Advanced Ignore Hardness.\nMelee Smash Talent Tree: Improved Melee Smash or Advanced Melee Smash.",
+    "special": "This feat may be selected multiple times. Each time it is selected, a different pair of talents must be chosen than the previous times."
+  },
+  {
+    "name": "Studious",
+    "prerequisite": "",
+    "benefit": "The character gets a +2 bonus on all Decipher Script checks and Research checks.",
+    "special": ""
+  },
+  {
+    "name": "Surface Vehicle Operation",
+    "prerequisite": "Drive 4 ranks.",
+    "benefit": "The character takes no penalty on Drive checks or attack rolls made when operating a surface vehicle of the selected class.",
+    "special": "A character can gain this feat as many as five times. Each time the character takes the feat, he or she selects a different class of surface vehicle (heavy wheeled, powerboat, sailboat, ship, or tracked)."
+  },
+  {
+    "name": "Surgery",
+    "prerequisite": "Treat Injury 4 ranks.",
+    "benefit": "The character can use the Treat Injury skill to perform surgery without the usual -4 penalty.",
+    "special": ""
+  },
+  {
+    "name": "Cybernetic Surgery",
+    "prerequisite": "Treat Injury 8 ranks, Surgery.",
+    "benefit": "The character can make a Treat Injury check (DC 20) to install or remove a cybernetic attachment. Without a Surgery kit or medical facility, take a -4 penalty. Cybernetic surgery takes 1d4 hours.\n\nIf the check fails by 5 or more, the patient suffers 1d4 Constitution damage. If the check fails by 10 or more, it is Constitution drain instead. A character who undergoes cybernetic surgery is fatigued for 24 hours, reduced by 2 hours per point above the DC (minimum 6 hours).",
+    "special": ""
+  },
+  {
+    "name": "Tough Plus",
+    "prerequisite": "",
+    "benefit": "Character gains two talents from the Tough hero's talent trees. The talents must be selected from the following list, and the character must meet all prerequisites:\n\nDamage Reduction Talent Tree: Damage Reduction 2/— or Damage Reduction 3/—.\nEnergy Resistance Talent Tree: Energy Resistance (choose one type: Acid, Cold, Electricity, Fire, or Sonic/Concussion).\nUnbreakable Talent Tree: Remain Conscious, Second Wind, or Stamina.",
+    "special": "This feat may be selected multiple times. Each time it is selected, a different pair of talents must be chosen than the previous times."
+  },
+  {
+    "name": "Toughness",
+    "prerequisite": "",
+    "benefit": "The character gains +3 hit points.",
+    "special": "A character may gain this feat multiple times. Its effects stack."
+  },
+  {
+    "name": "Track",
+    "prerequisite": "",
+    "benefit": "To find tracks or follow them for one mile requires a Survival check (DC 5 for very soft ground up to DC 20 for hard surfaces). The character must make another Survival check every time the tracks become difficult to follow. The character moves at half his or her normal speed (or at normal speed with a -5 penalty, or at twice speed with a -20 penalty).",
+    "special": ""
+  },
+  {
+    "name": "Trustworthy",
+    "prerequisite": "",
+    "benefit": "The character gets a +2 bonus on all Diplomacy checks and Gather Information checks.",
+    "special": ""
+  },
+  {
+    "name": "Two-Weapon Fighting",
+    "prerequisite": "Dexterity 13.",
+    "benefit": "The character's penalties for fighting with two weapons are lessened by 2 for the primary hand and 6 for the off hand. The weapons used must both be melee weapons or both be ranged weapons.",
+    "special": ""
+  },
+  {
+    "name": "Greater Two-Weapon Fighting",
+    "prerequisite": "Base attack bonus 6, Dexterity 13, Two-Weapon Fighting.",
+    "benefit": "The character gets a second attack with his or her offhand weapon, albeit at a -5 penalty. Also, this feat allows the character to use a melee weapon in one hand and a ranged weapon in the other.",
+    "special": ""
+  },
+  {
+    "name": "Advanced Two-Weapon Fighting",
+    "prerequisite": "Base attack bonus 11, Dexterity 13, Two-Weapon Fighting, Greater Two-Weapon Fighting.",
+    "benefit": "The character gets a third attack with their offhand weapon, albeit at a -10 penalty. This feat also allows the character to use a melee weapon in one hand and a ranged weapon in the other.",
+    "special": ""
+  },
+  {
+    "name": "Armed to the Teeth",
+    "prerequisite": "",
+    "benefit": "",
+    "special": ""
+  },
+  {
+    "name": "Guns Akimbo",
+    "prerequisite": "Shot on the Run, Two-Weapon Fighting.",
+    "benefit": "If you have two ranged weapons, as an attack action you may make one attack with each weapon. In addition to the penalties you normally suffer for attacking with two weapons, you suffer an additional -2 penalty on each attack.",
+    "special": ""
+  },
+  {
+    "name": "Ultra Immune System",
+    "prerequisite": "Constitution 13.",
+    "benefit": "You gain a +2 bonus on Fortitude saving throws to resist poisons, diseases, and radiation sickness. Furthermore, any permanent Ability Drain inflicted upon you is treated as temporary ability damage instead.",
+    "special": ""
+  },
+  {
+    "name": "Urban Tracking",
+    "prerequisite": "",
+    "benefit": "To find the trail of an individual or to follow it for 1 hour requires a Gather Information check. The DC of the check and the number of checks required depends on the community population (DC 5 for fewer than 2,000 people up to DC 30 for 500,000+). You must make another Gather Information check every hour of the search, as well as each time the trail becomes difficult to follow.",
+    "special": "You can cut the time per Gather Information check in half (to 30 minutes), but you suffer a -5 penalty on the check."
+  },
+  {
+    "name": "Vehicle Expert",
+    "prerequisite": "",
+    "benefit": "The character gets a +2 bonus on all Drive checks and Pilot checks.",
+    "special": ""
+  },
+  {
+    "name": "Force Stop",
+    "prerequisite": "Drive 4 ranks, Vehicle Expert.",
+    "benefit": "When the character attempts a sideswipe stunt with a surface vehicle, the character can force the other vehicle to a stop by nudging it into a controlled sideways skid. After succeeding on the sideswipe check, the character makes a Drive check opposed by the other driver. If the character succeeds, both vehicles end stationary and take normal sideswipe damage. If the character fails, resolve the sideswipe normally.",
+    "special": ""
+  },
+  {
+    "name": "Vehicle Dodge",
+    "prerequisite": "Dexterity 13, Drive 6 ranks or Pilot 6 ranks, Vehicle Expert.",
+    "benefit": "When driving a vehicle, during the character's action the character designates an opposing vehicle or a single opponent. The character's vehicle and everyone aboard it receive a +1 dodge bonus to Defense against attacks from that vehicle or opponent. The character can select a new vehicle or opponent on any action.",
+    "special": ""
+  },
+  {
+    "name": "[Universal / Finesse Category]",
+    "prerequisite": "Base attack bonus 1, Proficient with weapon.",
+    "benefit": "With the selected melee weapon (a light melee weapon, rapier, chain, or natural weapon), the character may use his or her Dexterity modifier instead of his or her Strength modifier on attack rolls.",
+    "special": "A character can gain this feat multiple times. Each time the character takes the feat, the character selects a different weapon."
+  },
+  {
+    "name": "Weapon Focus",
+    "prerequisite": "Base attack bonus 1, Proficient with weapon.",
+    "benefit": "The character adds +1 to all attack rolls he or she makes using the selected weapon.",
+    "special": "A character can gain this feat multiple times. Each time the character takes the feat, the character must select a different weapon."
+  },
+  {
+    "name": "Windfall",
+    "prerequisite": "",
+    "benefit": "The character's Wealth bonus increases by +3. Also, this feat provides a +1 bonus on all Profession checks.",
+    "special": "A character can select this feat multiple times. Each time, both of its effects stack."
+  },
+  {
+    "name": "Xenomedic",
+    "prerequisite": "Knowledge (earth and life sciences) 6 ranks, Treat Injury 6 ranks, Surgery.",
+    "benefit": "You can, without penalty, use the Treat Injury skill to perform surgery on a living creature regardless of its type.",
+    "special": "This feat cannot be used to heal or repair nonliving or inorganic creatures such as constructs or undead."
+  },
+  {
+    "name": "Zero-G Training",
+    "prerequisite": "Dexterity 13, Tumble 4 ranks.",
+    "benefit": "You take no penalty on attack rolls in low-gravity or zero-gravity environments. In addition, you do not suffer the debilitating effects of space sickness.",
+    "special": ""
+  }
+]

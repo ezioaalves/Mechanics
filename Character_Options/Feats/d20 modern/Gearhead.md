@@ -1,0 +1,7 @@
+# Gearhead
+
+You have a knack with machines.
+
+**Benefit**: The character gets a +2 bonus on all Computer Use checks and Repair checks.
+
+**Special**: Remember that the Computer Use skill and the Repair skill can only be used untrained in certain situations.

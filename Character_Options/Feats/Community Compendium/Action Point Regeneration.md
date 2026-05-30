@@ -1,0 +1,3 @@
+# Action Point Regeneration
+
+**Benefit**: You now regenerate Action Points at a slow pace. You regenerate 1 Action Point once a week whenever you fall below your maximum which is the amount of Action Points you gained from the most recent level. For example, if your last level you would have received 6 + one-half your level and your level was 4, you would have a pool of 8. The maximum is 15 (regardless of how many you have above that from saving Action Points) and if you spend one and one week passes by, you may add one more Action Point, up to your maximum. If you level within that week, you do not receive that Action Point back as you've now gained more back. Each level your pool readjusts to the new proper amount based on the rules above.

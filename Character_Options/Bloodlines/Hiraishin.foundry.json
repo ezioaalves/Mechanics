@@ -1,0 +1,87 @@
+{
+  "type": "class",
+  "name": "Hiraishin",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "flags": {
+    "pf1": {
+      "links": {
+        "classAssociations": {}
+      }
+    }
+  },
+  "system": {
+    "description": {
+      "value": "<p>Hiraishin bloodline class (Minor). Level counts toward character level for all scaling purposes (chakra pool, learn checks, technique rank cap) but grants no HP, BAB, saves, or skill points. Class features in <code>links.classAssociations</code> are keyed to <em>character</em> level milestones per the Hiraishin progression table — the GM activates them manually as the PC levels up.</p><p>Feature timeline (character level): 2=Hiraishin 1 (on Advanced Bloodline feat), 5=Up the Walls, 8=Hiraishin 2, 11=Slow Fall 50 ft, 14=Hiraishin 3, 17=Slow Fall any distance, 20=Hiraishin 4.</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "changes": [],
+    "changeFlags": {
+      "immuneToMorale": false,
+      "loseDexToAC": false,
+      "noMediumEncumbrance": false,
+      "noHeavyEncumbrance": false,
+      "mediumArmorFullSpeed": false,
+      "heavyArmorFullSpeed": false,
+      "lowLightVision": false,
+      "seeInvisibility": false,
+      "seeInDarkness": false
+    },
+    "contextNotes": [],
+    "links": {
+      "children": [],
+      "classAssociations": []
+    },
+    "tag": "hiraishin",
+    "armorProf": [],
+    "weaponProf": [],
+    "languages": [],
+    "flags": {
+      "boolean": {},
+      "dictionary": {}
+    },
+    "scriptCalls": [],
+    "subType": "base",
+    "level": 0,
+    "hd": 4,
+    "hp": 0,
+    "bab": "low",
+    "skillsPerLevel": 0,
+    "savingThrows": {
+      "fort": { "value": "low", "custom": "0" },
+      "ref":  { "value": "low", "custom": "0" },
+      "will": { "value": "low", "custom": "0" }
+    },
+    "fc": {
+      "hp":    { "value": 0 },
+      "skill": { "value": 0 },
+      "alt":   { "value": 0, "notes": "" }
+    },
+    "wealth": "",
+    "alignment": "",
+    "classSkills": {
+      "acr": false, "apr": false, "art": false, "blf": false,
+      "clm": false, "crf": false, "dip": false, "dev": false,
+      "dis": false, "esc": false, "fly": false, "han": false,
+      "hea": false, "int": false, "kar": false, "kdu": false,
+      "ken": false, "kge": false, "khi": false, "klo": false,
+      "kna": false, "kno": false, "kpl": false, "kre": false,
+      "lin": false, "lor": false, "per": false, "prf": false,
+      "pro": false, "rid": false, "sen": false, "slt": false,
+      "spl": false, "ste": false, "sur": false, "swm": false,
+      "umd": false, "ckc": false, "fui": false, "gnj": false,
+      "nin": false, "tai": false
+    },
+    "customHD": "",
+    "casting": {
+      "type": "",
+      "progression": "high",
+      "ability": "int",
+      "spells": "arcane",
+      "domain": null,
+      "offset": null,
+      "cantrips": false
+    }
+  }
+}

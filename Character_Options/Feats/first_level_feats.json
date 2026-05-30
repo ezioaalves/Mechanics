@@ -1,0 +1,80 @@
+[
+  {
+    "name": "ADVANCED BLOODLINE",
+    "prerequisite": "Can only be taken at first level.",
+    "benefit": "You gain a bloodline of your choice (see Chapter 10 for the available bloodlines).",
+    "special": "Circumstances may allow you to select this feat at a later time, such as having a doujutsu eye implanted."
+  },
+  {
+    "name": "ADVANCED STUDY",
+    "prerequisite": "Can only be taken at first level.",
+    "benefit": "You are capable of learning a single technique of up to rank 3. Gain a +2 competence bonus to Learn checks to learn or master that technique.",
+    "special": ""
+  },
+  {
+    "name": "AKIMICHI TOUGHNESS",
+    "prerequisite": "Con 13, Heroic character, can only be taken at 1 st level. (GM's discretion)",
+    "benefit": "You gain 5 HP and the ability to consume Akimichi Food Pills (p74) without dying. You still suffer the normal after effects of consuming the pills.",
+    "special": ""
+  },
+  {
+    "name": "CHAKRA AFFINITY",
+    "prerequisite": "Can only be taken at first level.",
+    "benefit": "Gain a +2 to Learn checks when learning techniques of a specific type (Chakra Control, Genjutsu, Fuinjutsu, Ninjutsu or Taijutsu). You suffer a -1 penalty to all Learn checks for a second type of your choice.",
+    "special": ""
+  },
+  {
+    "name": "DETERMINED GENIUS",
+    "prerequisite": "Wis 13, can only be taken at first level.",
+    "benefit": "You are incapable of learning and performing Chakra Control, Genjutsu, Fuinjutsu and Ninjutsu techniques, though you can still identify them. You cannot Sense Chakra, but can still Suppress Chakra if you know how. Techniques gained by the Harmony and/or Innate Control feats ignore this limitation, as do the Hachimon Tonkou techniques, if you are otherwise capable of learning and using them.\n\nYou gain a +4 bonus to learn Taijutsu techniques if you take one-half again the normal time to learn it (before any time reduction from beating the DC by enough), and a +4 bonus to perform and identify Taijutsu techniques. In addition, the save DC of your Taijutsu techniques increases by 2.\n\nLastly, you gain a +2 bonus to Will saves against fear.",
+    "special": ""
+  },
+  {
+    "name": "FACE MASKING",
+    "prerequisite": "Disguise 2 ranks, heroic character, can only be taken at first level.",
+    "benefit": "You gain a +2 bonus to disguise checks to assume the identity of a specific person. This feat is required to learn Kao Utsushi no Jutsu (p283).",
+    "special": ""
+  },
+  {
+    "name": "GENIUS NINJA",
+    "prerequisite": "Can only be taken as a first level heroic character. Relevant ability score 13+.",
+    "benefit": "Choose a technique type (Chakra Control, Fuinjutsu, Genjutsu, Ninjutsu or Taijutsu). When learning techniques of that type, you can learn techniques of a Rank 1 higher than normal, and you gain a +2 bonus to Learn checks. You count as 5 years older when meeting requirements or determining your age category (max age 15). In addition, your Reputation in your home village is increased by 2.",
+    "special": "You can select this feat more than once. Choose a different technique type every time you do. The age reductions do not stack. (Optional: Your GM may decide to have Genius Ninja apply to all technique types)"
+  },
+  {
+    "name": "HYOUTON",
+    "prerequisite": "Heroic first level character, primary elemental affinity (water or wind).",
+    "benefit": "You gain affinity for water or wind (whichever one you didn't have) and an affinity to ice. You may choose to have ice replace your primary affinity. You no longer gain elemental affinities with levels.",
+    "special": ""
+  },
+  {
+    "name": "KEEN SIGHT",
+    "prerequisite": "Heroic first level character.",
+    "benefit": "You gain low-light vision (you can see twice as far in poor lighting conditions; D20 Modern, p227).",
+    "special": ""
+  },
+  {
+    "name": "MOKUTON",
+    "prerequisite": "Heroic first level character, primary elemental affinity (earth or water).",
+    "benefit": "While you have both the earth and water affinities, you become able to perform Mokuton techniques.",
+    "special": ""
+  },
+  {
+    "name": "MOUJUU AISHOU",
+    "prerequisite": "Can only be taken at first level.",
+    "benefit": "You are granted the Moujuu Aishou (p349) template.",
+    "special": ""
+  },
+  {
+    "name": "SKILLED",
+    "prerequisite": "Can only be taken at first level.",
+    "benefit": "You gain an additional 4 skill points at first level, and an additional skill point every level afterwards.",
+    "special": ""
+  },
+  {
+    "name": "WILL OVER FLESH",
+    "prerequisite": "Can only be taken at first level.",
+    "benefit": "You can use your Wisdom modifier instead of your Constitution modifier to determine the total amount of Chakra you may have, as well as when determining the amount of Chakra you recover while resting.",
+    "special": ""
+  }
+]

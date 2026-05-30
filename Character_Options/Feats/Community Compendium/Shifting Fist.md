@@ -1,0 +1,7 @@
+# Shifting Fist
+
+You employ a variety of unarmed fighting styles, allowing you to alter the type of damage your attacks deal.
+
+**Prerequisite**: Brawl, Improved Brawl.
+
+**Benefit**: As a swift action, you can opt for your unarmed strikes to deal your choice of bludgeoning, piercing, or slashing damage. Once you make this choice, your unarmed strikes continue to deal the chosen damage type until you use another swift action to change it.

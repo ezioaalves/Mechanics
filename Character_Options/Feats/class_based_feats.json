@@ -1,0 +1,86 @@
+[
+  {
+    "name": "BLOODTHIRST",
+    "prerequisite": "Rage or Frenzy ability.",
+    "benefit": "You can use your rage or frenzy abilities an additional time per day.",
+    "special": ""
+  },
+  {
+    "name": "CONTROL FRENZY",
+    "prerequisite": "Frenzy ability.",
+    "benefit": "Once per day, you can reroll a failed save or check to avoid entering a Frenzy. This feat can be taken more than once. Each instance adds an additional reroll per day.",
+    "special": ""
+  },
+  {
+    "name": "EMPOWER SEALING SWORD",
+    "prerequisite": "Int 15, Sealing Sword (Superior) ability, base attack bonus +10.",
+    "benefit": "Your Chakra State weapon gains a +1 bonus to its critical threat range while the containment effect of the sealing sword ability is full. Does not stack with other critical threat range increasing effects.",
+    "special": ""
+  },
+  {
+    "name": "GREATER STREET SAVVY",
+    "prerequisite": "Street Savvy class ability.",
+    "benefit": "You gain a +2 bonus to Street Savvy checks.",
+    "special": ""
+  },
+  {
+    "name": "ILLUMINATED PROFICIENCY",
+    "prerequisite": "Sacred Fist Stance, Buddhist Palm (Chakra), Wis 15.",
+    "benefit": "You may treat attacks with a quarterstaff, tonfa, nunchaku or kama as a sacred fist attack while in sacred fist stance. Your Buddhist Palm ability is also conferred to such weapons. You may use the weapon's base damage or your sacred fist damage, whichever is higher. (Other abilities that affect unarmed attacks will not apply)",
+    "special": ""
+  },
+  {
+    "name": "MULTIPUPPET FIGHTING",
+    "prerequisite": "Advanced Puppetry class ability, Dex 13. Benefit: You can animate multiple puppets with an attack action. When animating or fighting with more than one puppet, you can increase the amount of hit dice of puppets you can control by half, but doing so lowers the maximum hit dice any puppet can be animated with by 3.",
+    "benefit": "",
+    "special": ""
+  },
+  {
+    "name": "PUPPET MULTIATTACK",
+    "prerequisite": "Advanced Puppetry class ability.",
+    "benefit": "When making attacks with a puppet's secondary natural weapon, reduce the attack penalty to -2. If your puppet doesn't have a secondary natural weapon, instead you may make a second attack with its primary natural weapon at a -5 penalty.",
+    "special": ""
+  },
+  {
+    "name": "PUPPETEER INSIGHT",
+    "prerequisite": "Advanced Puppetry II class ability, Int 13.",
+    "benefit": "Once per round, you can use an attack action and make a Concentration check (DC 20) and become focused until the end of the encounter. As an instant action, you can spend your focus to do one of the following:\n\nAnalyze: You automatically know the hit dice of any puppets an opponent controls for the next three rounds.\n\nCounter: Gain a +2 insight bonus to attack and damage against puppets of an opponent for three rounds.\n\nDefend: You and your puppets gain a +2 insight bonus to Defense and saves against an opponent's puppet attacks.\n\nYou may gain focus when an encounter starts, as long as you were not caught by surprise.",
+    "special": ""
+  },
+  {
+    "name": "REVERSE DOCTOR",
+    "prerequisite": "Chakra Scalpel class ability.",
+    "benefit": "You can use your Dexterity or Intelligence modifier to attack rolls when attacking with your Chakra scalpel. You may also add your Dexterity or Intelligence modifier to damage rolls with that weapon (up to +3).",
+    "special": ""
+  },
+  {
+    "name": "SACRED FLURRY",
+    "prerequisite": "Sacred Fist Stance (1d6), Buddhist Palm (Chakra), base attack bonus +6, Dex 13.",
+    "benefit": "Once each round, you may spend a swift action to gain sacred flurry, gaining an additional sacred fist attack at your highest attack bonus when making a Full Attack, but all attacks made that round suffer a -2 penalty to attack rolls. Does not stack with other abilities that grant additional attacks (such as the Renzuki technique or the Storm of Blows class ability).",
+    "special": ""
+  },
+  {
+    "name": "SOUL EDGE SPECIALIZATION",
+    "prerequisite": "Soul Edge class ability, Ghost Edge, Weapon Focus (Soul Edge), Wis 13.",
+    "benefit": "You receive the Weapon Specialization ability for the Soul Edge, gaining a +2 damage bonus with it.",
+    "special": ""
+  },
+  {
+    "name": "TECHNICAL KNOWLEDGE",
+    "prerequisite": "Educated, Knowledge (ninja lore) 9 ranks, one Meta-Chakra Specialization class ability.",
+    "benefit": "You gain a +1 bonus to Learn checks when developing or creating Chakra Control, Fuinjutsu, Genjutsu or Ninjutsu techniques. When you teach others techniques of those types, you grant an additional +2 bonus to Learn checks, though you still cannot grant more than a +5 bonus total.",
+    "special": ""
+  },
+  {
+    "name": "TRUE BLINKSTRIKE",
+    "prerequisite": "Blinkstrike +3 class ability, Quick Draw, Dodge, Dodge, Agile Riposte.",
+    "benefit": "As a free action, you may upgrade your Blinkstrike stance for one round. While upgraded, you lose your Blinkstrike bonus to Defense, but gain a bonus to attack and damage equal to half your Blinkstrike level, rounded up. In addition, you may make a Full Attack and still move up to your speed (you may tumble normally or use Blink Step as part of this move), though you must move at least 5 ft. between each attack, and you cannot move to a square you have previ- ously occupied that turn. These bonuses only apply while you are in the Blinkstrike stance.",
+    "special": ""
+  },
+  {
+    "name": "TWIN SOUL STYLE",
+    "prerequisite": "Soul Edge class ability, Two-Weapon Fighting, Dex 15.",
+    "benefit": "When forming a Soul Edge, you may form an additional Soul Edge in your off-hand as a free action. The Shape Soul Edge class ability cannot be used for this second weapon.",
+    "special": ""
+  }
+]

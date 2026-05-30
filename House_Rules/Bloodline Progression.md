@@ -1,0 +1,11 @@
+Use D&D 3.5e’s rules for bloodline levels, instead of those listed in the core ND20 book. This makes levels sacrificed towards a character’s Bloodline count towards total class levels for things that scale on character level (such as how high you can empow er technique, what rank of technique you can learn and so forth). This does  not increase the experience point cost for levels. 
+
+A bloodline level grants no increase in base attack bonus or base save bonuses, no hit points or skill points, and no class features. It counts as a normal class level (with no class skills) for the purpose of determining maximum skill ranks. Levels of bloodline never result in XP penalties for multiclass characters.
+
+Include the character's bloodline level when calculating any character ability based on his class levels (such as caster level for spellcasting characters, or save DCs for characters with special abilities whose DCs are based on class level). The character doesn't gain any abilities, spells known, or spells per day from the addition of his bloodline levels, though—only the calculations of his level-based abilities are affected.
+
+If a character has levels in two or more classes in addition to his bloodline levels, each class gains the benefit of adding the bloodline levels when calculating abilities.
+
+For example, a 2nd-level sorcerer with a major bloodline takes a bloodline level when earns enough XP to advance in level. He is treated as a 3rd-level spellcaster for the purpose of spell durations, caster level checks, and so forth. But he doesn't gain a 3rd-level sorcerer's spells per day or spells known.
+
+Similarly, the stunning attacks of a 3rd-level monk with one bloodline level have a save DC equal to 12 (10 + one-half class level) plus her Wisdom modifier, since the bloodline level is treated as if it were a monk class level when calculating the save DC. A 3rd-level monk/3rd-level sorcerer with two bloodline levels would be treated as a 5th-level spellcaster and a 5th-level monk for determining level-based abilities.

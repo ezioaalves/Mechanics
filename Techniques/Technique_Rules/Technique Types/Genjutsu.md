@@ -1,0 +1,9 @@
+This type of technique includes all forms of illusions and trick of the mind, both to your own or another's. Techniques to entrap the mind such as Tsuyagan or to send your enemies in a mindless bloodrage like Chiyokubou both belong in this category. Not all genjutsu are mind-affecting effects. If a genjutsu is dispelled, it is usually only dispelled on one creature at a time (see Genjutsu Kai or technique's description for details).
+
+The relevant ability score for Genjutsu is Charisma, and perform requirements are met with the Genjutsu skill.
+
+**Compulsion:** A compulsion technique forces the subject to act in some manner or changes the way his mind works. Some compulsion effects determine the subject’s actions or the effects on the subject, some compulsion effects allow you to determine the subject’s actions when you perform the technique, and others give you ongoing control over the subject. All Compulsion genjutsu are mind-affecting effects.
+
+**Doujutsu:** This subtype uses only gaze attacks as a medium for delivering illusions. A character adverting his eyes has a 50% chance to be unaffected by a doujutsu (but also has a 50% automatic miss chance).
+
+**Phantasm:** A phantasm technique creates a mental image that usually only the user and the subject (or subjects) can perceive. This impression is totally in the minds of the subjects. It is a personalized mental impression. Third parties, if the technique allows for any, viewing or studying the scene don’t notice the phantasm. If a phantasm technique does not target any particular creature, everyone and everything around it is affected. All phantasms are mind-affecting effects.

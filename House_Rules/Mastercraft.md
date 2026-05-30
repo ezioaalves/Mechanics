@@ -1,0 +1,1 @@
+Since Naruto: d20 is a completely non-FX setting, mastercraft bonus can go up to +5 at the cost of +7 to the Purchase DC per point above 3.

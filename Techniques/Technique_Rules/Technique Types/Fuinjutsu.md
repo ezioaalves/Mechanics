@@ -1,0 +1,7 @@
+This type of technique uses arcane symbols either created by chakra or drawn in advance and empowered with chakra. The relevant ability score for Fuinjutsu is Intelligence, and perform requirements are met with the Fuinjutsu skill.
+
+Some Fuinjutsu techniques require sealing slots to be used on the creature's body. A creature's body, regardless of its size, holds 6 seal slots. A seal slot applied by a technique is freed when the seal's duration expires, it is dismissed or broken. Other Fuinjutsu techniques require a seal to be crafted in advance. The amount of time crafting such a seal requires usually depends on the complexity of the seal: 1 round (D-Class or lower), 5 rounds (C-Class), 1 minute (B-Class), 5 minutes (A-Class), 10 minutes (S-Class and Super S-Class), and 30 minutes (Epic). Some seals may take more or less time to craft than the number listed above.
+
+A character without the [[Sealweaver]] feat or who is not at least 12th level with 12 or more ranks in the Fuinjutsu skill suffers a -8 penalty to Learn checks to learn Fuinjutsu techniques and takes twice the normal amount of time.
+
+**Advanced Seals** **_:_** An advanced seal technique is a subtype of Fuinjutsu techniques and requires the [[Advanced Seal Proficiency]] feat to be learned, but not the [[Sealweaver]] feat.

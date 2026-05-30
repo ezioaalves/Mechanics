@@ -1,0 +1,134 @@
+[
+  {
+    "name": "ADVANCED SEAL PROFICIENCY",
+    "prerequisite": "Fuinjutsu 6 ranks.",
+    "benefit": "You can learn techniques of the Advanced Seal subtype without suffering the usual penalties to learn Fuinjutsu techniques.",
+    "special": ""
+  },
+  {
+    "name": "BLOOD PACT",
+    "prerequisite": "Various (see table on the next page). To sign a blood pact, you must find the appropriate Contract. See Chapter 9 for details on obtaining contracts and details on the various summon tribes.",
+    "benefit": "You can summon creatures of the chosen creature type, and gain a +4 bonus to Charisma-based skill checks used on such creatures. You also gain a special bonus while within 50 feet of a summoned creature of your chosen type, as shown in Table 6-5: Blood Pact Requirements on the next page. If the bonus is of a specific type, it is noted in the table.\n\nTABLE 6-5: BLOOD PACT REQUIREMENTS\n\n| Summon        | Required             | Bonus                                                |\n|---------------|----------------------|------------------------------------------------------|\n| Bear          | Str 15               | +2 to Grapple checks (sacred)                        |\n| Boar          | Con 13               | Trample (slam or unarmed) 1/day                      |\n| Dog           | -                    | +4 to Survival checks (insight)                      |\n| Dragon        | Cha 15, Intimidate 6 | +4 to Intimidate checks (morale)                     |\n| Hare          | -                    | +1 to all saves (luck)                               |\n| Hawk          | Spot 6               | +2 to Spot checks (competence)                       |\n| Hivemind      | Int 15               | +4 to Will saves vs mind-affecting (resistance)      |\n| Horse         | -                    | +4 to Ride checks (competence)                       |\n| Imperial Wyrm | Wis 15, Cha 13       | +2 Diplomacy and Sense Motive (sacred)               |\n| Lizard        | Dex 13               | +2 Hide and Move Silently (competence)               |\n| Monkey        | Climb 6              | +4 to Climb checks (morale)                          |\n| Ogre          | Str 15 or Con 15     | +2 to Fortitude saves (morale)                       |\n| Ox            | Str 13               | +2 to Fortitude saves (resistance)                   |\n| Ram           | -                    | +1d6 damage on charge attacks                        |\n| Rat           | -                    | +4 to Hide checks (competence)                       |\n| Raven         | Listen 4, Spot 4     | +2 to Spot and Listen checks (sacred)                |\n| Salamander    | Swim 6               | +4 to Swim checks (competence)                       |\n| Shark         | Survival 4, Swim 4   | Smell blood in the air (up to 200 ft.)               |\n| Slug          | -                    | +4 to Escape Artist (competence)                     |\n| Snake         | Cha 13               | +4 to Fortitude vs poison (resistance)               |\n| Spider        | Int 13               | +2 to save vs poison and mind-affecting (resistance) |\n| Tiger         | Dex 15               | Pounce 1/day                                         |\n| Toad          | Wis 13               | +4 to Jump checks (luck)                             |\n| Turtle        | -                    | +2 to Fortitude saves (resistance)                   |\n| War Hero      | Cha 15               | +1 to weapon attack and weapon damage rolls (morale) |",
+    "special": ""
+  },
+  {
+    "name": "CHAKRA PENETRATION",
+    "prerequisite": "",
+    "benefit": "Gain a +2 bonus to level checks to overcome Chakra Resistance.",
+    "special": ""
+  },
+  {
+    "name": "COMBAT TACTICS",
+    "prerequisite": "",
+    "benefit": "Gain a +4 bonus to Concentration checks when performing a technique defensively.",
+    "special": ""
+  },
+  {
+    "name": "DENSE CHAKRA",
+    "prerequisite": "Con 13, Chakra Pool 20+.",
+    "benefit": "The difficulty of dispelling or disrupting your techniques is increased by 1.",
+    "special": ""
+  },
+  {
+    "name": "ELEMENTAL SPECIALIZATION",
+    "prerequisite": "Chakra Control 12 ranks, Ninjutsu 15 ranks.",
+    "benefit": "You can ignore the material focus of techniques of the element of your choice (Doton, Fuuton, Hyouton, Katon, Raiton or Suiton). Any materials the technique might create dissipate immediately after the technique ends.",
+    "special": "You may select this feat multiple times. Choose a different element each time."
+  },
+  {
+    "name": "EYES OF DIVINATION",
+    "prerequisite": "Sense Motive 8 ranks, Attentive.",
+    "benefit": "This feat is required to learn the Kaigan technique (p290).",
+    "special": ""
+  },
+  {
+    "name": "FUINJUTSU ADEPT",
+    "prerequisite": "",
+    "benefit": "Gain +2 to Fuinjutsu checks, and the save DC of your Fuinjutsu techniques increases by 1. In addition, you may make 1 additional attempt when learning Fuinjutsu techniques, and your effective skill threshold when performing Fuinjutsu techniques is increased by 1.",
+    "special": ""
+  },
+  {
+    "name": "GENJUTSU ADEPT",
+    "prerequisite": "",
+    "benefit": "Gain +2 to Genjutsu checks, and the save DC of your Genjutsu techniques increases by 1. In addition, you may make 1 additional attempt when learning Genjutsu techniques. Increase your effective skill threshold when performing Genjutsu techniques by 1.",
+    "special": ""
+  },
+  {
+    "name": "GOUKEN",
+    "prerequisite": "Taijutsu 4 ranks.",
+    "benefit": "You can learn Gouken techniques without penalty, and gain a +2 bonus to confirm critical hits with unarmed attacks.",
+    "special": ""
+  },
+  {
+    "name": "GRAND MASTER",
+    "prerequisite": "4 ranks in one of Chakra Control, Fuinjutsu, Genjutsu, Ninjutsu or Taijutsu.",
+    "benefit": "You gain a +6 bonus to learn checks when attempting to master techniques.",
+    "special": ""
+  },
+  {
+    "name": "GREATER CHAKRA PENETRATION",
+    "prerequisite": "Chakra Penetration.",
+    "benefit": "You gain an additional +2 bonus on checks to overcome Chakra resistance.",
+    "special": ""
+  },
+  {
+    "name": "HAND SEALS PROFICIENCY",
+    "prerequisite": "",
+    "benefit": "You can perform hand seals while holding a Small or smaller object in one hand, with no penalties.",
+    "special": ""
+  },
+  {
+    "name": "HARMONY",
+    "prerequisite": "Chakra Control 5.",
+    "benefit": "You get +1 to Chakra Control checks, and the save DC for your Chakra control techniques increases by 1. You also immediately learn the Kinobori (p116) and Tadayou (p118) techniques and pass all future perform checks for them.",
+    "special": ""
+  },
+  {
+    "name": "INITIATE OF THE EIGHT CELESTIAL GATES",
+    "prerequisite": "Str, Dex or Con 15.",
+    "benefit": "Required to Learn techniques of the Hachimon Tonkou subtype (p239).",
+    "special": ""
+  },
+  {
+    "name": "NINJUTSU ADEPT",
+    "prerequisite": "",
+    "benefit": "Gain +2 to Ninjutsu checks, and the save DC of your Ninjutsu techniques increases by 1. In addition, you may make 1 additional attempt when learning Ninjutsu techniques, and your effective skill threshold when performing Ninjutsu techniques is increased by 1.",
+    "special": ""
+  },
+  {
+    "name": "RETRIEVAL EXPERT",
+    "prerequisite": "Ninjutsu 9 ranks.",
+    "benefit": "You do not take a -8 penalty to learn checks or take double the time when learning Spacetime techniques.",
+    "special": ""
+  },
+  {
+    "name": "SEALWEAVER",
+    "prerequisite": "Int 13.",
+    "benefit": "You can learn Fuinjutsu techniques without penalties to learn checks or learning time. If selected at first level, whenever Craft (calligraphy) is a class skill for you, you also gain Fuinjutsu as a class skill.",
+    "special": ""
+  },
+  {
+    "name": "SHADOW ARTS",
+    "prerequisite": "Hide 5 ranks, Ninjutsu 5 ranks.",
+    "benefit": "You can now learn Shadow ninjutsu techniques, most of which can be found with Special Styles (p245) and Hijutsu and Kinjutsu (p252).",
+    "special": ""
+  },
+  {
+    "name": "TAIJUTSU ADEPT",
+    "prerequisite": "",
+    "benefit": "Gain +2 to Taijutsu checks, and the save DC of your Taijutsu techniques increases by 1. In addition, you may make 1 additional attempt when learning Taijutsu techniques, and your effective skill threshold when performing Taijutsu techniques is increased by 1.",
+    "special": ""
+  },
+  {
+    "name": "TECHNIQUE FOCUS",
+    "prerequisite": "",
+    "benefit": "Choose a Ninjutsu or Genjutsu technique subtype. You are treated as one level higher when per- forming techniques of that type, and gain a +1 enhancement bonus to your skill threshold for those techniques. You may choose Universal, which applies to all Ninjutsu or Genjutsu without a subtype.",
+    "special": "May be selected more than once, applying to a different subtype each time."
+  },
+  {
+    "name": "TRAINING",
+    "prerequisite": "",
+    "benefit": "You can learn techniques of the Training type without taking a penalty or requiring additional successes.",
+    "special": ""
+  }
+]

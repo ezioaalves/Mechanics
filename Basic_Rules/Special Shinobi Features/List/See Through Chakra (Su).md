@@ -1,0 +1,3 @@
+This ability functions like See Chakra, but the character gains a +4 circumstance bonus to Spot checks to detect lingering chakra, genjutsu and see chakra activity, and a +2 resistance bonus to Will saves to disbelieve Genjutsu techniques.
+
+The character knows whether a creature is a noncorporeal chakra construct or a physical entity, and can tell most summons and clones by sight, though some exceptions exist (such as Kage Bunshin no Jutsu). Furthermore, the character can see internal uses of chakra such as active bloodline abilities and strength or speed ranks as lingering chakra (see above).

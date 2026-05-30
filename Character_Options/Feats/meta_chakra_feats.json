@@ -1,0 +1,176 @@
+[
+  {
+    "name": "ADEPT PUPPETEER",
+    "prerequisite": "Ninjutsu 12 ranks, Int 15, Advanced Puppetry class ability.",
+    "benefit": "As a free action, you may spend a metaChakra charge to reanimate a puppet that was deanimated due to a failed Concentration check, without the need to spend Chakra. This can be done even when it's not your turn, but must be done within 1 round of the puppet becoming deanimated.",
+    "special": ""
+  },
+  {
+    "name": "BLOOD MAGE",
+    "prerequisite": "Fuinjutsu 6 ranks, Con 13.",
+    "benefit": "You can spend a meta-Chakra charge and deal yourself up to 5 points of damage to reduce the cost of a technique by the same amount. This feat is required to learn Ketsuyoujutsu techniques (p284), and you may do so without penalty (even if they are Fuinjutsu techniques).",
+    "special": ""
+  },
+  {
+    "name": "BLURSTRIKE",
+    "prerequisite": "Quick Draw, Blinkstrike +1 class ability, Kenjutsu: Iaido (5).",
+    "benefit": "While in the Blinkstrike stance, you can sheathe a weapon as a free action, without provoking attacks of opportunity. In addition, you may spend 1 meta-Chakra charge to increase your Blinkstrike bonus by +2 for one round while making a Full Attack.\n\nCan be used three times per encounter. This bonus cannot be active at the same time as that of True Blinkstrike.",
+    "special": ""
+  },
+  {
+    "name": "CHAKRA WEAVING",
+    "prerequisite": "",
+    "benefit": "You gain an additional meta-Chakra charge. Special: You can take this feat multiple times.",
+    "special": ""
+  },
+  {
+    "name": "CONCEALED TECHNIQUE",
+    "prerequisite": "Efficient Technique, Chakra Control 12 ranks.",
+    "benefit": "When applied to a non-Taijutsu technique, the cost of the technique is completely concealed and the cost is reduced by 1 point of Chakra for every 4 ranks it has (minimum 1). The Perform Requirements increase by 6",
+    "special": ""
+  },
+  {
+    "name": "CRITICAL STARE",
+    "prerequisite": "Any 2 meta-Chakra Specializations (class ability), Spot 6 ranks.",
+    "benefit": "As a full-round action that provokes an attack of opportunity, you may spend a meta-Chakra charge and gain the ability to See Chakra for 1 minute.",
+    "special": ""
+  },
+  {
+    "name": "EFFICIENT TECHNIQUE",
+    "prerequisite": "Any 1 meta-Chakra feat, Chakra Control 9 ranks.",
+    "benefit": "When applied to a technique, you decrease its base cost by 50% or its total Chakra Cost by 25%. Its Perform Requirements increase by 4.",
+    "special": "If you apply this feat to a technique, you cannot apply other meta-Chakra feats to it."
+  },
+  {
+    "name": "ELEMENTAL MASTERY",
+    "prerequisite": "Genius Ninja, any 1 meta-Chakra feat, Ninjutsu 9 ranks.",
+    "benefit": "You gain one extra secondary elemental affinity, allowing use of another element of ninjutsu.",
+    "special": ""
+  },
+  {
+    "name": "ELEMENTAL SHAPING",
+    "prerequisite": "Any 1 meta-Chakra feat, Ninjutsu 12 ranks.",
+    "benefit": "When applied to an elemental ninjutsu technique with a cone, line, emanation or burst area of effect, you add the Shapeable (S) component to it. The Perform Requirements increase by 2, and the Chakra Cost increases by 1 for every 2 Ranks of the technique (rounded up).",
+    "special": ""
+  },
+  {
+    "name": "EMPOWER SUMMONING",
+    "prerequisite": "Retrieval Expert.",
+    "benefit": "When applied to a technique that summons creatures, those creatures gain 1d8 HP, +1 per Level of the summon, and a +1 bonus to attack and damage rolls. The perform requirement increases by 3 and the Chakra Cost increases by 10.",
+    "special": "Can be selected twice, increasing the bonus by another +1 HP per level of the summon, and an additional +1 bonus to attack and damage rolls."
+  },
+  {
+    "name": "EMPOWER TECHNIQUE",
+    "prerequisite": "Any 2 meta-Chakra feats, Chakra Pool 40, Chakra Control 12 ranks.",
+    "benefit": "When applied to a Fuinjutsu, Genjutsu or Ninjutsu technique, increase all of its random variable, numerical values by 50%. Weapon damage and opposed rolls are unaffected. Increase the Perform Requirements by 3, and the Chakra Cost by 1 per Rank of the technique.",
+    "special": "An Empowered technique cannot be enhanced by other meta-Chakra feats."
+  },
+  {
+    "name": "ENLARGE TECHNIQUE",
+    "prerequisite": "",
+    "benefit": "When applied to a technique, double the range it gains per two levels (For example, a technique with Long range gets a range of 30ft. + 30ft./two levels). If the technique has a maximum range, it is not increased. Increase the Perform Requirements by 2, and the Chakra Cost by 1 per 2 Ranks of the technique (rounded up).",
+    "special": ""
+  },
+  {
+    "name": "EXTEND TECHNIQUE",
+    "prerequisite": "",
+    "benefit": "When applied to a technique, increase its duration by 50%. Does not affect techniques with a duration of Concentration. The Perform Requirements increase by 2, and the Chakra Cost increases by 1 for every 2 Ranks of the technique (rounded up).",
+    "special": ""
+  },
+  {
+    "name": "FLAWLESS FORM",
+    "prerequisite": "Taijutsu 4 ranks.",
+    "benefit": "Apply only to Strike taijutsu techniques. If you perform the technique successfully, gain a +2 enhancement bonus to attack and damage rolls for 1 round. The technique's Perform Requirements increase by 2, and the Chakra Cost increases by 1 for every 2 Ranks of the technique (rounded up).",
+    "special": ""
+  },
+  {
+    "name": "HAND SEALS MASTERY",
+    "prerequisite": "Ninjutsu 15 ranks, Sleight of Hand 12 ranks, Genius Ninja (Genjutsu or Ninjutsu), Onehanded Seals.",
+    "benefit": "You can increase the Perform Requirements of any Fuinjutsu, Genjutsu or Ninjutsu techniques you perform by 3 to ignore their hand seals and half-seals components. Using this feat in this manner does not consume a meta-Chakra charge, though you may spend a charge to ignore the Perform Requirements increase for one technique.",
+    "special": "A technique enhanced in this way cannot be enhanced by other meta-Chakra feats."
+  },
+  {
+    "name": "HEIGHTEN TECHNIQUE",
+    "prerequisite": "Any 1 meta-Chakra feat.",
+    "benefit": "When applied to a technique, you can increase a technique's effective rank by up to 5. This increases the technique's perform requirement and saving throw DC by 1 per additional rank (among other things). Effects that depend on the technique's rank will count its heightened rank. The Perform Requirements increase by an additional 3, and the Chakra Cost increases by 3, plus 1 for every 2 Ranks of the technique (round up).",
+    "special": "A technique enhanced in this way cannot be enhanced by other meta-Chakra feats."
+  },
+  {
+    "name": "HIDDEN GAZE",
+    "prerequisite": "Genjutsu 15 ranks.",
+    "benefit": "When applied to a Doujutsu technique, it cannot be avoided by Averting One's Gaze and affects the target as long as you are in their line of sight. The Perform Requirements increase by 2, and the Chakra Cost increases by 1 for every 2 Ranks of the technique (rounded up)",
+    "special": "A technique enhanced by this feat cannot be enhanced by other meta-Chakra feats."
+  },
+  {
+    "name": "IMPROVED AVOIDANCE",
+    "prerequisite": "Str or Int 13.",
+    "benefit": "Up to three times per day, you can spend a meta-Chakra charge when performing a 'defensive maneuver' or 'avoiding an attack'. If you do, the action's use does not count against your daily limit or against that technique's uses per day (if any).",
+    "special": "Can be selected a second time to get two additional uses per day. The prerequisite increases to Str or Int 15."
+  },
+  {
+    "name": "INNATE CONTROL",
+    "prerequisite": "Chakra Control 15 ranks, Harmony.",
+    "benefit": "Once per round as a free action, you can spend a meta-Chakra charge to automatically perform the Kinobori, Tadayou or Yukigutsu technique without needing to make a perform check, concentrate or spend any Chakra, even if you don't know the technique. This can be done even if it isn't your turn.",
+    "special": ""
+  },
+  {
+    "name": "MAXIMIZE TECHNIQUE",
+    "prerequisite": "Empower Technique, Chakra Pool 60, Chakra Control 15 ranks.",
+    "benefit": "When applied to a Fuinjutsu, Genjutsu or Ninjutsu technique, all random, numerical variables are counted as though you rolled the highest amount possible. Saving throws, weapon damage and opposed rolls are not affected. The Perform Requirements increase by 3, and the Chakra Cost increases by 3, plus 1 for every Rank of the technique.",
+    "special": "A technique enhanced in this way cannot be enhanced by other meta-Chakra feats."
+  },
+  {
+    "name": "ONE-HANDED SEALS",
+    "prerequisite": "Ninjutsu 9 ranks, Sleight of Hand 6 ranks, Genius Ninja (genjutsu or ninjutsu).",
+    "benefit": "You may change the hand seal component of Fuinjutsu, Genjutsu and Ninjutsu techniques you perform to half seals by increasing its Perform Requirements by 2. Using this feat in this manner does not consume a meta-Chakra charge, though you may spend a charge to ignore the perform requirement increase for one technique.",
+    "special": ""
+  },
+  {
+    "name": "ONE-MAN ARMY",
+    "prerequisite": "Any 1 meta-Chakra feat, Kage Bunshin no Jutsu (3), Tajuu Kage Bunshin no Jutsu.",
+    "benefit": "When applied to (Tajuu) Kage Bunshin, you suffer 1 less damage per clone created (minimum 1 damage).",
+    "special": ""
+  },
+  {
+    "name": "PATH OF THE FIENDFIRE",
+    "prerequisite": "Blood Mage, Knowledge (ninja lore) 9 ranks, Fuinjutsu 9 ranks, Con 15.",
+    "benefit": "As a swift action, you can spend a metaChakra charge to gain Fire Resistance 5 for 3 rounds. This feat is also required to learn Path of the Fiendfire techniques (p346), and you may do so without penalties (even if they are Fuinjutsu).",
+    "special": ""
+  },
+  {
+    "name": "PROTECTIVE TECHNIQUE",
+    "prerequisite": "Any 1 meta-Chakra feat, Con 13.",
+    "benefit": "When applied to a Chakra Control or Ninjutsu technique used on yourself, you gain a +4 deflection bonus to Defense for 1 round. The technique's Perform Requirements increase by 2, and the Chakra Cost increases by 1 for every 2 Ranks of the technique (rounded up).",
+    "special": "A technique enhanced by this feat cannot be enhanced by other meta-Chakra feats."
+  },
+  {
+    "name": "STURDY ILLUSION",
+    "prerequisite": "Any 1 meta-Chakra feat, Genjutsu 12 ranks.",
+    "benefit": "When applied to a Genjutsu technique, it has a 20% chance to resist being dispelled (when someone attempts to dispel it, roll to determine if the at- tempt is resisted). The technique's Perform Requirements increase by 2, and the Chakra Cost increases by 1 for every 2 Ranks of the technique (rounded up).",
+    "special": "A technique enhanced by this feat cannot be enhanced by other meta-Chakra feats."
+  },
+  {
+    "name": "SUPERCHARGE TECHNIQUE",
+    "prerequisite": "Any 1 meta-Chakra feat.",
+    "benefit": "When applied to an elemental Ninjutsu technique, half the elemental damage of the element's type dealt by the technique is changed to force damage. The technique's Perform Requirements increase by 3, and the Chakra Cost increases by 3, plus 1 for every 2 Ranks of the technique (rounded up).",
+    "special": "A technique enhanced by this feat cannot be enhanced by other meta-Chakra feats."
+  },
+  {
+    "name": "UNDERHANDED TECHNICIAN",
+    "prerequisite": "Sneak attack +2d6.",
+    "benefit": "When applied to a Chakra Control or Ninjutsu technique that either has a single target or is shaped to target a number of creatures up to your Intelligence modifier (maximum 3), you may apply your sneak attack damage dice to the total damage dealt if you qualify for sneak attack damage. In addition, you gain a +4 bonus to checks to conceal the technique's Chakra Cost.\n\nThe technique's Perform Requirements increase by 6, and the Chakra Cost increases by 3, plus 1 for every 2 Ranks of the technique (rounded up).",
+    "special": "A technique enhanced by this feat cannot be enhanced by other meta-Chakra feats."
+  },
+  {
+    "name": "VILE TECHNIQUE",
+    "prerequisite": "Any 2 meta-Chakra feats, Wis 16, evil allegiance.",
+    "benefit": "When applied to any Ninjutsu technique that deals direct damage, convert half of the damage it deals to negative energy damage. The technique's Perform Requirements increase by 2, and the Chakra Cost increases by 1 for every 2 Ranks of the technique (rounded up).",
+    "special": "A technique enhanced by this feat cannot be enhanced by other meta-Chakra feats."
+  },
+  {
+    "name": "WIDEN TECHNIQUE",
+    "prerequisite": "",
+    "benefit": "When applied to a technique with a burst, emanation, line or spread shaped area of effect, you increase any numerical values of the technique's area by 50% (but not its range). The technique's Perform Requirements increase by 3, and the Chakra Cost increases by 2, plus 1 for every 2 Ranks of the technique (rounded up).",
+    "special": ""
+  }
+]

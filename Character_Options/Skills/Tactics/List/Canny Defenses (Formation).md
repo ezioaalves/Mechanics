@@ -1,0 +1,3 @@
+You break illusions down as a team
+**Prerequisite**: Knowledge (ninja lore) 10 ranks or Genjutsu 14 ranks.
+**Benefit**: When you or an ally within 30 feet needs to make a Genjutsu check to identify or analyze a genjutsu, the check can instead be made by the ally with the Canny Defense tactic with the highest check modifier to identify a Genjutsu, if he is within 30 feet and able to communicate in a manner that can be understood. The Canny Defense can only be used once per round.
