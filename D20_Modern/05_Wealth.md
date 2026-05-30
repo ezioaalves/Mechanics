@@ -14,43 +14,19 @@ Every character has a Wealth bonus that reflects his or her buying power—a com
 
 To determine a character’s starting Wealth bonus, roll 2d4 and add the wealth bonus for the character’s starting occupation, plus (if appropriate) the bonus from the Windfall feat. Over the course of play, the hero’s Wealth bonus will decrease as the hero purchases expensive items and increase as the hero gains levels. A character’s Wealth bonus can never fall below +0, and there is no limit to how high the Wealth bonus can climb. Since Wealth is an abstract concept, it’s sometimes difficult to determine how financially well off a character is. To get a general sense of how financially solvent a character is at any given time, check the table below.
 
-### Wealth Bonus
-
-### Financial Condition
-
-+0
-
-### Impoverished or in debt
-
-+1 to +4
-
-### Struggling
-
-+5 to +10
-
-### Middle class
-
-+11 to +15
-
-### Affluent
-
-+16 to +20
-
-### Wealthy
-
-+21 to +30
-
-### Rich
-
-+31 or higher
-
-### Very rich
+| Wealth Bonus  | Financial Condition     |
+|---------------|-------------------------|
+| +0            | Impoverished or in debt |
+| +1 to +4      | Struggling              |
+| +5 to +10     | Middle class            |
+| +11 to +15    | Affluent                |
+| +16 to +20    | Wealthy                 |
+| +21 to +30    | Rich                    |
+| +31 or higher | Very rich               |
 
 ### Purchasing Equipment
 
-Wealth checks are used to determine what characters can afford and what gear they might reasonably have access to. Every character has a Wealth bonus that reflects his or her buying power. Every object and service has a purchase DC. To purchase an object, make a Wealth check against the purchase
-
-## Dc.
+Wealth checks are used to determine what characters can afford and what gear they might reasonably have access to. Every character has a Wealth bonus that reflects his or her buying power. Every object and service has a purchase DC. To purchase an object, make a Wealth check against the purchase DC.
 
 ### The Wealth Check
 
@@ -80,19 +56,12 @@ One other character can make an aid another attempt to help a character purchase
 
 Any time a character purchases an object or service with a purchase DC higher than his or her current Wealth bonus, or one with a purchase DC of 15 or higher, the character’s Wealth bonus goes down. How much the Wealth bonus is reduced depends on how expensive the object is.
 
-### Wealth
-
-### Bonus
-
-### Object or Service Purchase DC
-
-### Decrease
-
-15 or higher
-
-1 point 1–10 points higher than current Wealth bonus 1 point 11–15 points higher than current Wealth bonus 1d6 points 16 or more points higher than current
-
-2d6 points
+| Object or Service Purchase DC                 | Wealth Bonus Decrease |
+|-----------------------------------------------|-----------------------|
+| 15 or higher                                  | 1 point               |
+| 1–10 points higher than current Wealth bonus  | 1 point               |
+| 11–15 points higher than current Wealth bonus | 1d6 points            |
+| 16 or more points higher than current         | 2d6 points            |
 
 Along with this loss, any time a character buys an object or service with a purchase DC of 15 or higher, the character
 
