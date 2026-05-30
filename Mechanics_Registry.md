@@ -15,6 +15,7 @@ The foundational mechanics of the Naruto d20 system.
 *   **[Special Shinobi Features](Basic_Rules/Special%20Shinobi%20Features/Special%20Shinobi%20Features.md)**
 *   **[Power Scaling: Strength & Speed Ranks](Basic_Rules/St%20Sp%20Ranks/Ranks.md)**
 *   **[Skill Conversion Table](House_Rules/Skill%20-%20Conversion.md)** (d20 Modern to Pathfinder/Kaihou)
+*   **[d20 Modern Base Rules](D20_Modern/Registry.md)** — the unmodified SRD foundation; Kaihou rules override where they overlap.
 
 ---
 

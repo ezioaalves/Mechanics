@@ -1,0 +1,96 @@
+{
+  "type": "class",
+  "name": "Smart",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "flags": {
+    "pf1": {
+      "links": {
+        "classAssociations": {}
+      }
+    }
+  },
+  "system": {
+    "description": {
+      "value": "The Smart Ninja relies on Intelligence for a wide skill base and proficiency in the Ninja Arts. Gains talents (Research, Strategy, Ninjutsu trees) at odd levels and bonus feats at even levels.",
+      "instructions": ""
+    },
+    "tags": [],
+    "changes": [],
+    "changeFlags": {
+      "immuneToMorale": false,
+      "loseDexToAC": false,
+      "noMediumEncumbrance": false,
+      "noHeavyEncumbrance": false,
+      "mediumArmorFullSpeed": false,
+      "heavyArmorFullSpeed": false,
+      "lowLightVision": false,
+      "seeInvisibility": false,
+      "seeInDarkness": false
+    },
+    "contextNotes": [],
+    "links": {
+      "children": [],
+      "classAssociations": []
+    },
+    "tag": "smart",
+    "armorProf": [],
+    "weaponProf": ["simple", "Nin Weapon"],
+    "languages": [],
+    "flags": {
+      "boolean": {},
+      "dictionary": {}
+    },
+    "scriptCalls": [
+      {
+        "category": "changeLevel",
+        "type": "script",
+        "name": "New Script Call",
+        "img": null,
+        "value": "",
+        "hidden": false
+      }
+    ],
+    "subType": "base",
+    "level": 0,
+    "hd": 6,
+    "hp": 0,
+    "bab": "low",
+    "skillsPerLevel": 9,
+    "savingThrows": {
+      "fort": { "value": "low" },
+      "ref":  { "value": "low" },
+      "will": { "value": "low", "custom": "floor((2 * @level + 6) / 5)" }
+    },
+    "fc": {
+      "hp":    { "value": 0 },
+      "skill": { "value": 0 },
+      "alt":   { "value": 0, "notes": "" }
+    },
+    "wealth": "",
+    "alignment": "",
+    "classSkills": {
+      "acr": false, "apr": false, "art": false, "blf": true,
+      "clm": false, "crf": true,  "dip": false, "dev": true,
+      "dis": false, "esc": false, "fly": false, "han": false,
+      "hea": false, "int": false, "kar": true,  "kdu": true,
+      "ken": false, "kge": true,  "khi": true,  "klo": true,
+      "kna": true,  "kno": true,  "kpl": false, "kre": true,
+      "lin": true,  "lor": true,  "per": true,  "prf": false,
+      "pro": true,  "rid": false, "sen": false, "slt": false,
+      "spl": false, "ste": false, "sur": false, "swm": false,
+      "umd": false, "ckc": true,  "fui": true,  "gnj": false,
+      "nin": true,  "tai": false
+    },
+    "customHD": "",
+    "casting": {
+      "type": "",
+      "progression": "high",
+      "ability": "int",
+      "spells": "arcane",
+      "domain": null,
+      "offset": null,
+      "cantrips": false
+    }
+  }
+}

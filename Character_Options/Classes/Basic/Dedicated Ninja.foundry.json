@@ -1,0 +1,96 @@
+{
+  "type": "class",
+  "name": "Dedicated",
+  "img": "icons/svg/eye.svg",
+  "effects": [],
+  "flags": {
+    "pf1": {
+      "links": {
+        "classAssociations": {}
+      }
+    }
+  },
+  "system": {
+    "description": {
+      "value": "The Dedicated Ninja relies on Wisdom and intuition, excelling at awareness, chakra control, and knowledge. Gains talents (Chakra Control, Empathic, Healing, Insightful trees) at odd levels and bonus feats at even levels.",
+      "instructions": ""
+    },
+    "tags": [],
+    "changes": [],
+    "changeFlags": {
+      "immuneToMorale": false,
+      "loseDexToAC": false,
+      "noMediumEncumbrance": false,
+      "noHeavyEncumbrance": false,
+      "mediumArmorFullSpeed": false,
+      "heavyArmorFullSpeed": false,
+      "lowLightVision": false,
+      "seeInvisibility": false,
+      "seeInDarkness": false
+    },
+    "contextNotes": [],
+    "links": {
+      "children": [],
+      "classAssociations": []
+    },
+    "tag": "dedicated",
+    "armorProf": [],
+    "weaponProf": ["simple", "Nin Weapon"],
+    "languages": [],
+    "flags": {
+      "boolean": {},
+      "dictionary": {}
+    },
+    "scriptCalls": [
+      {
+        "category": "changeLevel",
+        "type": "script",
+        "name": "New Script Call",
+        "img": null,
+        "value": "",
+        "hidden": false
+      }
+    ],
+    "subType": "base",
+    "level": 0,
+    "hd": 6,
+    "hp": 0,
+    "bab": "low",
+    "skillsPerLevel": 5,
+    "savingThrows": {
+      "fort": { "value": "low", "custom": "floor((2 * @level + 6) / 5)" },
+      "ref":  { "value": "low" },
+      "will": { "value": "low", "custom": "floor((2 * @level + 6) / 5)" }
+    },
+    "fc": {
+      "hp":    { "value": 0 },
+      "skill": { "value": 0 },
+      "alt":   { "value": 0, "notes": "" }
+    },
+    "wealth": "",
+    "alignment": "",
+    "classSkills": {
+      "acr": false, "apr": false, "art": false, "blf": false,
+      "clm": false, "crf": true,  "dip": false, "dev": false,
+      "dis": false, "esc": false, "fly": false, "han": false,
+      "hea": true,  "int": false, "kar": true,  "kdu": true,
+      "ken": false, "kge": true,  "khi": true,  "klo": true,
+      "kna": true,  "kno": true,  "kpl": true,  "kre": true,
+      "lin": true,  "lor": true,  "per": true,  "prf": false,
+      "pro": true,  "rid": false, "sen": true,  "slt": false,
+      "spl": false, "ste": false, "sur": true,  "swm": false,
+      "umd": false, "ckc": true,  "fui": false, "gnj": false,
+      "nin": true,  "tai": false
+    },
+    "customHD": "",
+    "casting": {
+      "type": "",
+      "progression": "high",
+      "ability": "wis",
+      "spells": "arcane",
+      "domain": null,
+      "offset": null,
+      "cantrips": false
+    }
+  }
+}
