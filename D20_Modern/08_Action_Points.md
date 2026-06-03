@@ -16,16 +16,10 @@ When a character spends 1 action point to improve a d20 roll, add 1d6 to the d20
 
 A character can only spend 1 action point in a round. If a character spends a point to use a class feature, he or she can’t spend another one in the same round to improve a die roll, and vice versa. Depending on the hero’s character level (see the table below), he or she may be able to roll more than one d6 when spending 1 action point. If the character does so, apply the highest result and disregard the other rolls.
 
-### Character Level Action Point Dice Rolled
 
-1st–7th
+| Character Level | Action Point Dice Rolled |
+| --------------- | ------------------------ |
+| 1st–7th         | 1d6                      |
+| 8th–14th        | 2d6                      |
+| 15th–20th       | 3d6                      |
 
-1d6
-
-8th–14th
-
-2d6
-
-15th–20th
-
-3d6

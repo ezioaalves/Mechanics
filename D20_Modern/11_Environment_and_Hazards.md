@@ -12,33 +12,15 @@
 
 It’s a rare mission that doesn’t end up in the dark somewhere, and heroes need a way to see. See Table: Light Sources for the radius that a light source illuminates and how long it lasts.
 
-<!-- TODO: rebuild table grid -->
-```text
-Table: Light Sources
-Item
+Table:Light Sources
 
-Light
-
-Duration
-Candle
-
-5 feet
-
-12 hours
-Torch
-
-20 feet
-2 hours
-Halogen lantern
-40 feet
-24 hours
-Flashlight
-
-20 feet*
-6 hours
-```
-
-*Creates a beam 30 feet long and 5 feet high.
+| Item            | Light    | Duration |
+| --------------- | -------- | -------- |
+| Candle          | 5 feet   | 12 hours |
+| Torch           | 20 feet  | 2 hours  |
+| Halogen lantern | 40 feet  | 24 hours |
+| Flashlight      | 20 feet* | 6 hours  |
+\*Creates a beam 30 feet long and 5 feet high.
 
 ### Heat and Cold
 
@@ -72,170 +54,69 @@ A character takes 1d6 points of damage for every 10 feet of a fall, to a maximum
 
 ### Falling Objects
 
-Objects that fall upon characters (or creatures or vehicles) deal damage based on their size and the distance fallen, as noted on
-
-<!-- TODO: rebuild table grid -->
-```text
-Table: Damage from Falling Objects.
-```
-
+Objects that fall upon characters (or creatures or vehicles) deal damage based on their size and the distance fallen, as noted on Table: Damage from Falling Objects.
 Objects deal the initial damage given in Table: Damage from Falling Objects if they fall 10 feet or less. An object deals an additional 1d6 points of damage for every 10-foot increment it falls beyond the first (to a maximum of 20d6 points of damage). Objects of Fine size are too small to deal damage, regardless of the distance fallen. A successful Reflex save indicates that the target takes half damage. The size of the falling object determines the save DC. If the save fails by 10 or more, and the object is at least three size categories larger than the character, the character is pinned under the fallen object. A pinned character cannot move but is not helpless. The character can make a Strength check to lift the object off him or herself or an Escape Artist check (DC 20) to get out from underneath. The GM can modify the DCs for these checks based on the circumstances.
 
-<!-- TODO: rebuild table grid -->
-```text
 Table: Damage from Falling Objects
 
-Initial
-Reflex     Strength
-Object Size
-Examples
-Damage
-Save DC    Check DC
-Fine
-Penny
-n/a
- n/a
-Diminutive
-Paperweight
- n/a
-Tiny
-Wrench
-1d3
- n/a
-Small
-Vase
-1d4
-Medium-size Briefcase
-1d6
-Large
-Garbage can
-2d6
-Huge
-Oil barrel
-4d6
-Gargantuan
-Piano
-8d6
-Colossal
-Vehicle
-10d6
+| Object Size | Examples    | Initial Damage | Reflex Save DC | Strength Check DC |
+| ----------- | ----------- | -------------- | -------------- | ----------------- |
+| Fine        | Penny       | 0              | n/a            | n/a               |
+| Diminutive  | Paperweight | 1              | 0              | n/a               |
+| Tiny        | Wrench      | 1d3            | 5              | n/a               |
+| Small       | Vase        | 1d4            | 10             | 5                 |
+| Medium-size | Briefcase   | 1d6            | 15             | 10                |
+| Large       | Garbage can | 2d6            | 20             | 20                |
+| Huge        | Oil barrel  | 4d6            | 25             | 30                |
+| Gargatuan   | Piano       | 8d6            | 30             | 40                |
+| Colossal    | Vehicle     | 10d6           | 35             | 50                |
 
-Poison
-```
+### Poison
 
 When a character takes damage from an attack with a poisoned weapon, touches an item smeared with contact poison, consumes a poisonous substance, inhales a poisonous gas, or is
 
 otherwise poisoned, the character must make a Fortitude saving throw. If the character fails, he or she takes the poison’s initial damage (usually ability damage). Even if the character succeeds, he or she typically faces secondary damage 1 minute later. This secondary damage also requires a Fortitude saving throw to avoid. Poisons are detailed in the Craft(chemical) skill description. Poisonous liquids are usually administered through injection or by application to a weapon. Poisonous gases must be inhaled to be effective. Poisonous solids are usually ingested with food or drink.
 
-### Perils of Using Poison
+#### Perils of Using Poison
 
 A character has a 5% chance (roll of 1 on 1d20) to expose him or herself to a poison whenever the character applies it to a weapon or otherwise readies it for use. Additionally, a character who rolls a 1 on an attack roll with a poisoned weapon must succeed at a Reflex saving throw (DC 15) or accidentally poison him or herself with the weapon.
 
-### Poison Immunity
+#### Poison Immunity
 
 Creatures with natural poison attacks are immune to their own poison. Nonliving creatures and creatures without metabolisms are immune to poison. Oozes and certain kinds of creatures are immune to poison, as detailed in their descriptions, though it is conceivable that a special poison could be synthesized specifically to harm them.
 
 ### Disease
 
-When a character is exposed to a treatable disease, the character must make an immediate Fortitude saving throw. The victim must make this roll when he or she comes into contact with an infectious carrier, touches an item smeared with diseased matter, consumes food or drink tainted with a disease, or suffers damage from a contaminated attack. If the character succeeds, the disease has no effect on him or her—the character’s immune system fights off the infection. If the character fails the save, he or she takes damage after an incubation period; once per day thereafter, the character must succeed at a Fortitude saving throw to avoid secondary damage. Two successful saving throws in a row indicate that the character has fought off the disease and recovers, taking no more damage. The characteristics of some treatable diseases are summarized on Table: Diseases. Type: The disease’s method of delivery—ingested, inhaled, or via an injury—and the DC needed to save. Some injury diseases can be transmitted by a wound as small as an insect bite. Most diseases that are inhaled can also be ingested (and vice versa). Incubation Period: The amount of time before initial damage takes effect (if the victim fails his or her Fortitude save). Initial Damage: The damage the victim takes after the incubation period. Secondary Damage: The amount of damage the hero takes one day after taking initial damage, if he or she fails a second saving throw. This damage is taken each day the saving throw fails.
+When a character is exposed to a treatable disease, the character must make an immediate Fortitude saving throw. The victim must make this roll when he or she comes into contact with an infectious carrier, touches an item smeared with diseased matter, consumes food or drink tainted with a disease, or suffers damage from a contaminated attack. If the character succeeds, the disease has no effect on him or her—the character’s immune system fights off the infection. If the character fails the save, he or she takes damage after an incubation period; once per day thereafter, the character must succeed at a Fortitude saving throw to avoid secondary damage. Two successful saving throws in a row indicate that the character has fought off the disease and recovers, taking no more damage. The characteristics of some treatable diseases are summarized on Table: Diseases. 
+Type: The disease’s method of delivery—ingested, inhaled, or via an injury—and the DC needed to save. Some injury diseases can be transmitted by a wound as small as an insect bite. Most diseases that are inhaled can also be ingested (and vice versa). 
+Incubation Period: The amount of time before initial damage takes effect (if the victim fails his or her Fortitude save). 
+Initial Damage: The damage the victim takes after the incubation period. Secondary Damage: The amount of damage the hero takes one day after taking initial damage, if he or she fails a second saving throw. This damage is taken each day the saving throw fails.
 
-### Table 7–11: Diseases
+Table 7–11: Diseases
 
-### Incubation
-
-### Disease
-
-### Type
-
-### Period
-
-### Initial Damage
-
-### Secondary Damage
-
-### Anthrax
-
-### Inhaled/Injury DC 16
-
-1d2 days 1 Con
-
-1d4 Con*
-
-### Small pox
-
-### Inhaled/Contact DC 15
-
-2d4 days 1 Str and 1 Con 1d2 Str and 1d2 Con
-
-### Pneumonia
-
-### Inhaled DC 12
-
-1d4 days 1 Str
-
-1d3 Str and 1d3 Con
-
-### Hantavirus
-
-### Injury DC 14
-
-1 day
-
-1d2 Str
-
-1d2 Str* and 1d2 Con*
-
-### Necrotizing faciitis
-
-### Contact DC 13
-
-1d6 days 1 Con
-
-1d3 Con*
-
-### West Nile virus
-
-### Injury DC 12
-
-1d4 days 1 Dex and 1 Con 1d2 Dex and 1d2 Con*
-
-### Salmonellosis
-
-### Ingested DC 13
-
-1 day
-
-1 Str and 1 Dex 1 Str and 1d3 Dex *If damage is sustained, make a second saving throw to avoid 1 point being permanently drained (instead of damaged).
+| Disease               | Type                 | Incubation Period | Initial Damage  | Secondary Damage        |
+| --------------------- | -------------------- | ----------------- | --------------- | ----------------------- |
+| Anthrax               | Inhaled/Injury DC 16 | 1d2 days          | 1 Con           | 1d4 Con*                |
+| Small Pox             | Inhaled/Contact D 15 | 2d4 days          | 1 Str and 1 Con | 1d2 Str and 1d2 Con     |
+| Pneumonia             | Inhaled DC 12        | 1d4 days          | 1 Str           | 1d3 Str and 1d3 Con     |
+| Hantavirus            | Injury DC 14         | 1 day             | 1d2 Str         | 1d2 Str\* and 1d2 Con\* |
+| Necrotizing facilitis | Contact DC 13        | 1d6 days          | 1 Con           | 1d3 Con*                |
+| West Nile virus       | Injury DC 12         | 1d4 days          | 1 Dex and 1 Con | 1d2 Dex and 1d2 Con     |
+| Salmonellosis         | Ingested DC 13       | 1 day             | 1 Str and 1 Dex | 1 Str and 1d3 Dex       |
+\*If damage is sustained, make a second saving throw to avoid 1 point being permanently drained (instead of damaged).
 
 ### Acid
 
 Corrosive acids deal damage each round of exposure. The amount of damage varies depending on the acid’s strength, as noted on Table: Acid Damage.
 
-<!-- TODO: rebuild table grid -->
-```text
 Table: Acid Damage
-Acid Strength
 
-Splash Attack*
-Total Immersion*
-Mild
-
-1d6
-
-1d10
-Potent
-
-2d6
-
-2d10
-Concentrated
-
-3d6
-
-3d10
-```
-
-*Damage per round of exposure.
+| Acid Strength | Splash Attack\* | Total Immersion\* |
+| ------------- | --------------- | ----------------- |
+| Mild          | 1d6             | 1d10              |
+| Potent        | 2d6             | 2d10              |
+| Concentrated  | 3d6             | 3d10              |
+\*Damage per round of exposure.
 
 Acid damage from an attack reduces hit points. A character fully immersed in acid takes potentially more damage per round of exposure than a character splashed with acid. The fumes from most acids are inhaled poisons. Those who come within 5 feet of a large body of acid must make a Fortitude save (DC 15) or take 1 point of temporary Constitution damage. A second save must succeed 1 minute later to avoid taking another 1d4 points of Constitution damage.
 
@@ -243,26 +124,12 @@ Acid damage from an attack reduces hit points. A character fully immersed in aci
 
 Electrical hazards come in many forms, including stun guns, downed power lines, and electric security fences. Table: Electricity Damage gives damage values for various electrical hazards based on relative voltage. A character can make a Fortitude saving throw to reduce the damage by half. If that character is not grounded or is otherwise insulated from the current, a successful save indicates that no damage is suffered.
 
-<!-- TODO: rebuild table grid -->
-```text
 Table: Electricity Damage
-Type
-Examples
-Damage
-Fort DC
-Jolt
-Car battery, stun gun
-1d3
-Low voltage
-Fuse box, electrical
-2d6
-socket
-Medium voltage Industrial transformer, 4d6
 
-electric fence
-High voltage
-Power line, electric
-8d6
+| Type           | Examples                               | Damage | Fort DC |
+| -------------- | -------------------------------------- | ------ | ------- |
+| Jolt           | Car battery, stun gun                  | 1d3    | 10      |
+| Low voltage    | Fuse box, electrical socket            | 2d6    | 15      |
+| Medium voltage | Industrial transformer, electric fence | 4d6    | 15      |
+| High voltage   | Power line, electric chair, lightning  | 8d6    | 20      |
 
-chair, lightning
-```

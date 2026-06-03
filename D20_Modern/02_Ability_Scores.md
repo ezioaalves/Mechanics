@@ -15,29 +15,17 @@ Every character has six basic Ability Scores: Strength (STR) Dexterity (DEX) Con
 Each ability will have a modifier. The modifier can be calculated using this formula: (ability/2) -5 [round result down] The modifier is the number you add to or subtract from the die roll when your character tries to do something related to that ability. A positive modifier is called a bonus, and a negative modifier is called a penalty.
 
 ### Use of Ability Scores
-
-### Strength
-
+*Strength*
 Any creature that can physically manipulate other objects has at least 1 point of Strength. A creature with no Strength score can't exert force, usually because it has no physical body or because it doesn't move. The creature automatically fails Strength checks. If the creature can attack, it applies its Dexterity modifier to its base attack instead of a Strength modifier.
-
-### Dexterity
-
-Any creature that can move has at least 1 point of Dexterity. A creature with no Dexterity score can't move. If it can act, it applies its Intelligence modifier to initiative checks instead of a Dexterity modifier. The creature fails all Reflex saves and Dexterity checks.
-
-### Constitution
-
+*Dexterity*
+Any creature that can move has at least 1 point of Dexterity. A creature with no Dexterity score can't move. If it can act, it applies its Intelligence modifier to initiative checks instead of a Dexterity modifier. The creature fails all Reflex saves and Dexterity checks
+*Constitution*
 If a character's Constitution changes enough to alter his or her Constitution modifier, his or her hit points also increase or decrease accordingly at the same time. Any living creature has at least 1 point of Constitution. A creature with no Constitution has no body or no metabolism. It is immune to any effect that requires a Fortitude save unless the effect works on objects. The creature is also immune to ability damage, ability drain, energy drain, and massive damage, and always fails Constitution checks.
-
-### Intelligence
-
+*Intelligence*
 Any creature that can think, learn, or remember has at least 1 point of Intelligence. A creature with no Intelligence score is an automaton, operating on simple instincts or programmed instructions. It is immune to all mind-influencing effects (charms, compulsions, phantasms, patterns and morale effects) and automatically fails Intelligence checks.
-
-### Wisdom
-
+*Wisdom*
 Any creature that can perceive its environment in any fashion has at least 1 point of Wisdom. Anything with no Wisdom score is an object, not a creature. Anything without a Wisdom score also has no Charisma score, and vice versa.
-
-### Charisma
-
+*Charisma*
 Any creature capable of telling the difference between itself and things that are not itself has at least 1 point of Charisma.
 
 ### Changing Ability Scores

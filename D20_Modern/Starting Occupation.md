@@ -1,0 +1,4 @@
+A hero may hold other jobs as his or her career unfolds, but the benefits of a starting occupation are only applied once, at thetime of character creation.
+Many starting occupations have a prerequisite that the character must meet to qualify for the occupation. Each occupation provides a number of additional permanent class skills that the character can select from a list of choices. Once selected, a permanent class skill is always considered to be a class skill for the character. If the skill selected is already a class skill for the character, he or she gains a one-time competence bonus for that skill.
+Some starting occupations provide a Reputation bonus or a bonus feat (in addition to the two feats a 1st-level character already receives). Finally, a starting occupation increases the character’s Wealth bonus.
+Choose one occupation from the available selections and apply the benefits to the character as noted in the occupation’s description.

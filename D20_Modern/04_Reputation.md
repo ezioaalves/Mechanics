@@ -18,14 +18,12 @@ Most characters with a high Reputation bonus (+4 or higher) are considered well 
 
 Whenever the GM decides that a character’s reputation can be a factor in an encounter, the GM makes a Reputation check (DC 25) for the GM character involved. A Reputation check is 1d20 + the hero’s Reputation bonus + the GM character’s Int modifer. (Some Knowledge skill modifiers might apply instead of the Int modifier, if the hero would be well known in the field covered by the Knowledge skill.) Modifiers to the Reputation check depend on the hero and the GM character in question, as shown below. Note that if the GM character has no possible way of recognizing a hero, then the Reputation check automatically fails. If the GM character succeeds at the Reputation check, he or she recognizes the hero. This provides a +4 bonus or a –4 penalty on checks involving the following skills for the duration of the encounter: Bluff, Diplomacy, Gather Information, Intimidate, and Perform.
 
-### Reputation
 
-### Check
+| Situation                                                                             | Reputation Check Modifier |
+| ------------------------------------------------------------------------------------- | ------------------------- |
+| The hero is famous, known far and wide with either a positive or negative connotation | +10                       |
+| GM character is part of the hero’s professional or social circle                      | +5                        |
+| The hero has some small amount of fame or notoriety                                   | +2                        |
 
-### Situation
-
-### Modifier
-
-The hero is famous, known far and wide with either +10 a positive or negative connotation GM character is part of the hero’s professional or +5 social circle The hero has some small amount of fame or notoriety +2
 
 The GM must decide that a character’s fame or infamy can come into play in a given situation to make a Reputation check necessary. A character who doesn’t know, or know of, the hero can’t be influenced by his or her reputation.
