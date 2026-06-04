@@ -18,12 +18,12 @@ _none_
 
 ## Bespoke
 
-- dedicated-ninja
 - charismatic-ninja
 - smart-ninja
 - strong-ninja
 - tough-ninja
 - fast-ninja
+- dedicated-ninja
 
 ## Cross-reference issues
 

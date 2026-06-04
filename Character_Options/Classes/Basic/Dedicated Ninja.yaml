@@ -5,7 +5,7 @@ source: "NarutoD20 Redux v1.3"
 ability: wis
 hit_die: d6
 action_points: "5 + level/2"
-bab: low
+bab: mid
 saves:
   fort: low
   ref: low
