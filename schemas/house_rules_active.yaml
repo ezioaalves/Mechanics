@@ -1,0 +1,146 @@
+# Machine projection of the active House Rules. Sources:
+#   - Mechanics/House_Rules/Feat Overhaul (EITR).md
+#   - Mechanics/House_Rules/Skill - Conversion.md
+#   - Mechanics/House_Rules/Skills.md
+#   - Mechanics/House_Rules/Feature Progression.md
+#   - Mechanics/House_Rules/Bloodline Progression.md
+#
+# When you change any of those prose files, update this projection by hand.
+# The validator does NOT auto-derive (per feedback_no_aggressive_extraction).
+
+spec_version: 1
+
+active_skills:                              # file-backed only: each slug maps to a Skills/*.md file
+  - acrobatics
+  - appraise
+  - bluff
+  - chakra-control
+  - climb
+  - craft-armor
+  - craft-calligraphy
+  - craft-chemical
+  - craft-explosives
+  - craft-mechanics
+  - craft-pharmaceutical
+  - craft-weapons
+  - diplomacy
+  - disable-device
+  - disguise
+  - escape-artist
+  - fuinjutsu
+  - genjutsu
+  - handle-animal
+  - heal
+  - intimidate
+  - knowledge-arcana                        # absorbs Knowledge (Ninja) per D16
+  - knowledge-dungeoneering
+  - knowledge-engineering
+  - knowledge-history
+  - knowledge-local
+  - knowledge-nature
+  - knowledge-nobility
+  - knowledge-planes
+  - knowledge-religion
+  - linguistics
+  - ninjutsu
+  - perception
+  - perform
+  - perform-martial-arts
+  - profession
+  - ride
+  - sense-motive
+  - sleight-of-hand
+  - stealth
+  - survival
+  - swim
+  - taijutsu
+
+# Perform (Act / Dance / Music / Oratory) and Craft (Alchemy / Traps) are
+# legal Pathfinder subcategories per Skills.md but no Skills/*.md file exists
+# for them yet. Add the slug here only after the corresponding file lands.
+
+skill_conversion:                           # parsed from Skill - Conversion.md
+  balance: acrobatics
+  bluff: bluff
+  climb: climb
+  concentration: chakra-control
+  decipher-script: linguistics
+  demolitions: craft-explosives
+  diplomacy: diplomacy
+  disable-device: disable-device
+  disguise: disguise
+  drive: ride
+  escape-artist: escape-artist
+  forgery: linguistics
+  gamble: profession
+  gather-information: diplomacy
+  handle-animal: handle-animal
+  hide: stealth
+  intimidate: intimidate
+  investigate: perception
+  jump: acrobatics
+  knowledge-ninja-lore: knowledge-arcana
+  knowledge-ninja: knowledge-arcana         # D16: K(Ninja) absorbed
+  knowledge-arcane-lore: knowledge-arcana
+  knowledge-art: knowledge-history
+  knowledge-behavioral-sciences: sense-motive
+  knowledge-business: profession
+  knowledge-civics: knowledge-nobility
+  knowledge-current-events: knowledge-local
+  knowledge-earth-and-life-sciences: knowledge-nature
+  knowledge-history: knowledge-history
+  knowledge-physical-sciences: knowledge-engineering
+  knowledge-popular-culture: knowledge-local
+  knowledge-shadowlands: knowledge-dungeoneering
+  knowledge-streetwise: knowledge-local
+  knowledge-tactics: knowledge-arcana
+  listen: perception
+  move-silently: stealth
+  navigate: survival
+  perform: perform
+  pilot: profession
+  profession: profession
+  read-write-language: linguistics
+  repair: craft
+  research: linguistics
+  ride: ride
+  search: perception
+  sense-motive: sense-motive
+  sleight-of-hand: sleight-of-hand
+  speak-language: linguistics
+  spot: perception
+  survival: survival
+  swim: swim
+  treat-injury: heal
+  tumble: acrobatics
+  use-computer: knowledge-engineering
+  use-rope: survival
+
+removed_feats:                              # parsed from EITR § Removed (truly removed: became universal at BAB +1)
+  - power-attack
+  - combat-expertise
+  - deadly-aim
+  - weapon-finesse
+  - agile-maneuvers
+
+merged_feats:                               # parsed from EITR § Merged Feats
+  improved-disarm: deft-maneuvers
+  improved-trip: deft-maneuvers
+  improved-feint: deft-maneuvers
+  improved-dirty-trick: deft-maneuvers
+  improved-bull-rush: powerful-maneuvers
+  improved-overrun: powerful-maneuvers
+  improved-sunder: powerful-maneuvers
+  improved-drag: powerful-maneuvers
+  mobility: dodge
+  improved-unarmed-strike: unarmed-combatant
+  improved-grapple: unarmed-combatant
+  point-blank-shot: precise-shot
+  improved-two-weapon-fighting: greater-two-weapon-fighting
+
+knowledge_ninja_resolution: removed         # D16: K(Ninja) folded into K(Arcana)
+
+universal_combat_options:                   # informational; available at BAB +1 to anyone
+  - risky-strike
+  - defensive-stance
+  - weapon-finesse-universal
