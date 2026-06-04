@@ -20,8 +20,9 @@ The Dedicated Hero gains 1d6 hit points per level. The Constitution modifier app
 The Dedicated Hero gains a number of action points equal to 5 + one-half his character level, rounded down, everytime he attains a new level in this class.
 
 **Class Skills**
+
 The Dedicated Hero's class skills, and the key ability for each are as follows.
-Chakra Control (Wis), Craft (calligraphy, pharmaceutical, visual art, writing) (Int), Gamble (Wis), Investigate (Int), Knowledge (arcane lore, art, behavioral sciences, business, civics, current events, earth and life sciences, history, ninja lore, physical sciences, popular culture, streetwise, tactics, technology, theology and philosophy) (Int), Listen (Wis), Ninjutsu (Int), Profession (Wis), Read/Write Language (none), Sense Motive (Wis), Speak Language (none), Spot (Wis), Survival (Wis), and Treat Injury (Wis).
+Chakra Control (Wis), Craft (Calligraphy, Pharmaceutical) (Int), Diplomacy (Cha), Genjutsu (Cha), Handle Animal (Cha), Heal (Wis), Intimidate (Cha), Knowledge (Arcana, History, Local, Nature, Nobility, Religion) (Int), Linguistics (Int), Ninjutsu (Int), Perception (Wis), Profession (Wis), Sense Motive (Wis), and Survival (Wis).
 Also, the starting occupation the hero selects can provide additional class skills to choose from.
 **Skill Points at First Level:** (5 + Int modifier) × 4.
 **Skill Points at Each Level:** 5 + Int modifier.

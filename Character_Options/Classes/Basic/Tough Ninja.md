@@ -20,8 +20,9 @@ The Tough Hero gains 1d10 hit points per level. The Constitution modifier applie
 The Tough Hero gains a number of action points equal to 5 + one-half his character level, rounded down, everytime he attains a new level in this class.
 
 **Class Skills**
+
 The Tough Hero's class skills, and the key ability for each are as follows.
-Climb (Str), Concentration (Con), Craft (mechanical, structural) (Int), Drive (Dex), Intimidate (Cha), Knowledge (current events, ninja lore, popular culture, streetwise) (Int), Ninjutsu (Int), Profession (Wis), Read/Write Language (none), Ride (Dex), Speak Language (none), Spot (Wis), Survival (Wis) and Taijutsu (Str).
+Acrobatics (Dex), Chakra Control (Wis), Climb (Str), Handle Animal (Cha), Intimidate (Cha), Knowledge (Arcana, Local) (Int), Ninjutsu (Int), Perception (Wis), Profession (Wis), Ride (Dex), Survival (Wis), Swim (Str), and Taijutsu (Str).
 Also, the starting occupation the hero selects can provide additional class skills to choose from.
 **Skill Points at First Level:** (3 + Int modifier) × 4.
 **Skill Points at Each Level:** 3 + Int modifier.

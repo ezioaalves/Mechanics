@@ -20,8 +20,9 @@ The Smart Hero gains 1d6 hit points per level. The Constitution modifier applies
 The Smart Hero gains a number of action points equal to 5 + one-half his character level, rounded down, everytime he attains a new level in this class.
 
 **Class Skills**
+
 The Smart Hero's class skills, and the key ability for each are as follows.
-Computer Use (Int), Chakra Control (Wis), Craft (calligraphy, chemical, electronic, mechanical, pharmaceutical, structural, visual art, writing) (Int), Decipher Script (Int), Demolitions (Int), Disable Device (Int), Forgery (Int), Investigate (Int), Knowledge (arcane lore, art, behavioral sciences, business, civics, current events, earth and life sciences, history, ninja lore, physical sciences, popular culture, streetwise, tactics, technology, theology and philosophy) (Int), Navigate (Int), Ninjutsu (Int), Profession (Wis), Read/Write Language (none), Repair (Int), Research (Int), Search (Int), and Speak Language (none).
+Chakra Control (Wis), Craft (Armor, Calligraphy, Chemical, Explosives, Mechanics, Pharmaceutical, Weapons) (Int), Disable Device (Int), Fuinjutsu (Int), Genjutsu (Cha), Knowledge (Arcana, Dungeoneering, Engineering, History, Local, Nature, Nobility, Planes, Religion) (Int), Linguistics (Int), Ninjutsu (Int), Perception (Wis), and Profession (Wis).
 Also, the starting occupation the hero selects can provide additional class skills to choose from.
 **Skill Points at First Level:** (9 + Int modifier) × 4.
 **Skill Points at Each Level:** 9 + Int modifier.

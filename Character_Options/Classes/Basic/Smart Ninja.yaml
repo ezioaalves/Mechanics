@@ -1,0 +1,116 @@
+name: Smart Ninja
+slug: smart-ninja
+category: basic
+source: "NarutoD20 Redux v1.3"
+ability: int
+hit_die: d6
+action_points: "5 + level/2"
+bab: low
+saves:
+  fort: low
+  ref: low
+  will: mid
+defense_progression: low
+reputation_progression: low
+class_skills:
+  - chakra-control
+  - craft-armor
+  - craft-calligraphy
+  - craft-chemical
+  - craft-explosives
+  - craft-mechanics
+  - craft-pharmaceutical
+  - craft-weapons
+  - disable-device
+  - fuinjutsu
+  - genjutsu
+  - knowledge-arcana
+  - knowledge-dungeoneering
+  - knowledge-engineering
+  - knowledge-history
+  - knowledge-local
+  - knowledge-nature
+  - knowledge-nobility
+  - knowledge-planes
+  - knowledge-religion
+  - linguistics
+  - ninjutsu
+  - perception
+  - profession
+  - sleight-of-hand
+skill_points_first_level: "(9 + Int) × 4"
+skill_points_per_level: "9 + Int"
+prerequisites: null
+talents:
+  - tree: ninjutsu
+    talents:
+      - ninjutsu
+      - improved-ninjutsu
+      - advanced-ninjutsu
+      - sense-chakra
+      - suppress-chakra
+  - tree: research
+    talents:
+      - savant
+      - linguist
+  - tree: strategy
+    talents:
+      - exploit-weakness
+      - plan
+      - trick
+bonus_feats:
+  - attentive
+  - cautious
+  - craft-armor-seals
+  - craft-puppets
+  - craft-sealed-item
+  - craft-weapon-seals
+  - educated
+  - gearhead
+  - improved-chakra-pool
+  - iron-will
+  - lightning-reflexes
+  - meticulous
+  - ninjutsu-adept
+  - studious
+special_features:
+  - level: 1
+    name: Talent
+    description: "Choose a talent from one of the Smart Hero talent trees."
+  - level: 2
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Smart Hero feat list."
+  - level: 3
+    name: Talent
+    description: "Choose a talent from one of the Smart Hero talent trees."
+  - level: 4
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Smart Hero feat list."
+  - level: 5
+    name: Talent
+    description: "Choose a talent from one of the Smart Hero talent trees."
+  - level: 6
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Smart Hero feat list."
+  - level: 7
+    name: Talent
+    description: "Choose a talent from one of the Smart Hero talent trees."
+  - level: 8
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Smart Hero feat list."
+  - level: 9
+    name: Talent
+    description: "Choose a talent from one of the Smart Hero talent trees."
+  - level: 10
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Smart Hero feat list."
+foundry_source: bespoke
+house_rules_applied:
+  - eitr-feat-overhaul
+  - kaihou-skill-list
+  - feature-progression-stacking
+notes: |
+  Class-skill list de-duplicated and converted via Skill - Conversion.md.
+  Bonus-feat list normalized via EITR: Weapon Finesse stripped.
+created: "2026-06-04"
+updated: "2026-06-04"

@@ -1,0 +1,119 @@
+name: Tough Ninja
+slug: tough-ninja
+category: basic
+source: "NarutoD20 Redux v1.3"
+ability: con
+hit_die: d10
+action_points: "5 + level/2"
+bab: mid
+saves:
+  fort: mid
+  ref: low
+  will: low
+defense_progression: mid
+reputation_progression: low
+class_skills:
+  - acrobatics
+  - chakra-control
+  - climb
+  - handle-animal
+  - intimidate
+  - knowledge-arcana
+  - knowledge-local
+  - ninjutsu
+  - perception
+  - profession
+  - ride
+  - survival
+  - swim
+  - taijutsu
+skill_points_first_level: "(3 + Int) × 4"
+skill_points_per_level: "3 + Int"
+prerequisites: null
+talents:
+  - tree: damage-reduction
+    talents:
+      - damage-reduction-1
+      - damage-reduction-2
+      - damage-reduction-3
+  - tree: stamina
+    talents:
+      - endurance
+      - improved-endurance
+      - advanced-endurance
+      - sense-chakra
+      - suppress-chakra
+  - tree: energy-resistance
+    talents:
+      - acid-resistance
+      - cold-resistance
+      - earth-resistance
+      - electricity-resistance
+      - fire-resistance
+      - sonic-concussion-resistance
+      - water-resistance
+      - wind-resistance
+  - tree: unbreakable
+    talents:
+      - remain-conscious
+      - robust
+      - second-wind
+      - stamina
+      - second-chance
+bonus_feats:
+  - alertness
+  - athletic
+  - brawl
+  - confident
+  - empowered-resilience
+  - endurance
+  - great-fortitude
+  - improved-brawl
+  - improved-chakra-pool
+  - knockout-punch
+  - powerful-maneuvers
+  - streetfighting
+  - taijutsu-adept
+  - toughness
+special_features:
+  - level: 1
+    name: Talent
+    description: "Choose a talent from one of the Tough Hero talent trees."
+  - level: 2
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Tough Hero feat list."
+  - level: 3
+    name: Talent
+    description: "Choose a talent from one of the Tough Hero talent trees."
+  - level: 4
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Tough Hero feat list."
+  - level: 5
+    name: Talent
+    description: "Choose a talent from one of the Tough Hero talent trees."
+  - level: 6
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Tough Hero feat list."
+  - level: 7
+    name: Talent
+    description: "Choose a talent from one of the Tough Hero talent trees."
+  - level: 8
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Tough Hero feat list."
+  - level: 9
+    name: Talent
+    description: "Choose a talent from one of the Tough Hero talent trees."
+  - level: 10
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Tough Hero feat list."
+foundry_source: bespoke
+house_rules_applied:
+  - eitr-feat-overhaul
+  - kaihou-skill-list
+  - feature-progression-stacking
+notes: |
+  Class-skill list de-duplicated and converted via Skill - Conversion.md.
+  Bonus-feat list normalized via EITR: Power Attack stripped (now universal at BAB +1);
+  Deft Maneuvers added; Risky Strike is a universal option.
+created: "2026-06-04"
+updated: "2026-06-04"

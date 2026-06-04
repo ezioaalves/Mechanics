@@ -1,0 +1,115 @@
+name: Charismatic Ninja
+slug: charismatic-ninja
+category: basic
+source: "NarutoD20 Redux v1.3"
+ability: cha
+hit_die: d6
+action_points: "5 + level/2"
+bab: low
+saves:
+  fort: low
+  ref: low
+  will: mid
+defense_progression: low
+reputation_progression: high
+class_skills:
+  - bluff
+  - chakra-control
+  - craft-calligraphy
+  - diplomacy
+  - disguise
+  - genjutsu
+  - handle-animal
+  - intimidate
+  - knowledge-arcana
+  - knowledge-history
+  - knowledge-local
+  - knowledge-nobility
+  - knowledge-religion
+  - linguistics
+  - perform
+  - perform-martial-arts
+  - profession
+  - sleight-of-hand
+skill_points_first_level: "(7 + Int) × 4"
+skill_points_per_level: "7 + Int"
+prerequisites: null
+talents:
+  - tree: charm
+    talents:
+      - charm
+      - favor
+      - captivate
+  - tree: fast-talk
+    talents:
+      - fast-talk
+      - dazzle
+      - taunt
+  - tree: genjutsu
+    talents:
+      - genjutsu
+      - improved-genjutsu
+      - advanced-genjutsu
+      - sense-chakra
+      - suppress-chakra
+  - tree: leadership
+    talents:
+      - coordinate
+      - inspiration
+      - greater-inspiration
+bonus_feats:
+  - agile-riposte
+  - creative
+  - deceptive
+  - dodge
+  - force-of-personality
+  - frightful-presence
+  - genjutsu-adept
+  - improved-chakra-pool
+  - iron-will
+  - lightning-reflexes
+  - low-profile
+  - renown
+  - trustworthy
+  - windfall
+special_features:
+  - level: 1
+    name: Talent
+    description: "Choose a talent from one of the Charismatic Hero talent trees."
+  - level: 2
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Charismatic Hero feat list."
+  - level: 3
+    name: Talent
+    description: "Choose a talent from one of the Charismatic Hero talent trees."
+  - level: 4
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Charismatic Hero feat list."
+  - level: 5
+    name: Talent
+    description: "Choose a talent from one of the Charismatic Hero talent trees."
+  - level: 6
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Charismatic Hero feat list."
+  - level: 7
+    name: Talent
+    description: "Choose a talent from one of the Charismatic Hero talent trees."
+  - level: 8
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Charismatic Hero feat list."
+  - level: 9
+    name: Talent
+    description: "Choose a talent from one of the Charismatic Hero talent trees."
+  - level: 10
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Charismatic Hero feat list."
+foundry_source: bespoke
+house_rules_applied:
+  - eitr-feat-overhaul
+  - kaihou-skill-list
+  - feature-progression-stacking
+notes: |
+  Class-skill list de-duplicated and converted via Skill - Conversion.md.
+  Bonus-feat list normalized via EITR: Power Attack/Weapon Finesse stripped.
+created: "2026-06-04"
+updated: "2026-06-04"

@@ -1,0 +1,114 @@
+name: Dedicated Ninja
+slug: dedicated-ninja
+category: basic
+source: "NarutoD20 Redux v1.3"
+ability: wis
+hit_die: d6
+action_points: "5 + level/2"
+bab: low
+saves:
+  fort: low
+  ref: low
+  will: mid
+defense_progression: low
+reputation_progression: mid
+class_skills:
+  - chakra-control
+  - craft-calligraphy
+  - craft-pharmaceutical
+  - diplomacy
+  - genjutsu
+  - handle-animal
+  - heal
+  - intimidate
+  - knowledge-arcana
+  - knowledge-history
+  - knowledge-local
+  - knowledge-nature
+  - knowledge-nobility
+  - knowledge-religion
+  - linguistics
+  - ninjutsu
+  - perception
+  - profession
+  - sense-motive
+  - survival
+skill_points_first_level: "(5 + Int) × 4"
+skill_points_per_level: "5 + Int"
+prerequisites: null
+talents:
+  - tree: chakra-control
+    talents:
+      - chakra-control
+      - improved-chakra-control
+      - advanced-chakra-control
+      - sense-chakra
+      - suppress-chakra
+  - tree: empathic
+    talents:
+      - empathy
+      - improved-aid-another
+      - intuition
+  - tree: healing
+    talents:
+      - healing-knack
+      - healing-touch-1
+      - healing-touch-2
+  - tree: insightful
+    talents:
+      - skill-emphasis
+      - aware
+      - faith
+      - cool-under-pressure
+bonus_feats:
+  - alertness
+  - animal-affinity
+  - attentive
+  - deceptive
+  - educated
+  - harmony
+  - iron-will
+  - medical-expert
+  - meticulous
+  - studious
+special_features:
+  - level: 1
+    name: Talent
+    description: "Choose a talent from one of the Dedicated Hero talent trees."
+  - level: 2
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Dedicated Hero feat list."
+  - level: 3
+    name: Talent
+    description: "Choose a talent from one of the Dedicated Hero talent trees."
+  - level: 4
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Dedicated Hero feat list."
+  - level: 5
+    name: Talent
+    description: "Choose a talent from one of the Dedicated Hero talent trees."
+  - level: 6
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Dedicated Hero feat list."
+  - level: 7
+    name: Talent
+    description: "Choose a talent from one of the Dedicated Hero talent trees."
+  - level: 8
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Dedicated Hero feat list."
+  - level: 9
+    name: Talent
+    description: "Choose a talent from one of the Dedicated Hero talent trees."
+  - level: 10
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Dedicated Hero feat list."
+foundry_source: bespoke
+house_rules_applied:
+  - eitr-feat-overhaul
+  - kaihou-skill-list
+  - feature-progression-stacking
+notes: |
+  Class-skill list de-duplicated and converted via Skill - Conversion.md.
+  Bonus-feat list normalized via EITR.
+created: "2026-06-04"
+updated: "2026-06-04"

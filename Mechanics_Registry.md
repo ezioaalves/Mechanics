@@ -95,3 +95,13 @@ The steel and the tools of the trade.
 
 *   **[Classes Archive](Character_Options/Classes/Archive/)**
 *   **[Bloodlines Archive](Character_Options/Bloodlines/Archive/)**
+
+---
+
+## 🔬 Structured Index (auto-maintained)
+
+Per-entity YAML sidecars feed the `naruto-d20-character-builder` skill. Coverage and lint state at **[Mechanics Dashboard](mechanics-dashboard.md)**.
+
+Active rules projection: **[House Rules Active](schemas/house_rules_active.yaml)**.
+
+See [docs/superpowers/specs/2026-06-04-kaihou-mechanics-audit-and-access-design.md](../docs/superpowers/specs/2026-06-04-kaihou-mechanics-audit-and-access-design.md) for the design.

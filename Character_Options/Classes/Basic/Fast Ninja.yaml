@@ -1,0 +1,92 @@
+name: Fast Ninja
+slug: fast-ninja
+category: basic
+source: "NarutoD20 Redux v1.3"
+ability: dex
+hit_die: d8
+action_points: "5 + level/2"
+bab: mid
+saves:
+  fort: low
+  ref: mid
+  will: low
+defense_progression: mid
+reputation_progression: low
+class_skills:
+  - acrobatics
+  - craft-mechanics
+  - escape-artist
+  - genjutsu
+  - knowledge-arcana
+  - knowledge-local
+  - ride
+  - profession
+  - sleight-of-hand
+  - stealth
+  - taijutsu
+skill_points_first_level: "(5 + Int) × 4"
+skill_points_per_level: "5 + Int"
+prerequisites: null
+talents:
+  - tree: evasive
+    talents:
+      - evasion
+      - uncanny-dodge
+      - opportunist
+      - defensive-roll
+      - improved-evasion
+  - tree: speed
+    talents:
+      - increased-speed
+      - swift-strike
+      - improved-initiative
+bonus_feats:
+  - acrobatic
+  - athletic
+  - dodge
+  - precise-shot
+  - run
+  - stealthy
+special_features:
+  - level: 1
+    name: Talent
+    description: "Choose a talent from one of the Fast Hero talent trees."
+  - level: 2
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Fast Hero feat list."
+  - level: 3
+    name: Talent
+    description: "Choose a talent from one of the Fast Hero talent trees."
+  - level: 4
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Fast Hero feat list."
+  - level: 5
+    name: Talent
+    description: "Choose a talent from one of the Fast Hero talent trees."
+  - level: 6
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Fast Hero feat list."
+  - level: 7
+    name: Talent
+    description: "Choose a talent from one of the Fast Hero talent trees."
+  - level: 8
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Fast Hero feat list."
+  - level: 9
+    name: Talent
+    description: "Choose a talent from one of the Fast Hero talent trees."
+  - level: 10
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Fast Hero feat list."
+foundry_source: bespoke
+house_rules_applied:
+  - eitr-feat-overhaul
+  - kaihou-skill-list
+  - feature-progression-stacking
+notes: |
+  Class-skill list de-duplicated and converted via Skill - Conversion.md.
+  Bonus-feat list normalized via EITR: Power Attack/Combat Expertise/Deadly Aim/
+  Weapon Finesse stripped (now universal); Mobility folded into Dodge;
+  Point-Blank Shot folded into Precise Shot.
+created: "2026-06-04"
+updated: "2026-06-04"

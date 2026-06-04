@@ -20,8 +20,9 @@ The Fast Hero gains 1d8 hit points per level. The Constitution modifier applies.
 The Fast Hero gains a number of action points equal to 5 + one-half his character level, rounded down, everytime he attains a new level in this class.
 
 **Class Skills**
+
 The Fast Hero's class skills, and the key ability for each are as follows.
-Balance (Dex), Craft (mechanical) (Int), Drive (Dex), Escape Artist (Dex), Genjutsu (Cha), Hide (Dex), Knowledge (current events, ninja lore, popular culture, streetwise) (Int), Move Silently (Dex), Pilot (Dex), Profession (Wis), Read/Write Language (none), Ride (Dex), Sleight of Hand (Dex), Speak Language (none), Taijutsu (Str) and Tumble (Dex).
+Acrobatics (Dex), Craft (Mechanics) (Int), Escape Artist (Dex), Genjutsu (Cha), Knowledge (Arcana) (Int), Knowledge (Local) (Int), Profession (Wis), Ride (Dex), Sleight of Hand (Dex), Stealth (Dex), and Taijutsu (Str).
 Also, the starting occupation the hero selects can provide additional class skills to choose from.
 **Skill Points at First Level:** (5 + Int modifier) × 4.
 **Skill Points at Each Level:** 5 + Int modifier.

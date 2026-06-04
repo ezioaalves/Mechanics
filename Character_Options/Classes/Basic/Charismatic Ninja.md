@@ -20,8 +20,9 @@ The Charismatic Hero gains 1d6 hit points per level. The Constitution modifier a
 The Charismatic Hero gains a number of action points equal to 5 + one-half his character level, rounded down, everytime he attains a new level in this class.
 
 **Class Skills**
+
 The Charismatic Hero's class skills are as follows.
-Bluff (Cha), Chakra Control (Wis), Craft (calligraphy, visual art, writing) (Int), Diplomacy (Cha), Disguise (Cha), Gather Information (Cha), Genjutsu (Cha), Handle Animal (Cha), Intimidate (Cha), Knowledge (arcane lore, art, behavioral sciences, business, civics, current events, ninja lore, popular culture, streetwise, theology and philosophy) (Int), Perform (act, dance, keyboards, percussion instruments, sing, stand-up, stringed instruments, wind instruments) (Cha), Profession (Wis), Read/Write Language (none), and Speak Language (none).
+Bluff (Cha), Chakra Control (Wis), Craft (Calligraphy) (Int), Diplomacy (Cha), Disguise (Cha), Genjutsu (Cha), Handle Animal (Cha), Intimidate (Cha), Knowledge (Arcana, History, Local, Nobility, Religion) (Int), Linguistics (Int), Perform (Cha), Perform (Martial Arts) (Cha), and Profession (Wis).
 Also, the starting occupation the hero selects can provide additional class skills to choose from.
 **Skill Points at First Level:** (7 + Int modifier) × 4.
 **Skill Points at Each Level:** 7 + Int modifier.

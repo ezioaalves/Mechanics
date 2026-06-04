@@ -22,8 +22,9 @@ The Strong Hero gains 1d8 hit points per level. The Constitution modifier applie
 The Strong Hero gains a number of action points equal to 5 + one-half his character level, rounded down, every time he attains a new level in this class.
 
 **Class Skills**
+
 The Strong Hero's class skills, and the key ability for each are as follows.
-Climb (Str), Craft (structural) (Int), Genjutsu (Cha), Handle Animal (Cha), Jump (Str), Knowledge (current events, ninja lore, popular culture, streetwise, tactics) (Int), Profession (Wis), Read/Write Language (none), Repair (Int), Speak Language (none), Swim (Str) and Taijutsu (Str).
+Acrobatics (Dex), Climb (Str), Craft (Armor, Mechanics, Weapons) (Int), Genjutsu (Cha), Handle Animal (Cha), Intimidate (Cha), Knowledge (Arcana, Local) (Int), Profession (Wis), Ride (Dex), Swim (Str), and Taijutsu (Str).
 Also, the starting occupation the hero selects can provide additional class skills to choose from.
 **Skill Points at First Level:** (3 + Int modifier) × 4.
 **Skill Points at Each Level:** 3 + Int modifier.

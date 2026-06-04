@@ -1,0 +1,111 @@
+name: Strong Ninja
+slug: strong-ninja
+category: basic
+source: "NarutoD20 Redux v1.3"
+ability: str
+hit_die: d8
+action_points: "5 + level/2"
+bab: high
+saves:
+  fort: mid
+  ref: low
+  will: low
+defense_progression: mid
+reputation_progression: low
+class_skills:
+  - acrobatics
+  - climb
+  - craft-armor
+  - craft-mechanics
+  - craft-weapons
+  - genjutsu
+  - handle-animal
+  - intimidate
+  - knowledge-arcana
+  - knowledge-local
+  - profession
+  - ride
+  - swim
+  - taijutsu
+skill_points_first_level: "(3 + Int) × 4"
+skill_points_per_level: "3 + Int"
+prerequisites: null
+talents:
+  - tree: extreme-effort
+    talents:
+      - extreme-effort
+      - improved-extreme-effort
+      - advanced-extreme-effort
+  - tree: ignore-hardness
+    talents:
+      - ignore-hardness
+      - improved-ignore-hardness
+      - advanced-ignore-hardness
+  - tree: melee-smash
+    talents:
+      - melee-smash
+      - improved-melee-smash
+      - advanced-melee-smash
+  - tree: taijutsu
+    talents:
+      - taijutsu
+      - improved-taijutsu
+      - advanced-taijutsu
+      - sense-chakra
+      - suppress-chakra
+bonus_feats:
+  - animal-affinity
+  - archaic-weapons-proficiency
+  - athletic
+  - blind-fight
+  - brawl
+  - cleave
+  - combat-martial-arts
+  - exotic-melee-weapon-proficiency
+  - great-cleave
+  - improved-brawl
+  - improved-chakra-pool
+  - improved-combat-martial-arts
+  - taijutsu-adept
+special_features:
+  - level: 1
+    name: Talent
+    description: "Choose a talent from one of the Strong Hero talent trees."
+  - level: 2
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Strong Hero feat list."
+  - level: 3
+    name: Talent
+    description: "Choose a talent from one of the Strong Hero talent trees."
+  - level: 4
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Strong Hero feat list."
+  - level: 5
+    name: Talent
+    description: "Choose a talent from one of the Strong Hero talent trees."
+  - level: 6
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Strong Hero feat list."
+  - level: 7
+    name: Talent
+    description: "Choose a talent from one of the Strong Hero talent trees."
+  - level: 8
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Strong Hero feat list."
+  - level: 9
+    name: Talent
+    description: "Choose a talent from one of the Strong Hero talent trees."
+  - level: 10
+    name: Bonus Feat
+    description: "Choose a bonus feat from the Strong Hero feat list."
+foundry_source: bespoke
+house_rules_applied:
+  - eitr-feat-overhaul
+  - kaihou-skill-list
+  - feature-progression-stacking
+notes: |
+  Class-skill list de-duplicated and converted via Skill - Conversion.md.
+  Bonus-feat list normalized via EITR: Power Attack stripped (now universal at BAB +1);
+  Combat Reflexes and Risky Strike are universal options.
+created: "2026-06-04"
+updated: "2026-06-04"
