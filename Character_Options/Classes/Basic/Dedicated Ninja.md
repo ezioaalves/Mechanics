@@ -79,7 +79,7 @@ The Dedicated hero's innate talents give him a great capacity for empathy.
 **Healing Talent Tree**
 The Dedicated hero has a talent for healing.
 
-*   **Healing Knack:** The hero has a knack for the healing arts. The hero receives a +2 bonus on all Treat Injury skill checks.
+*   **Healing Knack:** The hero has a knack for the healing arts. The hero receives a +2 bonus on all Heal skill checks.
 *   **Healing Touch 1:** The Dedicated hero's ability to restore damage with a medical kit or perform surgery with a surgery kit increases by +2 hit points.
     **Prerequisite:** Healing knack.
 *   **Healing Touch 2:** The Dedicated hero's ability to restore damage with a medical kit or perform surgery with a surgery kit increases by +2 hit points, which stacks with healing touch 1 for a total of +4 hit points.
@@ -89,7 +89,7 @@ The Dedicated hero has a talent for healing.
 The Dedicated hero's innate insightfulness serves her well.
 
 *   **Skill Emphasis:** The Dedicated hero chooses a single skill and receives a +3 bonus on all checks with that skill. This bonus does not allow the hero to make checks for a trained-only skill if the hero has no ranks in the skill.
-*   **Aware:** The Dedicated hero is intuitively aware of his surroundings. The hero adds his base Will saving throw bonus to Listen or Spot checks to avoid surprise.
+*   **Aware:** The Dedicated hero is intuitively aware of his surroundings. The hero adds his base Will saving throw bonus to Perception checks to avoid surprise.
     **Prerequisite:** Skill emphasis.
 *   **Faith:** The Dedicated hero has a great deal of faith. It might be faith in self, in a higher power, or in both. This unswerving belief allows the Dedicated hero to add his Wisdom modifier to the die roll whenever the hero spends 1 action point to improve the result of an attack roll, skill check, saving throw, or ability check.
     **Prerequisite:** Skill emphasis.
