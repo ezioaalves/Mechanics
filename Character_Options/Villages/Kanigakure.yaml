@@ -1,0 +1,15 @@
+name: Kanigakure
+slug: kanigakure
+description: |
+  Born in the Iron Shell — neon-rust steampunk Rokugan. Trained among
+  saltwater forges and clockwork tide-gates. Kanigakure shinobi grow up
+  reading shadow-currents and moving through tight machine-spaces.
+minor_benefit:
+  kind: hp
+  value: 2
+class_skills:
+  - acrobatics
+  - knowledge-shadowlands
+tags:
+  - Village
+  - "20 Perguntas Q1"
