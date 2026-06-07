@@ -1,0 +1,15 @@
+name: Lightning Affinity
+slug: q04-affinity-lightning
+img: modules/naruto-d20-kaihou/assets/questions/elements/lightning.png
+description: |
+  Your character's primary elemental nature is Lightning. You can
+  learn, perform, and copy Raiton (Lightning-style) Ninjutsu.
+  Per-level Learn Bonus and Energy Resistance scale per the Affinity
+  table in Mechanics/Basic_Rules/Chakra.md. Lightning is strong
+  against Earth and weak against Wind.
+minor_benefit:
+  kind: affinity
+  value: lightning
+tags:
+  - "20 Questions Q4"
+  - Affinity
