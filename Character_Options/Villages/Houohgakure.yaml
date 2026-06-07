@@ -1,0 +1,14 @@
+name: Houohgakure
+slug: houohgakure
+description: |
+  The Phoenix Village — devotional rites, scholar-monks, and the long memory
+  of tongues. Trained among temple bells and rebirth flames.
+minor_benefit:
+  kind: action_point
+  value: 1
+class_skills:
+  - knowledge-religion
+  - linguistics
+tags:
+  - Village
+  - "20 Perguntas Q1"

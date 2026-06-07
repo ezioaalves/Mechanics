@@ -1,0 +1,14 @@
+name: Ryuugakure
+slug: ryuugakure
+description: |
+  The Dragon Village — long lineages, deep waters, and steady minds.
+  Trained in the old texts and the long discipline of chakra-flow.
+minor_benefit:
+  kind: will
+  value: 1
+class_skills:
+  - knowledge-history
+  - chakra-control
+tags:
+  - Village
+  - "20 Perguntas Q1"

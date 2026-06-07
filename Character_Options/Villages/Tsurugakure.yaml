@@ -1,0 +1,14 @@
+name: Tsurugakure
+slug: tsurugakure
+description: |
+  The Crane Village — graceful courts, classical performance, and quick
+  feet. Trained at the cushion-edge of high diplomacy and danced footwork.
+minor_benefit:
+  kind: ref
+  value: 1
+class_skills:
+  - perform
+  - diplomacy
+tags:
+  - Village
+  - "20 Perguntas Q1"

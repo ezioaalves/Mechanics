@@ -1,0 +1,14 @@
+name: Hisuigakure
+slug: hisuigakure
+description: |
+  The Jade Village — old nobility, polished manners, and patient watchers.
+  Trained among silk-screen courtyards and tea-house intrigue.
+minor_benefit:
+  kind: point_build
+  value: 2
+class_skills:
+  - knowledge-nobility
+  - sense-motive
+tags:
+  - Village
+  - "20 Perguntas Q1"

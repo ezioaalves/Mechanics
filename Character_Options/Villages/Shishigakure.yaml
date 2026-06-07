@@ -1,0 +1,14 @@
+name: Shishigakure
+slug: shishigakure
+description: |
+  The Lion Village — proud pride-bands, occult lore, and a wall of presence.
+  Trained in the older mysteries and the art of standing your ground.
+minor_benefit:
+  kind: fort
+  value: 1
+class_skills:
+  - knowledge-arcana
+  - intimidation
+tags:
+  - Village
+  - "20 Perguntas Q1"

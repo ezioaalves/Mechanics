@@ -1,0 +1,15 @@
+name: Sasorigakure
+slug: sasorigakure
+description: |
+  The Scorpion Village — desert traders, sharp tongues, and reputations
+  that travel further than the carriers. Trained in the gossip-and-coin
+  arts of the open roads.
+minor_benefit:
+  kind: reputation
+  value: 1
+class_skills:
+  - knowledge-local
+  - bluff
+tags:
+  - Village
+  - "20 Perguntas Q1"

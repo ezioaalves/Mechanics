@@ -1,0 +1,14 @@
+name: Kiringakure
+slug: kiringakure
+description: |
+  The Kirin Village — open plains, fast riders, and survival on the move.
+  Trained reading wind, weather, and the next ridge over.
+minor_benefit:
+  kind: init
+  value: 1
+class_skills:
+  - ride
+  - survival
+tags:
+  - Village
+  - "20 Perguntas Q1"
