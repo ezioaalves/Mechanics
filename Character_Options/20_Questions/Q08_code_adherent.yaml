@@ -1,0 +1,13 @@
+name: Code Adherent
+slug: q08-code-adherent
+img: icons/svg/holy-shield.svg
+description: |
+  Your character holds to the Shinobi Code (Shinobido) with conviction.
+  The path is the path; deviation costs more than death. This certainty
+  is its own fuel.
+minor_benefit:
+  kind: action_point
+  value: 2
+tags:
+  - "20 Questions Q8"
+  - "Shinobi Code"

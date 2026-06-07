@@ -1,0 +1,13 @@
+name: Village Loyalist
+slug: q07-relationship-loyalist
+img: icons/svg/upgrade.svg
+description: |
+  Your character's relationship with their home village is positive.
+  They are recognised as a loyal son or daughter of the village; doors
+  open, names are remembered, favours are returned.
+minor_benefit:
+  kind: reputation
+  value: 1
+tags:
+  - "20 Questions Q7"
+  - "Village Relationship"
