@@ -65,7 +65,7 @@
 - *Mechanic:*
 
     - **Adherent:** Gain **\+2 Action Points** (Conviction).
-    - **Sceptic/Pragmatist:** Gain **4 Skill Points** to invest in **Craft** or **Profession** (Worldly knowledge).
+    - **Sceptic/Pragmatist:** Gain **1 Skill Point** to invest in **Craft** or **Profession** (Worldly knowledge).
 
 - *Source of truth:* [[Mechanics/Character_Options/20_Questions/Q08_code_adherent.yaml]] and [[Mechanics/Character_Options/20_Questions/Q08_code_sceptic.yaml]] — Foundry marker traits in `naruto-d20-kaihou` pack `questions`. Mechanical application (Action Points bump, skill points grant) ships with the D2.3b sheet wizard.
 
