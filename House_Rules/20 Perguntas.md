@@ -32,6 +32,7 @@
 
 - *Context:* What was the one thing you were naturally good at?
 - *Mechanic:* This determines your **Primary Elemental Affinity** (Fire, Water, Earth, Wind, or Lightning).
+- *Source of truth:* [[Mechanics/Character_Options/20_Questions/Q04_affinity_fire.yaml]] and siblings — the Foundry trait items in `naruto-d20-kaihou` pack `questions` are generated from these YAMLs.
 
 
 ### Part III: Shinobido (Caminho Ninja) & Desire (Seu Jeito Ninja! Tô certo!)
@@ -55,6 +56,8 @@
     - **Positive:** Gain **\+1 Reputation**.
     - **Negative/Friction:** Gain **\+1 Class Skill** (representing self-reliance or alternative learning).
 
+- *Source of truth:* [[Mechanics/Character_Options/20_Questions/Q07_relationship_loyalist.yaml]] and [[Mechanics/Character_Options/20_Questions/Q07_relationship_outsider.yaml]] — Foundry trait items in `naruto-d20-kaihou` pack `questions`. The Negative/Friction class skill is doc-only (player picks).
+
     
 
 
@@ -64,6 +67,8 @@
 
     - **Adherent:** Gain **\+2 Action Points** (Conviction).
     - **Sceptic/Pragmatist:** Gain **4 Skill Points** to invest in **Craft** or **Profession** (Worldly knowledge).
+
+- *Source of truth:* [[Mechanics/Character_Options/20_Questions/Q08_code_adherent.yaml]] and [[Mechanics/Character_Options/20_Questions/Q08_code_sceptic.yaml]] — Foundry trait items in `naruto-d20-kaihou` pack `questions`. The Sceptic skill points are doc-only (player picks Craft vs Profession subskill).
 
     
 
