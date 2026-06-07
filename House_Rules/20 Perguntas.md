@@ -31,8 +31,7 @@
 **4\. What are you Nature Affinity?**
 
 - *Context:* What was the one thing you were naturally good at?
-- *Mechanic:* This determines your **Primary Elemental Affinity** (Fire, Water, Earth, Wind, or Lightning).
-- *Source of truth:* [[Mechanics/Character_Options/20_Questions/Q04_affinity_fire.yaml]] and siblings — the Foundry trait items in `naruto-d20-kaihou` pack `questions` are generated from these YAMLs.
+- *Mechanic:* This determines your **Primary Elemental Affinity** (Fire, Water, Earth, Wind, or Lightning). Set via the **Chakra** tab's affinity selector in Foundry — no separate trait item required.
 
 
 ### Part III: Shinobido (Caminho Ninja) & Desire (Seu Jeito Ninja! Tô certo!)
@@ -56,7 +55,7 @@
     - **Positive:** Gain **\+1 Reputation**.
     - **Negative/Friction:** Gain **\+1 Class Skill** (representing self-reliance or alternative learning).
 
-- *Source of truth:* [[Mechanics/Character_Options/20_Questions/Q07_relationship_loyalist.yaml]] and [[Mechanics/Character_Options/20_Questions/Q07_relationship_outsider.yaml]] — Foundry trait items in `naruto-d20-kaihou` pack `questions`. The Negative/Friction class skill is doc-only (player picks).
+- *Source of truth:* [[Mechanics/Character_Options/20_Questions/Q07_relationship_loyalist.yaml]] and [[Mechanics/Character_Options/20_Questions/Q07_relationship_outsider.yaml]] — Foundry marker traits in `naruto-d20-kaihou` pack `questions`. Mechanical application (Reputation bump, class skill grant) ships with the D2.3b sheet wizard; today the traits tag the actor via `flags.dictionary.*` for the wizard to read.
 
     
 
@@ -68,7 +67,7 @@
     - **Adherent:** Gain **\+2 Action Points** (Conviction).
     - **Sceptic/Pragmatist:** Gain **4 Skill Points** to invest in **Craft** or **Profession** (Worldly knowledge).
 
-- *Source of truth:* [[Mechanics/Character_Options/20_Questions/Q08_code_adherent.yaml]] and [[Mechanics/Character_Options/20_Questions/Q08_code_sceptic.yaml]] — Foundry trait items in `naruto-d20-kaihou` pack `questions`. The Sceptic skill points are doc-only (player picks Craft vs Profession subskill).
+- *Source of truth:* [[Mechanics/Character_Options/20_Questions/Q08_code_adherent.yaml]] and [[Mechanics/Character_Options/20_Questions/Q08_code_sceptic.yaml]] — Foundry marker traits in `naruto-d20-kaihou` pack `questions`. Mechanical application (Action Points bump, skill points grant) ships with the D2.3b sheet wizard.
 
     
 
