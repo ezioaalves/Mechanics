@@ -4,7 +4,7 @@ Canonical occupation data lives in `Mechanics/Character_Options/Occupations/occu
 It is generated from every occupation markdown file under `Mechanics/Character_Options/Occupations/`,
 excluding `Homebrew/Occupation Formula.md`.
 
-## Machine-Readable Definition
+## Machine-readable definition
 
 ```yaml
 entity: occupation
