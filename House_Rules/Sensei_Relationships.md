@@ -1,6 +1,8 @@
 # Sensei Relationships
 
-Senseis are **gatekeepers of jutsu progression** (see [[Sensei]]). This file replaces the implicit "talk to NPC, get bonus" model with a tier track so they behave like scarce, contested resources instead of public faucets.
+Senseis are **gatekeepers of jutsu progression** (see [[Sensei]]). This file replaces the implicit "talk to NPC, get bonus" model with a tier track so they behave like relationships with access, trust, favors, and political costs instead of public faucets.
+
+> Training Arc update: the old **Teaching Capacity** block economy is retired. Use [[Training Schedules]] to decide whether a sensei is available, who else is present, and what scene pressure surrounds the training. Legacy capacity numbers on old cards are only descriptive availability cues.
 
 ## The Five Tiers
 
@@ -8,18 +10,18 @@ Senseis are **gatekeepers of jutsu progression** (see [[Sensei]]). This file rep
 | --- | --- | --- |
 | **Unaware** | Default for every NPC. | None. The sensei doesn't know who the PC is. |
 | **Aware** | 1 successful Influence check ([[Influência]], 1 block). | Sensei recognizes the PC, will sell rumors and basic technique gossip. Acts as a +1 Self-Teaching-equivalent on the PC's next solo Learn check in the sensei's specialty (one-shot, doesn't stack with a scroll bonus). |
-| **Recognized** | 3 cumulative Influence successes (counting Aware) across separate days. At least 1 must be a Difficult DC or include a Discovery success. | Sensei agrees to teach. PC may book the sensei's weekly **Teaching Capacity** for Tutoring bonus (per [[11_Learn DC]]). |
+| **Recognized** | 3 cumulative Influence successes (counting Aware) across separate days. At least 1 must be a Difficult DC or include a Discovery success. | Sensei agrees to teach at scheduled opportunities. PC may use the sensei for the Tutoring bonus when the fiction and [[Training Schedules]] make them available. |
 | **Tutoring** | Complete one favor, errand, or C-rank mission for the sensei or their clan. | PC is the sensei's declared student in one discipline. While learning any technique the sensei knows, the PC may **reroll one failed Learn check per required success** of that technique (a 3-success technique grants 3 rerolls during its training). The reroll's result is final and does not consume additional days. The Tutoring bonus from [[11_Learn DC]] continues automatically as long as the relationship stays warm. |
 | **Mentor** | Arc-level beat — vouched at a council, saved their life, exposed a corruption case, etc. GM permission required. | Any technique the PC trains while this Mentor relationship is active requires **1 fewer success** (minimum 1), regardless of source (self-teaching, other tutors, scrolls). A PC may have **only one Mentor** in their entire career. Mentor tier also unlocks access to the sensei's **Personal Hijutsu**, if they have one. Senseis do **not** teach the steps of Mastery — that is solo work. |
 
-## Teaching Capacity (the scarcity)
+## Retired: Teaching Capacity
 
-Each named sensei has a weekly **Teaching Capacity** measured in blocks. Default is **8 blocks/week** for a standard Jounin instructor; lower for irregulars (Shushu-ya rogues, retired specialists) and higher for academy staff and clan elders during quiet weeks.
+Do not track a weekly teaching-block pool. The scarcity is now **time, access, attention, risk, and competing students**, handled through the Training Arc schedule and event beats.
 
-- Teaching Capacity is the budget the sensei spreads across all their students at Recognized+.
-- If two PCs are both at Recognized with the same sensei, they negotiate or compete for the weekly pool.
-- A PC at Tutoring tier gets first claim on at least half the sensei's weekly capacity by default.
-- Capacity does **not** roll over week-to-week.
+- If two PCs want the same sensei in the same week, decide whether they share a scene, split attention, or collide with another genin team's schedule.
+- If a PC is at Tutoring tier, the sensei will make time unless a named event, crisis, deployment, or faction obligation blocks them.
+- If old notes list "Teaching Capacity: 4/6/8 blocks", read that as a quick availability label: **rare**, **normal**, or **institutionally available**.
+- Capacity does **not** create rollover, budgeting, or per-student entitlement.
 
 ## Constraints
 
@@ -45,8 +47,8 @@ Once granted by the clan, learning the Hijutsu still follows the normal Learn ru
 
 ## Arc-Phase Modifiers
 
-Senseis are also subject to the [[Arc State Overlay]] (per-month state):
-- Post-Wall-Breach (mid Month of the Hare): Teaching Capacity halved for any sensei reassigned to the wall. Track which senseis leave.
+Senseis are also subject to the Training Arc calendar and schedule state:
+- Post-Wall-Breach (mid Month of the Hare): any sensei reassigned to the wall becomes harder to reach. Replace normal training access with letters, emergency drills, or one-off scene windows.
 - Month of the Dragon (militarization): all senseis' Recognized DC raised by +2 unless the PC has a clan referral.
 
 ## Per-Sensei Card Stub
@@ -55,7 +57,7 @@ Each named sensei in the campaign should have an entry like:
 
 ```
 Name • District / Home Location • Discipline(s)
-Teaching Capacity: 8 blocks/week
+Availability: rare / normal / institutional / deployed
 Influence skills: Diplomacy, Sense Motive (primary), Knowledge (clan) (secondary)
 Influence DCs: 18 typical / 23 difficult (APL 5)
 Discovery rewards:

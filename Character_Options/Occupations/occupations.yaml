@@ -1,0 +1,6372 @@
+spec_version: 1
+occupations:
+- name: Aburame Clan
+  slug: aburame-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Aburame Clan.md
+  source_category: Core
+  source_subcategory: null
+  description: The famous clan of the Hidden Leaf sprouted many excellent ninja. Their
+    ability is on par to that of the Hyuuga clan, and while their special ability
+    is not as powerful, it still is a valuable asset during a combat. They are often
+    referred to as creepy, but never looked down upon.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Gather Information
+    slug: diplomacy
+    key: dip
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Investigate
+    slug: perception
+    key: per
+  - label: Knowledge (behavioral science)
+    slug: sense-motive
+    key: sen
+  - label: Knowledge (civics)
+    slug: knowledge-nobility
+    key: kno
+  - label: Knowledge (current events)
+    slug: knowledge-local
+    key: klo
+  - label: Knowledge (ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Knowledge (physical science)
+    slug: knowledge-engineering
+    key: ken
+  - label: Knowledge (tactics)
+    slug: knowledge-arcana
+    key: kar
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Research
+    slug: linguistics
+    key: lin
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skill from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Balance, Chakra Control, Climb, Gather Information,
+    Genjutsu, Hide, Investigate, Knowledge (behavioral science, civics, current events,
+    ninja lore, physical science, tactics), Listen, Move Silently, Ninjutsu, Research,
+    Search, Spot, Survival, Taijutsu, Tumble.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Symbiote)
+    source_uuid: null
+  - name: Destruction Bugs
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Genius Ninja
+    source_uuid: null
+  - name: Genjutsu Adept
+    source_uuid: null
+  - name: Nin Weapons Proficiency
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 0
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Aburame Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Core
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Academy Student
+  slug: academy-student
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Academy Student.md
+  source_category: Core
+  source_subcategory: null
+  description: Fresh out of the Academy, you are ready to make your way into history
+    as a Genin. You were assigned in a team of three with a Jounin supervisor.
+  prerequisite: Age 10+
+  skill_select_count: 3
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Bluff
+    slug: bluff
+    key: blf
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Craft (chemical)
+    slug: craft-chemical
+    key: crf
+  - label: Disable Device
+    slug: disable-device
+    key: dev
+  - label: Disguise
+    slug: disguise
+    key: dis
+  - label: Escape Artist
+    slug: escape-artist
+    key: esc
+  - label: Fuinjutsu
+    slug: fuinjutsu
+    key: fui
+  - label: Gather Information
+    slug: diplomacy
+    key: dip
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Investigate
+    slug: perception
+    key: per
+  - label: Knowledge (ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Knowledge (tactics)
+    slug: knowledge-arcana
+    key: kar
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Sleight of Hand
+    slug: sleight-of-hand
+    key: slt
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any three skills from the following list as permanent class
+    skills. If a skill the character selects is already a class skill, he receives
+    a +1 competence bonus on checks using that skill : Balance, Bluff, Climb, Chakra
+    Control, Concentration, Craft (chemical, mechanical, calligraphy), Disable Device,
+    Disguise, Escape Artist, Fuinjutsu, Gather Information, Genjutsu, Hide, Investigate,
+    Jump, Knowledge (ninja lore, tactics), Listen, Move Silently, Ninjutsu, Search,
+    Sleight of Hand, Spot, Survival, Taijutsu, and Tumble.'
+  feat_select_count: 1
+  feat_options:
+  - name: Archaic Weapon Proficiency
+    source_uuid: null
+  - name: Brawl
+    source_uuid: null
+  - name: Combat Martial Arts
+    source_uuid: null
+  - name: Defensive Martial Arts
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Genjutsu Adept
+    source_uuid: null
+  - name: Nin Weapons Proficiency
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 0
+  affiliation: ''
+  expertise: ''
+  tags:
+  - Occupation
+  - Core
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Adept Monk
+  slug: adept-monk
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Adept_Monk.md
+  source_category: Core
+  source_subcategory: null
+  description: You were born and raised in a monastery, or have adopted the teachings
+    at some point in your life. You are very studious and prefer to avoid conflict
+    whenever you can.
+  prerequisite: Age 8+
+  skill_select_count: 3
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Craft (calligraphy)
+    slug: craft-calligraphy
+    key: crf
+  - label: Decipher Script
+    slug: linguistics
+    key: lin
+  - label: Diplomacy
+    slug: diplomacy
+    key: dip
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Knowledge (earth and life science)
+    slug: knowledge-nature
+    key: kna
+  - label: Knowledge (history)
+    slug: knowledge-history
+    key: khi
+  - label: Knowledge (ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Knowledge (tactics)
+    slug: knowledge-arcana
+    key: kar
+  - label: Knowledge (theology and philosophy)
+    slug: knowledge-religion
+    key: kre
+  - label: Listen
+    slug: perception
+    key: per
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Perform (martial arts)
+    slug: perform-martial-arts
+    key: prf
+  - label: Profession
+    slug: profession
+    key: pro
+  - label: Sense Motive
+    slug: sense-motive
+    key: sen
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  - label: Treat Injury
+    slug: heal
+    key: hea
+  raw_skills: 'Select any three skills from the following list as permanent class
+    skills. If a skill the character selects is already a class skill, he receives
+    a +1 competence bonus on checks using that skill: Balance, Chakra Control, Concentration,
+    Craft (calligraphy, chemical, pharmaceutical), Decipher Script, Diplomacy, Genjutsu,
+    Knowledge (earth and life science, history, ninja lore, tactics, theology and
+    philosophy), Listen, Ninjutsu, Perform (martial arts), Profession, Research, Sense
+    Motive, Taijutsu or Treat Injury.'
+  feat_select_count: 1
+  feat_options:
+  - name: Defensive Martial Arts
+    source_uuid: null
+  - name: Studious
+    source_uuid: null
+  - name: '[Universal / Finesse Category]'
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 0
+  reputation_bonus: 0
+  affiliation: ''
+  expertise: ''
+  tags:
+  - Occupation
+  - Core
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Akimichi Clan
+  slug: community-compendium-akimichi-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Akimichi
+    Clan.md
+  source_category: Community Compendium
+  source_subcategory: null
+  description: The Akimichi clan is a product of the Fire Country, namely Konohagakure.
+    They are a small clan of immensely powerful people who are often regarded as a
+    gluttonous sort. Many of the Akimichi clansmen become squad leaders due to their
+    power . Most of them also possess th e ability to alter their body size and mass.
+    AKIMICHI CLAN (Occupation)**
+  prerequisite: Age 8+
+  skill_select_count: 3
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Concentration
+    slug: chakra-control
+    key: ckc
+  - label: Knowledge (Ninja Lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Knowledge (Tactics)
+    slug: knowledge-arcana
+    key: kar
+  - label: Listen
+    slug: perception
+    key: per
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any three skills from the following list as permanent class
+    skills. If a skill the character selects is already a class skill, he receives
+    a +1 competence bonus on checks using that skill: Concentration, Chakra Control,
+    Knowledge (Ninja Lore and Tactics), Listen, Ninjutsu, Search, Spot, and Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Akimichi Toughness
+    source_uuid: null
+  - name: Brawl
+    source_uuid: null
+  - name: Chakra Restoration
+    source_uuid: null
+  - name: Combat Martial Arts
+    source_uuid: null
+  - name: Combat Tactics
+    source_uuid: null
+  - name: Combat Throw
+    source_uuid: null
+  - name: Defensive Martial Arts
+    source_uuid: null
+  - name: Endurance
+    source_uuid: null
+  - name: Gouken
+    source_uuid: null
+  - name: Great Fortitude
+    source_uuid: null
+  - name: Harmony
+    source_uuid: null
+  - name: Powerful Maneuvers
+    source_uuid: null
+  - name: Improved Chakra Pool
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Nin Weapon Proficiency
+    source_uuid: null
+  - name: Resist Poison
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  - name: Toughness
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Akimichi Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Hitosashi Clan
+  slug: community-compendium-hitosashi-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Hitosashi
+    Clan.md
+  source_category: Community Compendium
+  source_subcategory: null
+  description: The Hitosashi Clan are famous for their dancing and unique styles of
+    combat revolving around their art of dance. They primarily focus on Taijutsu and
+    genjutsu styles of combat and are a very unique clan.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills:
+  - label: Perform (dance)
+    slug: perform
+    key: prf
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Knowledge (art)
+    slug: knowledge-history
+    key: khi
+  - label: Knowledge (ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Perform (dance) is a permanent class skill. Select any of two skills
+    from the list as permanent class skill. If a skill the character selects is already
+    a class skill, he receives a +1 competence bonus on the checks using that skill:
+    Balance, Chakra Control, Genjutsu, Hide, Knowledge (art, ninja lore), Jump, Move
+    Silently, Ninjutsu, Taijutsu,  or Tumble.'
+  feat_select_count: 1
+  feat_options:
+  - name: Acrobatic
+    source_uuid: null
+  - name: Advanced Bloodline (Buruhada)
+    source_uuid: null
+  - name: Combat Martial Arts
+    source_uuid: null
+  - name: Creative
+    source_uuid: null
+  - name: Defensive Martial Arts
+    source_uuid: null
+  - name: Genjutsu Adept
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Genius Ninja
+    source_uuid: null
+  - name: Nin Weapons Proficiency
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  - name: Tenodori
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Tenodori techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Inuzuka Clan
+  slug: community-compendium-inuzuka-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Inuzuka
+    Clan.md
+  source_category: Community Compendium
+  source_subcategory: null
+  description: The Inuzuka clan is a product of the Fire Country, namely Konohagakure,
+    is a family of shinobi known for their use of ninken (ninja dogs) as fighting
+    companions and are easily identified by the distinctive red fang markings on their
+    cheeks.
+  prerequisite: Age 8+
+  skill_select_count: 3
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Handle Animal
+    slug: handle-animal
+    key: han
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Knowledge (earth and life sciences)
+    slug: knowledge-nature
+    key: kna
+  - label: Knowledge (Ninja Lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Listen
+    slug: perception
+    key: per
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Sense Motive
+    slug: sense-motive
+    key: sen
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any three skills from the following list as permanent class
+    skills. If a skill the character selects is already a class skill, he receives
+    a +1 competence bonus on checks using that skill: Balance, Chakra Control, Climb,
+    Genjutsu, Handle Animal, Intimidate, Knowledge (Earth and Life Sciences, Ninja
+    Lore), Listen, Ninjutsu, Search, Sense Motive, Spot, Survival and Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Child of the Wild)
+    source_uuid: null
+  - name: Alertness
+    source_uuid: null
+  - name: Brawl
+    source_uuid: null
+  - name: Chakra Restoration
+    source_uuid: null
+  - name: Combat Martial Arts
+    source_uuid: null
+  - name: Combat Tactics
+    source_uuid: null
+  - name: Defensive Martial Arts
+    source_uuid: null
+  - name: Improved Chakra Pool
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Nin Weapon Proficiency
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  - name: Track
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Inuzuka Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Kaguya Clan
+  slug: community-compendium-kaguya-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Kaguya Clan.md
+  source_category: Community Compendium
+  source_subcategory: null
+  description: The people of this clan are infamous for their ability to manipulate
+    their bones in a variety of ways, known as Shikotsumyaku. Many fear them because
+    most are known to have a love of battle that borders on bloodlust.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Knowledge (Ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Knowledge (Tactics)
+    slug: knowledge-arcana
+    key: kar
+  - label: Knowledge (The Underworld)
+    slug: knowledge-religion
+    key: kre
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Spot
+    slug: perception
+    key: per
+  - label: Swim
+    slug: swim
+    key: swm
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Balance, Chakra Control, Concentration, Climb,
+    Intimidate, Jump, Knowledge (Ninja lore, Tactics, The Underworld), Ninjutsu, Spot,
+    Swim, Taijutsu, or Tumble.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Shikotsumyaku)
+    source_uuid: null
+  - name: Archaic Weapon Proficiency
+    source_uuid: null
+  - name: Combat Martial Arts
+    source_uuid: null
+  - name: Defensive Martial Arts
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Genius Ninja
+    source_uuid: null
+  - name: Nin Weapons Proficiency
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  - name: Toughness
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 0
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Kaguya Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Kirigakure Swordsman
+  slug: community-compendium-kirigakure-swordsman
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Kirigakure
+    Swordsman.md
+  source_category: Community Compendium
+  source_subcategory: null
+  description: Being a shinobi from the Hidden Mist, your village has a long tradition
+    of powerful swordsman. Taking this occupation means that you were trained as a
+    swordsman either by a mentor or even by one of the seven legendary swordsmen from
+    Mist.
+  prerequisite: Age 10+
+  skill_select_count: 3
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Craft (Mechanical)
+    slug: craft-mechanics
+    key: crf
+  - label: Escape Artist
+    slug: escape-artist
+    key: esc
+  - label: Gather Information
+    slug: diplomacy
+    key: dip
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Knowledge (ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Listen
+    slug: perception
+    key: per
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Swim
+    slug: swim
+    key: swm
+  - label: Sleight of Hand
+    slug: sleight-of-hand
+    key: slt
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any three skills from the following list as permanent class
+    skills. If a skill the character selects is already a class skill, he receives
+    a +1 competence bonus on checks using that skill: Balance, Climb, Chakra Control,
+    Concentration, Craft (Mechanical), Escape Artist, Gather Information, Hide, Intimidate,
+    Jump, Knowledge (ninja lore), Listen, Move Silently, Ninjutsu, Search, Swim, Sleight
+    of Hand, Spot, Survival, Taijutsu, and Tumble.'
+  feat_select_count: 1
+  feat_options:
+  - name: Archaic Weapon Proficiency
+    source_uuid: null
+  - name: Armor Proficiency
+    source_uuid: null
+  - name: '[Universal: Defensive Stance]'
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Genjutsu Adept
+    source_uuid: null
+  - name: Monkey Grip
+    source_uuid: null
+  - name: Nin Weapons Proficiency
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: '[Universal: Risky Strike]'
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 0
+  reputation_bonus: 2
+  affiliation: ''
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Kuiarasu Clan
+  slug: community-compendium-kuiarasu-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Kuiarasu
+    Clan.md
+  source_category: Community Compendium
+  source_subcategory: null
+  description: The members of this ancient clan are owners of the sacred burial places
+    from the Hidden Sealed Hills Village, and because of this and other secret arrangements
+    made with the High Council rulers, they are said to have great amounts of resources
+    and relics stored in their hideouts. Besides that, the clan members from Kuiarasu
+    clan seem to have little contact with the rest of the village, always in the shadows,
+    taking distance from the political affairs of the village, apparently.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Bluff
+    slug: bluff
+    key: blf
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Craft (Chemical)
+    slug: craft-chemical
+    key: crf
+  - label: Diplomacy
+    slug: diplomacy
+    key: dip
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Knowledge (Ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Knowledge (the Underworld)
+    slug: knowledge-religion
+    key: kre
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  - label: Treat Injury
+    slug: heal
+    key: hea
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Bluff, Chakra Control, Concentration, Craft
+    (Chemical, Calligraphy), Diplomacy, Hide, Intimidate, Knowledge (Ninja lore, the
+    Underworld), Move silently, Ninjutsu, Taijutsu, Treat Injury.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Kuiarasu Clan Bloodline, Soul Eater)
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Genius Nin
+    source_uuid: null
+  - name: Improved Chakra Pool
+    source_uuid: null
+  - name: Iron Will
+    source_uuid: null
+  - name: Medical Expert
+    source_uuid: null
+  - name: Will over Flesh
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 2
+  reputation_bonus: 1
+  affiliation: ''
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Kurukan Clan
+  slug: community-compendium-kurukan-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Kurukan
+    Clan.md
+  source_category: Community Compendium
+  source_subcategory: null
+  description: As warriors of legend, the Kurukan have mastered Taijutsu in all its
+    forms, but have also several feared Ninjutsu in their asset.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Intimidate, Ninjutsu, Survival,
+    Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Kurugan)
+    source_uuid: null
+  - name: Armor Proficiency (light, medium)
+    source_uuid: null
+  - name: Archaic Weapons Proficiency
+    source_uuid: null
+  - name: Combat Martial Arts
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Nin Weapons Proficiency
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 2
+  affiliation: You require 1 less success to learn Kurukan Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Myugan Clan
+  slug: community-compendium-myugan-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Myugan Clan.md
+  source_category: Community Compendium
+  source_subcategory: null
+  description: The Myugan Monk Order is a small clan in the northern regions of the
+    Fire Country. They are an exclusive bunch who tends to live isolated lives in
+    their own small village. Although they are generally pacifists, they have an amazing
+    grasp of Taijutsu and Chakra Control which they harness through an ancient style
+    of martial art known as Dao Shi.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Bluff
+    slug: bluff
+    key: blf
+  - label: Concentration
+    slug: chakra-control
+    key: ckc
+  - label: Escape Artist
+    slug: escape-artist
+    key: esc
+  - label: Knowledge (Ninja Lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Knowledge (earth and life science)
+    slug: knowledge-nature
+    key: kna
+  - label: Listen
+    slug: perception
+    key: per
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Balance, Bluff, Concentration, Chakra Control,
+    Escape Artist, Knowledge (Ninja Lore/Earth & Life Science), Listen, Spot, Survival,
+    Taijutsu, Tumble.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Shitatchi)
+    source_uuid: null
+  - name: Combat Martial Arts
+    source_uuid: null
+  - name: Genius Ninja
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You gain a +1 bonus and require 1 less success to learn Myugan Hijutsu
+    techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Nara Clan
+  slug: community-compendium-nara-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Nara Clan.md
+  source_category: Community Compendium
+  source_subcategory: null
+  description: The Nara clan is a product of the Fire Country, namely Konohagakure.
+    They are a small clan of incredibly intelligent people who are often regarded
+    as the most tactical sort in the village. Many of the Nara clansmen become tactical
+    advisors or squad leaders due to their innate planning abilities. Many of them
+    also possess the ability to manipulate shadows, most notably Shikamaru Nara and
+    his father, Shikaku.
+  prerequisite: Age 8+
+  skill_select_count: 3
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Bluff
+    slug: bluff
+    key: blf
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Craft (Chemical)
+    slug: craft-chemical
+    key: crf
+  - label: Decipher Script
+    slug: linguistics
+    key: lin
+  - label: Disable Device
+    slug: disable-device
+    key: dev
+  - label: Escape Artist
+    slug: escape-artist
+    key: esc
+  - label: Gather Information
+    slug: diplomacy
+    key: dip
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Investigate
+    slug: perception
+    key: per
+  - label: Jump
+    slug: acrobatics
+    key: acr
+  - label: Knowledge (Behavioral Science)
+    slug: sense-motive
+    key: sen
+  - label: Knowledge (earth and life science)
+    slug: knowledge-nature
+    key: kna
+  - label: Knowledge (Ninja Lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Knowledge (Tactics)
+    slug: knowledge-arcana
+    key: kar
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  raw_skills: 'Select any three skills from the following list as permanent class
+    skills. If a skill the character selects is already a class skill, he receives
+    a +1 competence bonus on checks using that skill: Bluff, Chakra Control, Concentration,
+    Craft (Chemical, Writing), Decipher Script, Disable Device, Escape Artist, Gather
+    Information, Genjutsu, Hide, Investigate, Jump, Knowledge (Behavioral Science,
+    Earth & Life Science, Ninja Lore, Tactics), Listen, Move Silently, Ninjutsu, Research,
+    Search and Spot.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Study
+    source_uuid: null
+  - name: Alertness
+    source_uuid: null
+  - name: Attentive
+    source_uuid: null
+  - name: Blind -Fight
+    source_uuid: null
+  - name: Combat Expertise
+    source_uuid: null
+  - name: Combat Tactics
+    source_uuid: null
+  - name: '[Universal: Risky Strike]'
+    source_uuid: null
+  - name: Deceptive
+    source_uuid: null
+  - name: Defensive Martial Arts
+    source_uuid: null
+  - name: Dodge
+    source_uuid: null
+  - name: Educated
+    source_uuid: null
+  - name: Genius Ninja
+    source_uuid: null
+  - name: Genjutsu Adept
+    source_uuid: null
+  - name: Improved Initiative
+    source_uuid: null
+  - name: Insightful Reflexes
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Nin Weapon Proficiency
+    source_uuid: null
+  - name: Precise Shot
+    source_uuid: null
+  - name: Stealthy
+    source_uuid: null
+  - name: Talented Shinobi
+    source_uuid: null
+  - name: Technique Focus
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Shadow Ninjutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Crab Clan
+  slug: community-compendium-samurai-clans-crab-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Samurai
+    Clans/Crab Clan.md
+  source_category: Community Compendium
+  source_subcategory: Samurai Clans
+  description: The samurai of the Crab clan boast the greatest defense, emphasizing
+    heavy armor, great strength, and unusual weapons. Theirs is a grim existence,
+    and the Crabs see little time in life for the courtly activities so enjoyed by
+    other samurai —arts, diplomacy, etiquette, and the like. The other clans view
+    the Crabs as crude, unwashed brutes, and that stereotype is often close to the
+    truth.
+  prerequisite: Age 8+
+  skill_select_count: 3
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Iaijutsu Focus
+    slug: taijutsu
+    key: tai
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Jump
+    slug: acrobatics
+    key: acr
+  - label: Knowledge (Tactics)
+    slug: knowledge-arcana
+    key: kar
+  - label: Listen
+    slug: perception
+    key: per
+  - label: Swim
+    slug: swim
+    key: swm
+  raw_skills: 'Select any three skills from the following list as permanent class
+    skills. If a skill the character selects is already a class skill, he receives
+    a +1 competence bonus on checks using that skill: Chakra Control, Climb, Iaijutsu
+    Focus, Intimidate, Jump, Knowledge (Tactics), Listen, Search, Spot, Swim, and
+    Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Armor Proficiency (Heavy)
+    source_uuid: null
+  - name: Dodge (Dodge, Spring Attack)
+    source_uuid: null
+  - name: Endurance
+    source_uuid: null
+  - name: '[Universal: Risky Strike] (Cleave, Powerful Maneuvers, Powerful Maneuvers,
+      Great Cleave)'
+    source_uuid: null
+  - name: Run
+    source_uuid: null
+  - name: Weapon Focus (battleaxe, greatclub, katana, warhammer)
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: If a Crab Clan member takes levels in Samurai his Hit Dice are D12s
+    instead of D10s. All skills listed above become part of his Class Skills for Samurai
+    levels. His Reflex and Will saves become Poor from Average. All feats listed above
+    become feats he may  select from the Bonus Feats granted by the Samurai class.
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  - Samurai Clans
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Crane Clan
+  slug: community-compendium-samurai-clans-crane-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Samurai
+    Clans/Crane Clan.md
+  source_category: Community Compendium
+  source_subcategory: Samurai Clans
+  description: The Crane Clan are the masters of the political intrigue —until very
+    recently, the undisputed masters (the Scorpions now challenge that claim). They
+    hold favors in store from nearly every family of every clan, and know how to call
+    in favors at the right time and circumstance. The members of the Crane clan are
+    noble in every sense of the word, refined, cultured, civilized, and graceful.
+  prerequisite: Age 8+
+  skill_select_count: 3
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Bluff
+    slug: bluff
+    key: blf
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Diplomacy
+    slug: diplomacy
+    key: dip
+  - label: Iaijutsu Focus
+    slug: taijutsu
+    key: tai
+  - label: Knowledge (Tactics)
+    slug: knowledge-arcana
+    key: kar
+  - label: Listen
+    slug: perception
+    key: per
+  - label: Sense Motive
+    slug: sense-motive
+    key: sen
+  - label: Swim
+    slug: swim
+    key: swm
+  raw_skills: 'Select any three skills from the following list as permanent class
+    skills. If a skill the character selects is already a class skill, he receives
+    a +1 competence bonus on checks using that skill: Balance, Bluff, Chakra Control,
+    Climb, Diplomacy, Iaijutsu Focus, Knowledge (Tactics), Listen, Search, Sense Motive,
+    Spot, Swim, Taijutsu, and Tumble.'
+  feat_select_count: 1
+  feat_options:
+  - name: Dodge (Dodge, Spring Attack)
+    source_uuid: null
+  - name: Expertise (Deft Maneuvers, Deft Maneuvers, Whirlwind Attack)
+    source_uuid: null
+  - name: Improved Initiative
+    source_uuid: null
+  - name: Quick Draw
+    source_uuid: null
+  - name: Skill Focus (Iaijutsu Focus)
+    source_uuid: null
+  - name: Toughness
+    source_uuid: null
+  - name: Weapon Focus (katana)
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: If a Crane Clan member takes levels in Samurai his Hit Dice becomes
+    D8s instead of D10s. All skills listed above become part of his Class Skills for
+    Samurai levels as well as his Class Skills per level becomes 5 + Int Modifier.
+    His Fortitude save becomes Poor, while his Reflex save becomes Good. All feats
+    listed above become feats he may select from the Bonus Feats granted by the Samurai
+    class.
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  - Samurai Clans
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Dragon Clan
+  slug: community-compendium-samurai-clans-dragon-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Samurai
+    Clans/Dragon Clan.md
+  source_category: Community Compendium
+  source_subcategory: Samurai Clans
+  description: 'The Dragon is the most enigmatic and secretive of the Great Clans.
+    For a thousand years, Dragons have lived in virtual seclusion in the high mountains.
+    They are best known for two things: the mysterious Ise Zumi order of tattooed
+    monks, and the unusual fighting style of the Mirumoto school, which teaches the
+    use of the katana in one hand and the wakizashi in the other. The Ise Zumi in
+    particular, but all Dragons at times, are known for protracted silence, evading
+    direct questions, and speaking in riddles.'
+  prerequisite: Age 8+
+  skill_select_count: 3
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Diplomacy
+    slug: diplomacy
+    key: dip
+  - label: Iaijutsu Focus
+    slug: taijutsu
+    key: tai
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Jump
+    slug: acrobatics
+    key: acr
+  - label: Knowledge (Tactics)
+    slug: knowledge-arcana
+    key: kar
+  - label: Listen
+    slug: perception
+    key: per
+  - label: Sense Motive
+    slug: sense-motive
+    key: sen
+  - label: Swim
+    slug: swim
+    key: swm
+  raw_skills: 'Select any three skills from the following list as permanent class
+    skills. If a skill the character selects is already a class skill, he receives
+    a +1 competence bonus on checks using that skill: Chakra Control, Climb, Diplomacy
+    , Iaijutsu Focus, Intimidate, Jump, Knowledge (Tactics), Listen, Search, Sense
+    Motive, Spot, Swim, and Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Exotic Weapon Proficiency (katana)
+    source_uuid: null
+  - name: Unarmed Combatant (Choke Hold)
+    source_uuid: null
+  - name: Unarmed Combatant (Defensive Throw, Deflect Arrows, Grappling Block, Great
+      Throw, Stunning Fist)
+    source_uuid: null
+  - name: '[Universal: Risky Strike] (Cleave)'
+    source_uuid: null
+  - name: Weapon Focus (katana)
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: If a Dragon Clan member takes levels in Samurai his skills listed above
+    become part of his Class Skills for Samurai levels. His Fortitude save becomes
+    Average, while his Will save becomes Good. All feats listed above become feats
+    he may select from the Bonus Feats granted by the Samurai class. While wielding
+    both a katana and wakizashi in their hands a Dragon Samurai suffers no penalties
+    to his attack bonus if he has Two Weapon Fighting and both weapons are properly
+    sized for a normal creature of his size.
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  - Samurai Clans
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Lion Clan
+  slug: community-compendium-samurai-clans-lion-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Samurai
+    Clans/Lion Clan.md
+  source_category: Community Compendium
+  source_subcategory: Samurai Clans
+  description: More than any other clan, the Lion clan embodies the warrior ideal
+    of bushido —the way of the warrior, the virtues and morals of the samurai. The
+    samurai of the Lion are the paragons of warrior virtue.
+  prerequisite: Age 8+
+  skill_select_count: 3
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Diplomacy
+    slug: diplomacy
+    key: dip
+  - label: Iaijutsu Focus
+    slug: taijutsu
+    key: tai
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Jump
+    slug: acrobatics
+    key: acr
+  - label: Knowledge (Tactics)
+    slug: knowledge-arcana
+    key: kar
+  - label: Listen
+    slug: perception
+    key: per
+  - label: Swim
+    slug: swim
+    key: swm
+  raw_skills: 'Select any three skills from the following list as permanent class
+    skills. If a skill the character selects is already a class skill, he receives
+    a +1 competence bonus on checks using that skill: Chakra Control, Climb, Diplomacy,
+    Iaijutsu Focus, Intimidate, Jump, Knowledge (Tactics), Listen, Search, Spot, Swim,
+    and Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Endurance
+    source_uuid: null
+  - name: Expertise (Deft Maneuvers, Deft Maneuvers, Whirlwind Attack)
+    source_uuid: null
+  - name: Improved Initiative
+    source_uuid: null
+  - name: Iron Will
+    source_uuid: null
+  - name: Ki Shout (Great Ki Shout)
+    source_uuid: null
+  - name: Remain Conscious
+    source_uuid: null
+  - name: Toughness
+    source_uuid: null
+  - name: Weapon Focus (katana)
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: "If a Lion Clan member takes levels in Samurai his skills listed above\
+    \ become part of his Class Skills for Samurai levels. His Reflex save becomes\
+    \ Poor, while his Will save becomes Good. All feats listed above become feats\
+    \ he may select from the Bonus Feats granted by the Samurai class. While wielding\
+    \ either their katana or wakizashi a Lion Samurai may use the Pounce ability.\
+    \ \n\nPounce (Ex): When making a charge, the character can follow with a full\
+    \ attack."
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  - Samurai Clans
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Mantis Clan
+  slug: community-compendium-samurai-clans-mantis-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Samurai
+    Clans/Mantis Clan.md
+  source_category: Community Compendium
+  source_subcategory: Samurai Clans
+  description: The youngest of age of all the Great Clans, their sp ecialization of
+    the spear and blade are renowned for being agile and incredible subtle, while
+    still maintaining a great deal of power behind their attacks. Outside of the battle
+    field they are known to be quick witted and frequently expected to join in a d
+    ebate with harsh reminding words to others that everyone should remain humble.
+  prerequisite: Age 8+
+  skill_select_count: 3
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Iaijutsu Focus
+    slug: taijutsu
+    key: tai
+  - label: Knowledge (Tactics)
+    slug: knowledge-arcana
+    key: kar
+  - label: Listen
+    slug: perception
+    key: per
+  - label: Swim
+    slug: swim
+    key: swm
+  raw_skills: 'Select any three skills from the following list as permanent class
+    skills. If a skill the character selects is already a class skill, he receives
+    a +1 competence bonus on checks using that skill: Balance, Chakra Control, Climb,
+    Iaijutsu Focus, Jump, Knowledge (Tactics), Listen, Search, Spot, Swim, Taijutsu,
+    and Tumble.'
+  feat_select_count: 1
+  feat_options:
+  - name: Alertness
+    source_uuid: null
+  - name: '[Universal: Defensive Stance]'
+    source_uuid: null
+  - name: (Improved Trick, Whirlwind Attack)
+    source_uuid: null
+  - name: Dodge (Dodge, Spring Attack)
+    source_uuid: null
+  - name: Improved Initiative
+    source_uuid: null
+  - name: '[Universal: Risky Strike] (Cleave, Great Cleave)'
+    source_uuid: null
+  - name: Quick Draw
+    source_uuid: null
+  - name: Weapon Focus (katana, kodachi, any polearm, wakizashi)
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: "If a Mantis Clan member takes levels in Samurai his skills listed\
+    \ above become part of his Class Skills for Samurai levels as well as his Class\
+    \ Skills. His Fortitude save becomes Average, his Reflex save becomes Good and\
+    \ his Will becomes Poor. All feats listed above become feats he may select from\
+    \ the Bonus Feats granted by the Samurai class. The Mantis who takes wields a\
+    \ spear gains the ability to use the Swing Around ability. \n\nSwing Around (Ex):\
+    \ On any unsuccessful attack with a *polearm* except on a charge, a Mantis may\
+    \ make a second attack, swinging the polearm around to hit his enemy with the\
+    \ blunt side of the weapon, albeit a -4penalty and at a 5 feet range. This attack\
+    \ deals 1d6 bludgeoning damage, plus his strength modifier. Weapon enhancements\
+    \ and special weapon abilities do not apply to this attack."
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  - Samurai Clans
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Phoenix Clan
+  slug: community-compendium-samurai-clans-phoenix-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Samurai
+    Clans/Phoenix Clan.md
+  source_category: Community Compendium
+  source_subcategory: Samurai Clans
+  description: The Phoenix are the most pious clan and enjoy many blessings they feel
+    are derived from their spiritual outlook and attunement to their ways is as complete
+    as mortal minds can attain.
+  prerequisite: Age 8+
+  skill_select_count: 3
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Iaijutsu Focus
+    slug: taijutsu
+    key: tai
+  - label: Knowledge (Tactics)
+    slug: knowledge-arcana
+    key: kar
+  - label: Listen
+    slug: perception
+    key: per
+  - label: Swim
+    slug: swim
+    key: swm
+  raw_skills: 'Select any three skills from the following list as permanent class
+    skills. If a skill the character selects is already a class skill, he receives
+    a +1 competence bonus on checks using that skill: Chakra Control, Climb, Iaijutsu
+    Focus, Knowledge (Tactics), Listen, Search, Spot, Swim, and Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Alertness
+    source_uuid: null
+  - name: Blind-Fight
+    source_uuid: null
+  - name: Combat Reflexes
+    source_uuid: null
+  - name: '[Universal: Defensive Stance] (Deft Maneuvers, Deft Maneuvers, Whirlwind
+      Attack)'
+    source_uuid: null
+  - name: Great Fortitude
+    source_uuid: null
+  - name: Improved Initiative
+    source_uuid: null
+  - name: Iron Will
+    source_uuid: null
+  - name: Quick Draw
+    source_uuid: null
+  - name: Weapon Focus (katana)
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: If a Phoenix Clan member takes levels in Samurai his skills listed
+    above become part of his Class Skills for Samurai levels. His Fortitude save becomes
+    Average, while his Reflex save becomes Good, and his Will save becomes Good. All
+    feats listed above become feats he may select from the Bonus Feats granted by
+    the Samurai class.
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  - Samurai Clans
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Scorpion Clan
+  slug: community-compendium-samurai-clans-scorpion-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Samurai
+    Clans/Scorpion Clan.md
+  source_category: Community Compendium
+  source_subcategory: Samurai Clans
+  description: 'Behind their ever -present masks, the members of the Scorpion clan
+    fill a distastef ul but necessary role within the samurai clans . They ar e the
+    keepers of secrets, walkers in shadows, assassins and spies. They care little
+    for honor, but hold up loyalty as the pre -eminent virtue of the clan: loyalty
+    to the clan —loyalty that makes a Scorpion willing to suffer death or dishonor,
+    to pay any cost . Scorpions are usually seen as villains, often even as traitors
+    —but from the Scorpion point of view, their worst de eds have all stemmed from
+    their sense of loyalty.'
+  prerequisite: Age 8+
+  skill_select_count: 3
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Bluff
+    slug: bluff
+    key: blf
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Gather Information
+    slug: diplomacy
+    key: dip
+  - label: Iaijutsu Focus
+    slug: taijutsu
+    key: tai
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Knowledge (Tactics)
+    slug: knowledge-arcana
+    key: kar
+  - label: Listen
+    slug: perception
+    key: per
+  - label: Sense Motive
+    slug: sense-motive
+    key: sen
+  - label: Swim
+    slug: swim
+    key: swm
+  raw_skills: 'Select any three skills from the following list as permanent class
+    skills. If a skill the character selects is already a class skill, he receives
+    a +1 competence bonus on checks using that skill: Balance, Bluff, Chakra Control,
+    Climb, Gather Information, Iaijutsu Focus, Intimidate, Knowledge (Tactics), Listen,
+    Search, Sense Motive, Spot, Swim, and Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Blind Fight
+    source_uuid: null
+  - name: Dodge (Dodge, Spring Attack)
+    source_uuid: null
+  - name: '[Universal: Defensive Stance] (Deft Maneuvers, Deft Maneuvers, Whirlwind
+      Attack)'
+    source_uuid: null
+  - name: Improved Initiative
+    source_uuid: null
+  - name: Prone Attack
+    source_uuid: null
+  - name: Quick Draw
+    source_uuid: null
+  - name: Weapon Focus (katana, wakizashi)
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: If a Scorpion Clan member takes levels in Samurai his skills listed
+    above become part of his Class Skills for Samurai levels and his Skill Points
+    becomes 5 + Int Modifier. His Fortitude becomes Average, while his Reflex save
+    becomes Good, and his Will save becomes Poor. All feats listed above become feats
+    he may select from the Bonus Feats granted by the Samurai class.
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  - Samurai Clans
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Unicorn Clan
+  slug: community-compendium-samurai-clans-unicorn-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Samurai
+    Clans/Unicorn Clan.md
+  source_category: Community Compendium
+  source_subcategory: Samurai Clans
+  description: The ancestors of the Unicorn wandered the lands learning from the others
+    and creating a culture uniquely their own, synthesizing elements of other cultures
+    with their native heritage. In the years since they have left their mark on history
+    as the best cavalry, with a powerful commitment to diplomacy and justice.
+  prerequisite: Age 8+
+  skill_select_count: 3
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Diplomacy
+    slug: diplomacy
+    key: dip
+  - label: Handle Animal
+    slug: handle-animal
+    key: han
+  - label: Iaijutsu Focus
+    slug: taijutsu
+    key: tai
+  - label: Knowledge (Tactics)
+    slug: knowledge-arcana
+    key: kar
+  - label: Listen
+    slug: perception
+    key: per
+  - label: Ride
+    slug: ride
+    key: rid
+  - label: Sense Motive
+    slug: sense-motive
+    key: sen
+  - label: Swim
+    slug: swim
+    key: swm
+  raw_skills: 'Select any three skills from the following list as permanent class
+    skills. If a skill the character selects is already a class skill, he receives
+    a +1 competence bonus on checks using that skill: Chakra Control, Climb, Diplomacy,
+    Handle Animal, Iaijutsu Focus, Knowledge (Tactics), Listen, Ride, Search, Sense
+    Motive, Spot, Swim, and Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Alertness
+    source_uuid: null
+  - name: Mounted Combat (Mounted Archery, Trample, Ride-By Attack, Spirited Charge)
+    source_uuid: null
+  - name: Point Blank Shot (Far Shot, Precise Shot, Rapid Shot, Shot on the Run)
+    source_uuid: null
+  - name: Weapon Focus (spear, lance, bow, katana)
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: If a Unicorn Clan member takes levels in Samurai his skills listed
+    above become part of his Class Skills for Samurai levels. Hi s Reflex save becomes
+    Good, and his Will save becomes Good. All feats listed above become feats he may
+    select from the Bonus Feats granted by the Samurai class.
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  - Samurai Clans
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Sarutobi Clan
+  slug: community-compendium-sarutobi-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Sarutobi
+    Clan.md
+  source_category: Community Compendium
+  source_subcategory: null
+  description: The Sarutobi clan is one of the most renowned clans in the ninja world.
+    They have produced many strong shinobi, most notably the Third Hokage of Konoha
+    gakure, Hiruzen Sarutobi. They do not possess a specific bloodline like some clans,
+    and yet they are still a group that could compare with the strongest of ninja
+    clans.
+  prerequisite: Age 8+
+  skill_select_count: 3
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Concentration
+    slug: chakra-control
+    key: ckc
+  - label: Escape Artist
+    slug: escape-artist
+    key: esc
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Knowledge (Ninja Lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Listen
+    slug: perception
+    key: per
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Sleight of Hand
+    slug: sleight-of-hand
+    key: slt
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any three skills from the following list as permanent class
+    skills. If a skill the character selects is already a class skill, he receives
+    a +1 competence bonus on checks using that skill: Balance, Concentration, Chakra
+    Control, Escape Artist, Hide , Jump, Knowledge (Ninja Lore), Listen, Move Silently,
+    Ninjutsu, Sleight of Hand, Spot, Taijutsu, Tumble.'
+  feat_select_count: 1
+  feat_options:
+  - name: Acrobatic
+    source_uuid: null
+  - name: Advanced Study
+    source_uuid: null
+  - name: Archaic Weapons Proficiency
+    source_uuid: null
+  - name: Athletic
+    source_uuid: null
+  - name: Combat Martial Arts
+    source_uuid: null
+  - name: Defensive Martial Arts
+    source_uuid: null
+  - name: Dodge
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Genius Ninja
+    source_uuid: null
+  - name: Nin Weapon Proficiency
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 2
+  affiliation: You require 1 less success to learn Konoha specific techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Seishin Clan
+  slug: community-compendium-seishin-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Seishin
+    Clan.md
+  source_category: Community Compendium
+  source_subcategory: null
+  description: ''
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Bluff
+    slug: bluff
+    key: blf
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Craft (calligraphy)
+    slug: craft-calligraphy
+    key: crf
+  - label: Decipher Script
+    slug: linguistics
+    key: lin
+  - label: Diplomacy
+    slug: diplomacy
+    key: dip
+  - label: Gamble
+    slug: profession
+    key: pro
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Investigate
+    slug: perception
+    key: per
+  - label: Sleight of Hand
+    slug: sleight-of-hand
+    key: slt
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, she receives a +1 competence
+    bonus on checks using that skill: Bluff, Chakra Control, Craft (calligraphy),
+    Concentration, Decipher Script, Diplomacy, Gamble, Gather Information, Genjutsu,
+    Intimidate, Investigate, Listen, Sleight of Hand, Spot'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Seishintoku)
+    source_uuid: null
+  - name: Educated
+    source_uuid: null
+  - name: Force of Personality
+    source_uuid: null
+  - name: Genjutsu Adept
+    source_uuid: null
+  - name: Genjutsu Technique Focus (Phantasm, Doujutsu, Mind-Affecting)
+    source_uuid: null
+  - name: Skilled
+    source_uuid: null
+  - name: Will over Flesh
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Seishin Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Senju Clan
+  slug: community-compendium-senju-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Senju Clan.md
+  source_category: Community Compendium
+  source_subcategory: null
+  description: Revered as one of the strongest known clans in the ninja world, the
+    Senju clan has dominated early ninja history. They are renowned for their incredible
+    strength and fortitude. History says they descended from the younger of the two
+    sons of the Sage of Six Paths, and they possessed the “ body” of the Sage.
+  prerequisite: Age 8+
+  skill_select_count: 3
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Concentration
+    slug: chakra-control
+    key: ckc
+  - label: Diplomacy
+    slug: diplomacy
+    key: dip
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Knowledge (Nin Lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Spot
+    slug: perception
+    key: per
+  - label: Swim
+    slug: swim
+    key: swm
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any three skills from the following list as permanent class
+    skills. If a skill the character selects is already a class skill, he receives
+    a +1 competence bonus on checks using that skill: Balance, Climb, Concentration,
+    Chakra Control, Diplomacy, Hide, Jump, Knowledge (Nin Lore), Move Silently, Ninjutsu,
+    Spot, Swim, Survival, Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Armor Proficiency (Light, Medium, Heavy)
+    source_uuid: null
+  - name: Brawl
+    source_uuid: null
+  - name: Chakra Restoration
+    source_uuid: null
+  - name: Combat Martial Arts
+    source_uuid: null
+  - name: Defensive Martial Arts
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Genius Nin
+    source_uuid: null
+  - name: Greater Fortitude
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  - name: Training
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 2
+  affiliation: You are required 1 less success to learn Training techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Sunagakure Puppeteer
+  slug: community-compendium-sunagakure-puppeteer
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Sunagakure
+    Puppeteer.md
+  source_category: Community Compendium
+  source_subcategory: null
+  description: You have trained since your early days to master the art of puppetry,
+    created by the first puppeteer in Sunagakure's history, Chikamatsu Monzaemon.
+    Because of that, your skills are naturally directed to the puppeteer path.
+  prerequisite: Age 10+
+  skill_select_count: 3
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Craft (Mechanical)
+    slug: craft-mechanics
+    key: crf
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Knowledge (ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Listen
+    slug: perception
+    key: per
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Sleight of Hand
+    slug: sleight-of-hand
+    key: slt
+  - label: Survival
+    slug: survival
+    key: sur
+  raw_skills: 'Select any three skills from the following list as permanent class
+    skills. If a skill the character selects is already a class skill, he receives
+    a +1 competence bonus on checks using that skill: Balance, Climb, Chakra Control,
+    Concentration, Craft (Mechanical, Chemical), Hide, Jump, Knowledge (ninja lore),
+    Listen, Move Silently, Ninjutsu, Repair, Search, Sleight of Hand, Spot, Survival.'
+  feat_select_count: 1
+  feat_options:
+  - name: Craft Poison
+    source_uuid: null
+  - name: Craft Puppets
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Nin Weapons Proficiency
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Resist Poisons
+    source_uuid: null
+  - name: Skilled
+    source_uuid: null
+  technique_options:
+  - name: 'Kairai Engeki: Shichihenge'
+    source_uuid: null
+  - name: Chakra no Ito
+    source_uuid: null
+  wealth_bonus: 0
+  reputation_bonus: 0
+  affiliation: ''
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Uzumaki Clan
+  slug: community-compendium-uzumaki-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Uzumaki
+    Clan.md
+  source_category: Community Compendium
+  source_subcategory: null
+  description: The Uzumaki clan was once a very prominent clan in Uzushiokagure. They
+    are renowned for their talents in fuinjutsu, or sealing arts. They are also known
+    to have a long lifespan and an incredible life force. However, it is rare to see
+    an Uzumaki today, for their clan was almost entirely destroyed in the Third Shinobi
+    War.
+  prerequisite: Age 8+
+  skill_select_count: 3
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Craft (calligraphy)
+    slug: craft-calligraphy
+    key: crf
+  - label: Fuinjutsu
+    slug: fuinjutsu
+    key: fui
+  - label: Knowledge (Ninja Lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Sense Motive
+    slug: sense-motive
+    key: sen
+  - label: Spot
+    slug: perception
+    key: per
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  - label: Treat Injury
+    slug: heal
+    key: hea
+  raw_skills: 'Select any three skills from the following list as permanent class
+    skills. If a skill the character selects is already a class skill, he receives
+    a +1 competence bonus on checks using that skill: Balance, Chakra Control, Concentration,
+    Craft (calligraphy) , Fuinjutsu, Knowledge (Ninja Lore), Ninjutsu, Sense Motive,
+    Spot, Taijutsu, Treat Injury, Tumble.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Study
+    source_uuid: null
+  - name: Chakra Restoration
+    source_uuid: null
+  - name: Fuinjutsu Adept
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Genius Nin
+    source_uuid: null
+  - name: Improved Chakra Pool
+    source_uuid: null
+  - name: Sealweaver
+    source_uuid: null
+  - name: Skilled
+    source_uuid: null
+  - name: Talented Shinobi
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 2
+  affiliation: You are required 1 less success to learn Fuinjutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Wandering Ninja
+  slug: community-compendium-wandering-ninja
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Wandering
+    Ninja.md
+  source_category: Community Compendium
+  source_subcategory: null
+  description: You don't belong to any ninja village, even having shinobi skills as
+    keen as any shinobi from the major villages. You probably live as a wandering
+    mercenary.
+  prerequisite: Age 10+
+  skill_select_count: 3
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Bluff
+    slug: bluff
+    key: blf
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Knowledge (ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Listen
+    slug: perception
+    key: per
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Profession
+    slug: profession
+    key: pro
+  - label: Repair
+    slug: craft-mechanics
+    key: crf
+  - label: Sleight of Hand
+    slug: sleight-of-hand
+    key: slt
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any three skills from the following list as permanent class
+    skills. If a skill the character selects is already a class skill, he receives
+    a +1 competence bonus on checks using that skill: Balance, Bluff, Climb, Chakra
+    Control, Concentration, Genjutsu, Hide, Intimidate, Jump, Knowledge (ninja lore),
+    Listen, Move Silently, Ninjutsu, Profession, Repair, Search, Sleight of Hand,
+    Spot, Survival, Taijutsu, Tumble.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline
+    source_uuid: null
+  - name: Combat Martial Arts
+    source_uuid: null
+  - name: Dodge
+    source_uuid: null
+  - name: Genjutsu Adept
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Genius Ninja
+    source_uuid: null
+  - name: Nin Weapons Proficiency
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Precise Shot
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 0
+  affiliation: ''
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Yamanaka Clan
+  slug: community-compendium-yamanaka-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Yamanaka
+    Clan.md
+  source_category: Community Compendium
+  source_subcategory: null
+  description: The Yamanaka clan is a product of the Fire Country, namely Konohagakure.
+    They are a small clan of incredibly skilled people who are known as some of the
+    best interrogators in the village. Many of the Yamanaka clansmen become interrogators
+    due to their hijutsu, which allows them to enter the minds of others and control
+    them or peer into their thoughts.
+  prerequisite: Age 8+
+  skill_select_count: 3
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Bluff
+    slug: bluff
+    key: blf
+  - label: Concentration
+    slug: chakra-control
+    key: ckc
+  - label: Craft (Writing)
+    slug: craft-calligraphy
+    key: crf
+  - label: Disguise
+    slug: disguise
+    key: dis
+  - label: Escape Artist
+    slug: escape-artist
+    key: esc
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Investigate
+    slug: perception
+    key: per
+  - label: Knowledge (Behavioral Science)
+    slug: sense-motive
+    key: sen
+  - label: Knowledge (Ninja Lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Research
+    slug: linguistics
+    key: lin
+  - label: Sleight of Hand
+    slug: sleight-of-hand
+    key: slt
+  raw_skills: 'Select any three skills from the following list as permanent class
+    skills. If a skill the character selects is already a class skill, he receives
+    a +1 competence bonus on checks using that skill: Bluff, Concentration, Chakra
+    Control, Craft (Writing), Disguise, Escape Artist, Genjutsu, Hide, Investigate,
+    Knowledge (Behavioral Science, Ninja Lore), Listen, Move Silently, Ninjutsu, Research,
+    Search, Sense Motive, Sleight of Hand, and Spot.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Study
+    source_uuid: null
+  - name: Alertness
+    source_uuid: null
+  - name: Attentive
+    source_uuid: null
+  - name: Chakra Affinity
+    source_uuid: null
+  - name: Combat Tactics
+    source_uuid: null
+  - name: Deceptive
+    source_uuid: null
+  - name: Genius Ninja
+    source_uuid: null
+  - name: Genjutsu Adept
+    source_uuid: null
+  - name: Harmony
+    source_uuid: null
+  - name: Improved Initiative
+    source_uuid: null
+  - name: Iron Will
+    source_uuid: null
+  - name: Nimble
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Nin Weapon Proficiency
+    source_uuid: null
+  - name: Precise Shot
+    source_uuid: null
+  - name: Technique Focus
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Yamanaka Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Yomi no Koujin Clan
+  slug: community-compendium-yomi-no-koujin-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Yomi no
+    Koujin Clan.md
+  source_category: Community Compendium
+  source_subcategory: null
+  description: The Yomi no Koujin bloodline is from Hidden Sealed Hills, a gray and
+    gloomy place lost somewhere between Earth and Wind Countries. This village is
+    known to be the place where the underworld (or Yomi the realm of death) is connected
+    to our world by a longtime ago sealed gateway. One of the gr eatest clans in this
+    village developed centuries ago, a way to partially enter the underworld, they
+    are known as the Ghost Clan.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Knowledge (Ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Survival
+    slug: survival
+    key: sur
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Genjutsu, Hide, Intimidate,
+    Knowledge (Ninja lore ), Move Silently, Ninjutsu, Survival.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Yomi no Koujin)
+    source_uuid: null
+  - name: Chakra Affinity
+    source_uuid: null
+  - name: Chakra Restoration
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Harmony
+    source_uuid: null
+  - name: Will over Flesh
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: ''
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Yuki Clan
+  slug: community-compendium-yuki-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Community Compendium/Yuki Clan.md
+  source_category: Community Compendium
+  source_subcategory: null
+  description: A clan most commonly found in the freezing northern parts of the world,
+    many of the clan members migrated southward to the Land of Water. Their skills
+    in controlling ice are fierce to behold and deadly to experience.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Knowledge (Ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Hide, Intimidate, Knowledge
+    (Ninja lore ), Move Silently, Ninjutsu, Survival , and Taijutsu .'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Hyouma)
+    source_uuid: null
+  - name: Chakra Affinity
+    source_uuid: null
+  - name: Chakra Restoration
+    source_uuid: null
+  - name: Elemental Specialization
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Genius Ninja
+    source_uuid: null
+  - name: Hand Seals Proficiency
+    source_uuid: null
+  - name: Harmony
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: ''
+  expertise: ''
+  tags:
+  - Occupation
+  - Community Compendium
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Dattoumaru Clan
+  slug: dattoumaru-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Dattoumaru Clan.md
+  source_category: Core
+  source_subcategory: null
+  description: From the Hidden Village of Cloud , this clan of taijutsu users is reputed
+    for their advanced bloodline, which gives them lightning speed and many other
+    combat advantages. They are respected and well known in the Thunder Country as
+    expert in Missing-Nin assassination.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Sleight of Hand
+    slug: sleight-of-hand
+    key: slt
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skill from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Balance, Chakra Control, Climb, Jump, Ninjutsu,
+    Sleight of Hand, Survival, Taijutsu, Tumble.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Hiraishin)
+    source_uuid: null
+  - name: Brawl
+    source_uuid: null
+  - name: Combat Martial Arts
+    source_uuid: null
+  - name: Dodge
+    source_uuid: null
+  - name: Improved Initiative
+    source_uuid: null
+  - name: Nin Weapons Proficiency
+    source_uuid: null
+  - name: Run
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Dattoumaru Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Core
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Fujiwara Clan
+  slug: fujiwara-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Fujiwara Clan.md
+  source_category: Core
+  source_subcategory: null
+  description: The Fujiwara Clan is not affiliated to any village but responsible
+    for much of what Genjutsu and Ninjutsu has become today. With their advanced knowledge,
+    they have become extremely proficient at the creation and perfection of the various
+    means of chakra manipulation techniques.
+  prerequisite: Age 8+
+  skill_select_count: 1
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Decipher Script
+    slug: linguistics
+    key: lin
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Knowledge (ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Survival
+    slug: survival
+    key: sur
+  raw_skills: 'Select any one skill from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill : Chakra Control, Decipher Script, Genjutsu,
+    Knowledge (ninja lore), Ninjutsu, Survival.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Doukagan)
+    source_uuid: null
+  - name: Educated
+    source_uuid: null
+  - name: Gearhead
+    source_uuid: null
+  - name: Genjutsu Adept
+    source_uuid: null
+  - name: Harmony
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Nin Weapons Proficiency
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 0
+  affiliation: You require 1 less success to learn Fujiwara Hujutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Core
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Amagiri Clan
+  slug: homebrew-amagiri-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Amagiri Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Amagiri are a formidable clan possessing the Boil Release (Futton)
+    advanced nature transformation, allowing them to create a highly corrosive vapor
+    capable of melting nearly anything. Their unique "Ajna Bindu," a third-eye marking
+    that appears on their forehead when their power is active, is a symbol of the
+    immense chakra control required to master this dangerous ability.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Survival
+    slug: survival
+    key: sur
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Concentration, Intimidate, Ninjutsu,
+    Survival.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Ajna Bindu)
+    source_uuid: null
+  - name: Elemental Specialization (Boil)
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: '[Universal: Risky Strike]'
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Amagiri Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Bakuha Clan
+  slug: homebrew-bakuha-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Bakuha Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Bakuha clan possesses the "Genshigan," a terrifying dojutsu that
+    allows them to perceive the molecular structure of matter and, with extreme focus,
+    break it down. This makes them incredibly dangerous shinobi, capable of disintegrating
+    objects and living beings. This power requires immense concentration and chakra
+    control to use effectively and safely.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Knowledge (physical sciences)
+    slug: knowledge-engineering
+    key: ken
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Concentration, Knowledge (physical
+    sciences), Ninjutsu, Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Genshigan)
+    source_uuid: null
+  - name: Chakra Penetration
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Focused
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Bakuha Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Boei Clan
+  slug: homebrew-boei-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Boei Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Boei clan are the ultimate protectors, possessing the "Oukokoi"
+    (Royal Guard) bloodline which grants them unparalleled defensive capabilities.
+    They can create powerful chakra barriers, reinforce their bodies to withstand
+    incredible damage, and sense incoming threats with uncanny accuracy. They are
+    the living shields of the ninja world.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Sense Motive
+    slug: sense-motive
+    key: sen
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Concentration, Ninjutsu, Sense
+    Motive, Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Oukokoi)
+    source_uuid: null
+  - name: '[Universal: Defensive Stance]'
+    source_uuid: null
+  - name: Endurance
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Great Fortitude
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Boei Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Chinoike Clan
+  slug: homebrew-chinoike-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Chinoike Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Chinoike clan was a powerful clan once feared for their Ketsuryugan,
+    a dojutsu that grants them the ability to manipulate any liquid with a high iron
+    concentration, most notably blood. This makes them terrifying masters of genjutsu
+    and ninjutsu, capable of controlling opponents from within or creating powerful,
+    blood-based attacks.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Knowledge (ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Genjutsu, Intimidate, Knowledge
+    (ninja lore), Ninjutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Ketsuryugan)
+    source_uuid: null
+  - name: Genjutsu Adept
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Iron Will
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Chinoike Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Fuma Clan
+  slug: homebrew-fuma-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Fuma Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: 'The Fuma clan is a renowned shinobi clan, known for their aggressive
+    tactics and their signature weapon: the giant, four-bladed Fuma Shuriken. They
+    are a proud and powerful clan with a long history of battle, respected and feared
+    for their skill in both armed and unarmed combat.'
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Athletics
+    slug: acrobatics
+    key: acr
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Athletics, Intimidate, Ninjutsu, Survival, Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Living Weapon)
+    source_uuid: null
+  - name: Archaic Weapon Proficiency
+    source_uuid: null
+  - name: Nin Weapons Proficiency
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: '[Universal: Risky Strike]'
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Fuma Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Funato Clan
+  slug: homebrew-funato-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Funato Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Funato clan are a fierce, seafaring clan of shinobi, known for
+    their ruthless piracy and mastery of Water Release ninjutsu. They are at home
+    on the ocean, using the waves and their own unique water techniques to overwhelm
+    their enemies. They are a major power in the waters around the Land of Water,
+    feared by sailors and coastal villages alike.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Knowledge (geography)
+    slug: knowledge-local
+    key: klo
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Swim
+    slug: swim
+    key: swm
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Intimidate, Knowledge (geography), Ninjutsu,
+    Survival, Swim.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Kaze)
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Athletic
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: '[Universal: Risky Strike]'
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Funato Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Fuuryuu Clan
+  slug: homebrew-fuuryuu-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Fuuryuu Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Fuuryuu clan are masters of lightning-infused taijutsu, thanks
+    to their "Konpeki Shitai" (Azure Body) bloodline. They can coat their bodies in
+    a shimmering blue aura of lightning chakra, dramatically increasing their speed,
+    reflexes, and the destructive power of their physical attacks, similar to the
+    Raikage's Lightning Release Armour.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Jump
+    slug: acrobatics
+    key: acr
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Jump, Ninjutsu, Taijutsu, Tumble.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Konpeki Shitai)
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  - name: Improved Initiative
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Run
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Fuuryuu Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Garou Clan
+  slug: homebrew-garou-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Garou Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Garou clan are masters of atmospheric manipulation, thanks to their
+    "Kesshuu" (Pressure) bloodline. They can increase or decrease the air pressure
+    in a given area, creating crushing force fields, powerful shockwaves, or vacuums
+    to suffocate their opponents. This makes them incredibly versatile and dangerous
+    foes.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Knowledge (physical sciences)
+    slug: knowledge-engineering
+    key: ken
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Survival
+    slug: survival
+    key: sur
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Concentration, Knowledge (physical
+    sciences), Ninjutsu, Survival.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Kesshuu)
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Focused
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Empower Technique
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Garou Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Hatake Clan
+  slug: homebrew-hatake-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Hatake Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Hatake clan is a small but highly respected clan in Konohagakure,
+    known for producing exceptionally talented and versatile shinobi like the famed
+    "White Fang of the Leaf." They are renowned for their combat prowess, advanced
+    tracking skills, and unwavering loyalty to their comrades, making them some of
+    the most reliable ninja in the village.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  - label: Treat Injury
+    slug: heal
+    key: hea
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Ninjutsu, Survival, Taijutsu,
+    Treat Injury.'
+  feat_select_count: 1
+  feat_options:
+  - name: Genin
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  - name: Track
+    source_uuid: null
+  - name: Archaic Weapon Proficiency
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 2
+  affiliation: You require 1 less success to learn Konoha specific techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Hirasaka Clan
+  slug: homebrew-hirasaka-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Hirasaka Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Hirasaka clan are masters of a unique and intense form of fire
+    ninjutsu, distinguished by their "Aoi" (Blue) flames. This special fire burns
+    hotter and is more difficult to control than normal fire, a testament to the clan's
+    exceptional chakra control and raw power. They are a clan of proud and powerful
+    fire-wielders.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Concentration, Intimidate, Ninjutsu,
+    Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Aoi)
+    source_uuid: null
+  - name: Elemental Specialization (Fire)
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Empower Technique
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Hirasaka Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Hoki Clan
+  slug: homebrew-hoki-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Hoki Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Hoki clan is a branch family of the prestigious Hyuuga clan. They
+    possess the "Toushigan" (Telescope Eye), a dojutsu that, while not as powerful
+    in all aspects as the Byakugan, grants them incredible long-range vision and the
+    ability to see through solid objects. This makes them exceptional scouts, spies,
+    and archers.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Investigate
+    slug: perception
+    key: per
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Survival
+    slug: survival
+    key: sur
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Investigate, Ninjutsu, Search, Spot, Survival.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Toushigan)
+    source_uuid: null
+  - name: Far Shot
+    source_uuid: null
+  - name: Keen Senses
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Precise Shot
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Hoki Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Hoshigaki Clan
+  slug: homebrew-hoshigaki-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Hoshigaki Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Hoshigaki clan is a fearsome clan from Kirigakure, whose members
+    possess distinct shark-like features, including sharp teeth and gills. They are
+    powerful shinobi with a natural affinity for Water Release and a massive chakra
+    pool. Their aggressive, predatory combat style makes them formidable opponents,
+    especially in aquatic environments.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Swim
+    slug: swim
+    key: swm
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Intimidate, Ninjutsu, Survival, Swim, Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Genin
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: '[Universal: Risky Strike]'
+    source_uuid: null
+  - name: Improved Chakra Pool
+    source_uuid: null
+  - name: Archaic Weapon Proficiency
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Hoshigaki Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Hozuki Clan
+  slug: homebrew-hozuki-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Hozuki Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Hozuki clan, hailing from Kirigakure, are masters of water-based
+    ninjutsu. Their signature technique allows them to turn their bodies into a liquid
+    form, making them incredibly difficult to harm with physical attacks and granting
+    them unparalleled stealth and infiltration capabilities, especially in or near
+    water. They are a proud and powerful clan of the Hidden Mist.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Swim
+    slug: swim
+    key: swm
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Hide, Move Silently, Ninjutsu,
+    Swim.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Hozuki)
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Stealthy
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Archaic Weapon Proficiency
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Hozuki Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Iburi Clan
+  slug: homebrew-iburi-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Iburi Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Iburi clan is a reclusive clan whose members possess a unique and
+    often unstable bloodline that allows them to turn their bodies into smoke. This
+    ability grants them exceptional powers of infiltration and evasion, but its volatility
+    means many clan members live in seclusion to protect themselves. Those who master
+    this power are truly untouchable spies and assassins.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Escape Artist
+    slug: escape-artist
+    key: esc
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Escape Artist, Hide, Move Silently,
+    Ninjutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Akekochuu)
+    source_uuid: null
+  - name: Stealthy
+    source_uuid: null
+  - name: Dodge
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Iburi Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Izuno Clan
+  slug: homebrew-izuno-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Izuno Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Izuno clan possesses the "Seiseigan" (Star Eye), a beautiful and
+    powerful dojutsu that allows them to perceive chakra pathways as a celestial star
+    chart. This gives them incredible insight into the flow of chakra, allowing them
+    to predict an opponent's moves, identify weaknesses, and even track the residual
+    chakra of past events with stunning accuracy.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Investigate
+    slug: perception
+    key: per
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Sense Motive
+    slug: sense-motive
+    key: sen
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Genjutsu, Investigate, Ninjutsu,
+    Sense Motive.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Seiseigan)
+    source_uuid: null
+  - name: '[Universal: Defensive Stance]'
+    source_uuid: null
+  - name: Insightful Reflexes
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Studious
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Izuno Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Kagetsu Clan
+  slug: homebrew-kagetsu-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Kagetsu Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Kagetsu clan possesses the "Motteyochi" (Full Moon) bloodline,
+    a unique trait that ties their power to the lunar cycle. They gain enhanced strength,
+    speed, and chakra recovery during the night, with their abilities peaking during
+    the full moon. They are masters of nighttime combat, infiltration, and assassination.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Hide, Move Silently, Ninjutsu, Survival, Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Motteyochi)
+    source_uuid: null
+  - name: Stealthy
+    source_uuid: null
+  - name: Alertness
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Dodge
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Kagetsu Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Kisharin Clan
+  slug: homebrew-kisharin-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Kisharin Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Kisharin are a clan of weapon specialists, particularly known for
+    their mastery of shuriken, kunai, and other throwing weapons. Their "Kazaguruma"
+    (Pinwheel) bloodline grants them unparalleled accuracy and the uncanny ability
+    to manipulate the trajectory of their projectiles in mid-air, making their attacks
+    almost impossible to dodge.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Craft (mechanical)
+    slug: craft-mechanics
+    key: crf
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Sleight of Hand
+    slug: sleight-of-hand
+    key: slt
+  - label: Spot
+    slug: perception
+    key: per
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Craft (mechanical), Ninjutsu, Sleight of Hand,
+    Spot, Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Kazaguruma)
+    source_uuid: null
+  - name: Precise Shot
+    source_uuid: null
+  - name: Far Shot
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Nin Weapons Proficiency
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Kisharin Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Kodon Clan
+  slug: homebrew-kodon-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Kodon Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Kodon clan possesses the "Ketsueki" (Blood) bloodline, a unique
+    and macabre ability that allows them to manipulate their own blood after it leaves
+    their body. They can harden it to create sharp weapons, lay traps, or use it in
+    its liquid form for binding and tracking purposes. This makes them resilient and
+    unpredictable fighters.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  - label: Treat Injury
+    slug: heal
+    key: hea
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Ninjutsu, Survival, Taijutsu,
+    Treat Injury.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Ketsueki)
+    source_uuid: null
+  - name: Great Fortitude
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Endurance
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Kodon Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Kohaku Clan
+  slug: homebrew-kohaku-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Kohaku Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Kohaku clan are swift and agile shinobi, known for their "Sonic"
+    bloodline which allows them to move at incredible speeds, often appearing as a
+    blur to the naked eye. They are masters of hit-and-run tactics, using their speed
+    to overwhelm opponents before they can react. They are close allies of the Tsuchigumo
+    clan.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Sleight of Hand
+    slug: sleight-of-hand
+    key: slt
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Balance, Jump, Sleight of Hand, Taijutsu, Tumble.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Sonic)
+    source_uuid: null
+  - name: Improved Initiative
+    source_uuid: null
+  - name: Run
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Dodge
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Kohaku Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Kumanoi Clan
+  slug: homebrew-kumanoi-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Kumanoi Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Kumanoi clan possesses the "Shikawa Myaku" (Antler Vein), a bloodline
+    that allows them to grow and manipulate their bone structure, similar to the Kaguya
+    clan's Shikotsumyaku. However, the Kumanoi's bone manifestations often resemble
+    the powerful antlers of deer and moose, which they use for devastating charging
+    attacks and incredibly durable defenses.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  - label: Tumble
+    slug: acrobatics
+    key: acr
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Intimidate, Ninjutsu, Survival, Taijutsu, Tumble.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Shikawa Myaku)
+    source_uuid: null
+  - name: '[Universal: Risky Strike]'
+    source_uuid: null
+  - name: Endurance
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Powerful Maneuvers
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Kumanoi Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Kurama Clan
+  slug: homebrew-kurama-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Kurama Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Kurama clan are unparalleled masters of genjutsu. Their bloodline
+    grants them such incredible talent in this art that their illusions can have real-world
+    consequences, convincing the victim's brain to manifest physical damage. This
+    power, however, can sometimes be unstable, creating a dangerous second personality
+    within the user if not properly controlled.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Bluff
+    slug: bluff
+    key: blf
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Craft (painting)
+    slug: craft-calligraphy
+    key: crf
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Knowledge (behavioral science)
+    slug: sense-motive
+    key: sen
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Bluff, Chakra Control, Craft (painting), Genjutsu,
+    Knowledge (behavioral science).'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Kurama)
+    source_uuid: null
+  - name: Genjutsu Adept
+    source_uuid: null
+  - name: Technique Focus (Genjutsu)
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Force of Personality
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Kurama Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Kyomei Clan
+  slug: homebrew-kyomei-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Kyomei Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Kyomei clan possesses the unique ability of "Chakra Resonance,"
+    allowing them to synchronize with the chakra of allies to boost their techniques,
+    or disrupt the chakra of enemies to weaken their jutsu. They are invaluable support
+    shinobi and formidable anti-ninjutsu specialists, capable of turning the tide
+    of battle without throwing a single punch.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Diplomacy
+    slug: diplomacy
+    key: dip
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Sense Motive
+    slug: sense-motive
+    key: sen
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Concentration, Diplomacy, Ninjutsu,
+    Sense Motive.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Chakra Resonance)
+    source_uuid: null
+  - name: Chakra Presence
+    source_uuid: null
+  - name: Harmony
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Kyomei Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Lee Clan
+  slug: homebrew-lee-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Lee Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Lee clan is a family of taijutsu specialists, known for their incredible
+    work ethic and dedication to physical conditioning. While they have little to
+    no aptitude for ninjutsu or genjutsu, their mastery of hand-to-hand combat is
+    second to none, allowing them to overcome any obstacle through sheer effort and
+    willpower. They are the embodiment of "hard work beats talent."
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Concentration
+    slug: chakra-control
+    key: ckc
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Balance, Climb, Concentration, Jump, Taijutsu,
+    Tumble.'
+  feat_select_count: 1
+  feat_options:
+  - name: Genin
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  - name: Endurance
+    source_uuid: null
+  - name: Great Fortitude
+    source_uuid: null
+  - name: Run
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn non-hijutsu Taijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Onikuma Clan
+  slug: homebrew-onikuma-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Onikuma Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Onikuma are a legendary and mysterious clan, whispered to possess
+    the "Tokeidome" (Time Stop) bloodline. This ultimate power allows them to halt
+    the flow of time for a mere instant, a moment that can decide any battle. This
+    ability is incredibly rare, difficult to master, and drains an immense amount
+    of chakra, making its users both revered and feared.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Sense Motive
+    slug: sense-motive
+    key: sen
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Concentration, Genjutsu, Ninjutsu,
+    Sense Motive.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Tokeidome)
+    source_uuid: null
+  - name: Focused
+    source_uuid: null
+  - name: Iron Will
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Improved Chakra Pool
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 2
+  affiliation: You require 1 less success to learn Onikuma Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Rinha Clan
+  slug: homebrew-rinha-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Rinha Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Rinha clan possesses the "Katsugan" (Living Eye), a dojutsu that
+    allows them to perceive the flow of life force and chakra within living organisms.
+    This unique ability makes them exceptional medics, trackers, and analysts, able
+    to diagnose injuries and track targets with uncanny precision.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Knowledge (earth and life sciences)
+    slug: knowledge-nature
+    key: kna
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Search
+    slug: perception
+    key: per
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Treat Injury
+    slug: heal
+    key: hea
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Knowledge (earth and life sciences),
+    Ninjutsu, Search, Survival, Treat Injury.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Katsugan)
+    source_uuid: null
+  - name: Medical Expert
+    source_uuid: null
+  - name: Keen Senses
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Studious
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Rinha Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Ryu Clan
+  slug: homebrew-ryu-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Ryu Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Ryu clan are known for their "Kyome" (Giant Roar) bloodline, which
+    allows them to generate powerful, concussive sound waves from their mouths. Unlike
+    the subtle genjutsu of the Taketori, the Ryu clan's techniques are pure, raw power,
+    capable of shattering stone, disorienting opponents, and creating devastating
+    shockwaves.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Survival
+    slug: survival
+    key: sur
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Concentration, Intimidate, Ninjutsu,
+    Survival.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Kyome)
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: '[Universal: Risky Strike]'
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Great Fortitude
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Ryu Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Seijina Clan
+  slug: homebrew-seijina-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Seijina Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Seijina are a legendary clan, said to be descended from the lightning
+    god Raijin himself. They possess the "Raijinsatsu" bloodline and the "Purumazuton"
+    (Plasma Release) advanced nature transformation, allowing them to create and control
+    super-heated plasma, a state of matter even more destructive than lightning. Their
+    power is immense and terrifying to behold.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Knowledge (physical sciences)
+    slug: knowledge-engineering
+    key: ken
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Concentration, Intimidate, Knowledge
+    (physical sciences), Ninjutsu, Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Raijinsatsu)
+    source_uuid: null
+  - name: Elemental Specialization (Plasma)
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Empower Technique
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 2
+  affiliation: You require 1 less success to learn Seijina Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Sendo Clan
+  slug: homebrew-sendo-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Sendo Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Sendo clan is a noble family of diplomats and strategists. They
+    possess the "Keireigan," a subtle dojutsu that allows them to perceive the emotional
+    state and true intentions of others. This makes them masters of negotiation, interrogation,
+    and psychological warfare, able to navigate complex social and political landscapes
+    with ease.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Bluff
+    slug: bluff
+    key: blf
+  - label: Diplomacy
+    slug: diplomacy
+    key: dip
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Knowledge (behavioral science)
+    slug: sense-motive
+    key: sen
+  - label: Knowledge (civics)
+    slug: knowledge-nobility
+    key: kno
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Bluff, Diplomacy, Gather Information, Genjutsu,
+    Knowledge (behavioral science, civics), Sense Motive.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Keireigan)
+    source_uuid: null
+  - name: Force of Personality
+    source_uuid: null
+  - name: Combat Tactics
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Trustworthy
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 2
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Sendo Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Shiin Clan
+  slug: homebrew-shiin-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Shiin Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Shiin clan are masters of shadow manipulation, possessing the "Koimeigan,"
+    a bloodline that allows them to control and solidify darkness itself. Unlike the
+    Nara clan's shadow imitation techniques, the Shiin can create tangible weapons,
+    armor, and constructs from shadows, making them formidable and unpredictable combatants
+    who thrive in the dark.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Craft (mechanical)
+    slug: craft-mechanics
+    key: crf
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Craft (mechanical), Hide, Move Silently, Ninjutsu,
+    Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Koimeigan)
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Stealthy
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: '[Universal: Risky Strike]'
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Shiin Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Shimura Clan
+  slug: homebrew-shimura-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Shimura Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Shimura clan is a pragmatic and highly disciplined clan with deep
+    roots in Konohagakure. Known for their unwavering, often severe loyalty to the
+    village, they operate in the shadows, prioritizing the village's security above
+    all else. They are skilled in a variety of covert arts and are not afraid to use
+    any means necessary to achieve their goals, making them a respected, if feared,
+    pillar of Konoha's strength.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Fuinjutsu
+    slug: fuinjutsu
+    key: fui
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Knowledge (civics)
+    slug: knowledge-nobility
+    key: kno
+  - label: Knowledge (ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Knowledge (tactics)
+    slug: knowledge-arcana
+    key: kar
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Fuinjutsu, Intimidate, Knowledge
+    (civics, ninja lore, tactics), Ninjutsu, Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Kyuushou Kousei)
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Iron Will
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  - name: Trustworthy
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Konoha specific techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Shirogane Clan
+  slug: homebrew-shirogane-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Shirogane Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Shirogane clan is a reclusive and often feared clan, known for
+    their unique "Medusa Eye" bloodline. This powerful dojutsu allows them to temporarily
+    petrify or dramatically slow their opponents with a mere gaze. Due to the dangerous
+    nature of their ability, they tend to live in isolation, honing their control
+    to prevent accidental harm.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Concentration, Genjutsu, Intimidate,
+    Ninjutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Medusa Eye)
+    source_uuid: null
+  - name: Genjutsu Adept
+    source_uuid: null
+  - name: Technique Focus (Genjutsu)
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Iron Will
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Shirogane Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Taketori Clan
+  slug: homebrew-taketori-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Taketori Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Taketori clan are masters of sound, utilizing their "Reikyou" bloodline
+    to manipulate sound waves for a variety of effects. They are known for their powerful
+    sound-based genjutsu and destructive ninjutsu, often employing small, chakra-infused
+    bells or other instruments as catalysts for their techniques. Their abilities
+    can soothe, hypnotize, or shatter, making them versatile and dangerous shinobi.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Perform (any)
+    slug: perform
+    key: prf
+  - label: Sleight of Hand
+    slug: sleight-of-hand
+    key: slt
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Genjutsu, Ninjutsu, Perform
+    (any), Sleight of Hand.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Reikyou)
+    source_uuid: null
+  - name: Genjutsu Adept
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Skill Focus (Perform)
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Taketori Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Tenro Clan
+  slug: homebrew-tenro-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Tenro Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Tenro clan are fierce warriors known for their "Kamitora" (God-Tiger)
+    bloodline, which grants them incredible speed, reflexes, and predatory senses.
+    They are masters of a unique and aggressive form of Taijutsu that mimics the movements
+    of a hunting tiger.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Listen
+    slug: perception
+    key: per
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Balance, Climb, Jump, Listen, Spot, Survival,
+    Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Kamitora)
+    source_uuid: null
+  - name: Brawl
+    source_uuid: null
+  - name: Combat Martial Arts
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Run
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Tenro Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Tsuchigumo Clan
+  slug: homebrew-tsuchigumo-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Tsuchigumo Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Tsuchigumo clan is a clan known for their powerful and often forbidden
+    jutsu. They were once a prominent force, though their numbers have dwindled. They
+    possess a deep knowledge of secret techniques, making them both respected and
+    feared.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Fuinjutsu
+    slug: fuinjutsu
+    key: fui
+  - label: Knowledge (ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Survival
+    slug: survival
+    key: sur
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Fuinjutsu, Knowledge (ninja
+    lore), Ninjutsu, Survival.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Study
+    source_uuid: null
+  - name: Sealweaver
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Genius Ninja
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Tsuchigumo Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Yato Clan
+  slug: homebrew-yato-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Yato Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Yato clan is a feared clan of ferocious warriors who possess the
+    "Chi no Bousou" (Rampage of Blood) bloodline. This ability allows them to enter
+    a berserker state, granting them immense physical power and resilience at the
+    cost of their own life force and tactical reasoning. They are forces of nature
+    on the battlefield, driven by pure combat instinct.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Jump
+    slug: acrobatics
+    key: acr
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Climb, Intimidate, Jump, Survival, Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Chi no Bousou)
+    source_uuid: null
+  - name: '[Universal: Risky Strike]'
+    source_uuid: null
+  - name: Endurance
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Great Fortitude
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Yato Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Yoimura Clan
+  slug: homebrew-yoimura-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Yoimura Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: 'The Yoimura clan are renowned artists and shinobi who practice a unique
+    and deadly art form: the manipulation of explosive clay. By infusing clay with
+    their chakra through special mouths on their hands, they can sculpt it into various
+    animated forms that can be detonated at will. They are masters of demolition,
+    art, and long-range combat.'
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Craft (sculpting)
+    slug: craft-calligraphy
+    key: crf
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Sleight of Hand
+    slug: sleight-of-hand
+    key: slt
+  - label: Spot
+    slug: perception
+    key: per
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Craft (sculpting, chemical), Hide, Ninjutsu,
+    Sleight of Hand, Spot.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Clay Artist)
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Precise Shot
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Deceptive
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Yoimura Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Yota Clan
+  slug: homebrew-yota-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Homebrew/Yota Clan.md
+  source_category: Homebrew
+  source_subcategory: null
+  description: The Yota clan were a mysterious, nomadic clan with the unique and powerful
+    ability to manipulate the weather. By channeling their emotions into their chakra,
+    they could freely create rain, wind, and lightning. This power made them both
+    a potential blessing and a curse to those they encountered, as their emotional
+    state directly influenced the environment around them.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Perform (singing)
+    slug: perform
+    key: prf
+  - label: Survival
+    slug: survival
+    key: sur
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Concentration, Ninjutsu, Perform
+    (singing), Survival.'
+  feat_select_count: 1
+  feat_options:
+  - name: Genin
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Elemental Specialization (any)
+    source_uuid: null
+  - name: Weather Forecast
+    source_uuid: null
+  - name: Force of Personality
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Yota Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Homebrew
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Hyuuga Clan
+  slug: hyuuga-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Hyuuga Clan.md
+  source_category: Core
+  source_subcategory: null
+  description: The single most powerful clan in Konoha, the Hyuuga are a clan to be
+    respected and feared. They possess the Byakugan, an eye bloodline limit that surpasses
+    even the Sharingan in observational prowess.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Knowledge (behavioral science)
+    slug: sense-motive
+    key: sen
+  - label: Knowledge (ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Search
+    slug: perception
+    key: per
+  - label: Sleight of Hand
+    slug: sleight-of-hand
+    key: slt
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skill from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill : Balance, Chakra Control, Hide, Intimidate,
+    Knowledge (behavioral science, ninja lore), Move Silently, Ninjutsu, Search, Sense
+    Motive, Sleight of Hand, Spot, Taijutsu, Tumble.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Byakugan)
+    source_uuid: null
+  - name: Combat Martial Arts
+    source_uuid: null
+  - name: Defensive Martial Arts
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Genius Ninja
+    source_uuid: null
+  - name: Nin Weapons Proficiency
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Hyuuga Hujutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Core
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Ishimaru Clan
+  slug: ishimaru-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Ishimaru Clan.md
+  source_category: Core
+  source_subcategory: null
+  description: The Ishimaru Clan are some of the finest practitioners of Ninjutsu
+    and Taijutsu of the Hidden Stone. Some of its more talented members form an entire
+    squad of the Tsuchikage's elite guard . Their combat style is as simplistic as
+    it is brutal.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Jump
+    slug: acrobatics
+    key: acr
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skill from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Climb, Hide, Jump, Move Silently, Ninjutsu,
+    Survival, and Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Fortify)
+    source_uuid: null
+  - name: Archaic Weapon Proficiency
+    source_uuid: null
+  - name: Armor Proficiency (light, medium)
+    source_uuid: null
+  - name: Brawl
+    source_uuid: null
+  - name: Combat Martial Arts
+    source_uuid: null
+  - name: Defensive Martial Arts
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Nin Weapons Proficiency
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Ishimaru Hujutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Core
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Kagetsuki Clan
+  slug: kagetsuki-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Kagetsuki Clan.md
+  source_category: Core
+  source_subcategory: null
+  description: A clan surrounded by several and myth and legend existing today, they
+    are a people whom have no ability to generate or rejuvenate their own chakra.
+    Although capable of crafting incredible medicines to offset this, they are most
+    known for their feared capability to absorb chakra from other living beings.
+  prerequisite: Age 10+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Craft (chemical)
+    slug: craft-chemical
+    key: crf
+  - label: Diplomacy
+    slug: diplomacy
+    key: dip
+  - label: Disguise
+    slug: disguise
+    key: dis
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Knowledge (ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Listen
+    slug: perception
+    key: per
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Research
+    slug: linguistics
+    key: lin
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skill from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Concentration, Craft (chemical,
+    pharmaceutical), Diplomacy, Disguise, Genjutsu, Hide, Knowledge (ninja lore),
+    Listen, Move Silently, Ninjutsu, Research, Search, Spot, Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Chakra Vampire)
+    source_uuid: null
+  - name: Alertness
+    source_uuid: null
+  - name: Armor Proficiency (light)
+    source_uuid: null
+  - name: Builder
+    source_uuid: null
+  - name: Dodge
+    source_uuid: null
+  - name: Nin Weapons Proficiency
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Stealthy
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  - name: Trustworthy
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 0
+  affiliation: You require 1 less success to learn Kagetsuki Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Core
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Kaguya Clan
+  slug: kaguya-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Kaguya Clan.md
+  source_category: Core
+  source_subcategory: null
+  description: A famous clan of battle thirsty warriors that rebelled against the
+    Hidden Mist a few years ago, possibly seeking wealth and fame, and barbaric carnage.
+    They are extremely powerful, so much that it is said that absolutely no injury
+    can permanently cripple them. Some have even been known to regrow their lost limbs
+    and live for close to two centuries because of their powerful advanced bloodline.
+    They were ruthless warmongers, which eventually led to their demise as they attempted
+    a coup d'état against the hidden village of Mist.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Knowledge (ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Knowledge (tactics)
+    slug: knowledge-arcana
+    key: kar
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Spot
+    slug: perception
+    key: per
+  - label: Swim
+    slug: swim
+    key: swm
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skill from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Balance, Chakra Control, Climb, Jump, Intimidate,
+    Knowledge (ninja lore, tactics), Ninjutsu, Spot, Swim, Taijutsu, Tumble.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Shikotsu Myaku)
+    source_uuid: null
+  - name: Archaic Weapon Proficiency
+    source_uuid: null
+  - name: Combat Martial Arts
+    source_uuid: null
+  - name: Defensive Martial Arts
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Genius Ninja
+    source_uuid: null
+  - name: Nin Weapon Proficiency
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 0
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Kaguya Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Core
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Mentored
+  slug: mentored
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Mentored.md
+  source_category: Core
+  source_subcategory: null
+  description: Still in your master's shadow, you aim to rise to fame as one of the
+    student of a legendary shinobi. Your skills are naturally more keen than that
+    of a typical academy student, but you also tend to be more specialized. Mentored
+    characters are very rare, as few high-level shinobi are known to take upon the
+    job.
+  prerequisite: Age 12+
+  skill_select_count: 3
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Bluff
+    slug: bluff
+    key: blf
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Craft (chemical)
+    slug: craft-chemical
+    key: crf
+  - label: Disable Device
+    slug: disable-device
+    key: dev
+  - label: Disguise
+    slug: disguise
+    key: dis
+  - label: Escape Artist
+    slug: escape-artist
+    key: esc
+  - label: Fuinjutsu
+    slug: fuinjutsu
+    key: fui
+  - label: Gather Information
+    slug: diplomacy
+    key: dip
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Investigate
+    slug: perception
+    key: per
+  - label: Knowledge (current events)
+    slug: knowledge-local
+    key: klo
+  - label: Knowledge (ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Knowledge (tactics)
+    slug: knowledge-arcana
+    key: kar
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Sleight of Hand
+    slug: sleight-of-hand
+    key: slt
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any three skills from the following list as permanent class
+    skills. If a skill the character selects is already a class skill, he receives
+    a +1 competence bonus on checks using that skill: Balance, Bluff, Climb, Chakra
+    Control, Concentration, Craft (chemical, calligraphy), Disable Device, Disguise,
+    Escape Artist, Fuinjutsu, Gather Information, Genjutsu, Hide, Investigate, Jump,
+    Knowledge (current events, ninja lore, streetwise, tactics), Listen, Move Silently,
+    Ninjutsu, Search, Sleight of Hand, Spot, Survival, Taijutsu, and Tumble.'
+  feat_select_count: 1
+  feat_options:
+  - name: Alertness
+    source_uuid: null
+  - name: Archaic Weapon Proficiency
+    source_uuid: null
+  - name: Brawl
+    source_uuid: null
+  - name: Combat Martial Arts
+    source_uuid: null
+  - name: Defensive Martial Arts
+    source_uuid: null
+  - name: Dodge
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Genius Ninja
+    source_uuid: null
+  - name: Genjutsu Adept
+    source_uuid: null
+  - name: Meticulous
+    source_uuid: null
+  - name: Nin Weapons Proficiency
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Precise Shot
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: ''
+  expertise: ''
+  tags:
+  - Occupation
+  - Core
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Mibu Clan
+  slug: mibu-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Mibu Clan.md
+  source_category: Core
+  source_subcategory: null
+  description: This immense clan said to be the direct descendant of God possesses
+    more than a few bloodlines, some of which were what the very first independant
+    Shinobi based their abilities on. The Mibu Clan has tacticians that possess the
+    ability to read mind, soldiers with the ability to manipulate fire and water,
+    others to make their skin into iron. The Ishimaru and Yachoumaru are direct descendants
+    of the Mibu Clan, as is the Kyuushou Kousei bloodline. The Katsugan bloodline
+    and Kagetsuki Clan were exiled failures of the clan's experiments. They hold no
+    qualm to kidnapping humans and using them as guinea pigs for their experiments,
+    tossing the failures in the massive forest surrounding the equally massive landmass
+    that is the Clan's castlegrounds. The successes are welcomed with open arms, with
+    promises of power and immortality, and sometimes a little more forcefully with
+    an intense session of brainwashing. Furthermore, the Clan has a powerful sword
+    style at its disposal, called the Muryou Saikyou Ryu. More than a few users of
+    the Shinmei Ryu are also known to have ties with the Mibu.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Craft (calligraphy)
+    slug: craft-calligraphy
+    key: crf
+  - label: Diplomacy
+    slug: diplomacy
+    key: dip
+  - label: Disguise
+    slug: disguise
+    key: dis
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Knowledge (arcane lore)
+    slug: knowledge-arcana
+    key: kar
+  - label: Knowledge (art)
+    slug: knowledge-history
+    key: khi
+  - label: Knowledge (behavioral sciences)
+    slug: sense-motive
+    key: sen
+  - label: Knowledge (business)
+    slug: profession
+    key: pro
+  - label: Knowledge (civics)
+    slug: knowledge-nobility
+    key: kno
+  - label: Knowledge (current events)
+    slug: knowledge-local
+    key: klo
+  - label: Knowledge (earth and life sciences)
+    slug: knowledge-nature
+    key: kna
+  - label: Knowledge (ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Knowledge (physical sciences)
+    slug: knowledge-engineering
+    key: ken
+  - label: Knowledge (theology and philosophy)
+    slug: knowledge-religion
+    key: kre
+  - label: Listen
+    slug: perception
+    key: per
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Research
+    slug: linguistics
+    key: lin
+  - label: Swim
+    slug: swim
+    key: swm
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  - label: Treat Injury
+    slug: heal
+    key: hea
+  raw_skills: 'Select any two skill from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Balance, Chakra Control, Concentration, Craft
+    (calligraphy, chemical, mechanical, pharmaceutical), Diplomacy, Disguise, Genjutsu,
+    Hide, Intimidate, Knowledge (arcane lore, art, behavioral sciences, business,
+    civics, current events, earth and life sciences, history, ninja lore, physical
+    sciences, popular culture, tactics, technology, or theology and philosophy), Listen,
+    Move Silently, Ninjutsu, Research, Search, Sense Motive, Spot, Swim, Taijutsu,
+    Treat Injury and Tumble.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Satori, Red Eyes)
+    source_uuid: null
+  - name: Alertness
+    source_uuid: null
+  - name: Animal Affinity
+    source_uuid: null
+  - name: Armor Proficiency (light)
+    source_uuid: null
+  - name: Attentive
+    source_uuid: null
+  - name: Builder
+    source_uuid: null
+  - name: Creative
+    source_uuid: null
+  - name: Deceptive
+    source_uuid: null
+  - name: Dodge
+    source_uuid: null
+  - name: Educated
+    source_uuid: null
+  - name: Focused
+    source_uuid: null
+  - name: Genius Ninja
+    source_uuid: null
+  - name: Genjutsu Adept
+    source_uuid: null
+  - name: Guide
+    source_uuid: null
+  - name: Heroic Surge
+    source_uuid: null
+  - name: Medical Expert
+    source_uuid: null
+  - name: Meticulous
+    source_uuid: null
+  - name: Nin Weapons Proficiency
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Stealthy
+    source_uuid: null
+  - name: Studious
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  - name: Trustworthy
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Mibu Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Core
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Ninja Law Enforcer
+  slug: ninja-law-enforcer
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Ninja Law Enforcer.md
+  source_category: Core
+  source_subcategory: null
+  description: This occupation covers any type of ninja law enforcement, such as ANBU,
+    the Ninja Police or even the Hunter-Nins.
+  prerequisite: Age 15+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Bluff
+    slug: bluff
+    key: blf
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Diplomacy
+    slug: diplomacy
+    key: dip
+  - label: Fuinjutsu
+    slug: fuinjutsu
+    key: fui
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Investigate
+    slug: perception
+    key: per
+  - label: Knowledge (ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Knowledge (tactics)
+    slug: knowledge-arcana
+    key: kar
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  - label: Tumble
+    slug: acrobatics
+    key: acr
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill : Bluff, Climb, Chakra Control, Concentration,
+    Diplomacy, Fuinjutsu, Gather Information, Genjutsu, Hide, Investigate, Knowledge
+    (ninja lore, tactics), Listen, Move Silently, Ninjutsu, Search, Survival, Taijutsu,
+    and Tumble.'
+  feat_select_count: 1
+  feat_options:
+  - name: Archaic Weapon Proficiency
+    source_uuid: null
+  - name: Armor Proficiency
+    source_uuid: null
+  - name: Brawl
+    source_uuid: null
+  - name: Combat Martial Arts
+    source_uuid: null
+  - name: Defensive Martial Arts
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Genjutsu Adept
+    source_uuid: null
+  - name: Nin Weapons Proficiency
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Precise Shot
+    source_uuid: null
+  - name: Rapid Shot
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  - name: Trustworthy
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 2
+  reputation_bonus: 0
+  affiliation: ''
+  expertise: ''
+  tags:
+  - Occupation
+  - Core
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Ninja Technician
+  slug: ninja-technician
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Ninja Technician.md
+  source_category: Core
+  source_subcategory: null
+  description: You have uncanny ease to learn lost or forgotten techniques.
+  prerequisite: Age 12+
+  skill_select_count: 0
+  fixed_class_skills: []
+  class_skill_options: []
+  raw_skills: Genjutsu 2 ranks, Knowledge (ninja lore) 2 ranks and Ninjutsu 2 ranks.
+  feat_select_count: 1
+  feat_options:
+  - name: Genjutsu Adept
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 0
+  reputation_bonus: 1
+  affiliation: ''
+  expertise: You require 1 less success to learn Lost Hijutsu and Lost Kinjutsu techniques
+    of any type (minimum 1).
+  tags:
+  - Occupation
+  - Core
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Phenom
+  slug: phenom
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Phenom.md
+  source_category: Core
+  source_subcategory: null
+  description: From birth, you were gifted with incredible potential. You quickly
+    set yourself apart from your peers as a prodigy and gained instant recognition;
+    your very actions can influence the course of life around you. They say everyone
+    gets their fifteen minutes of fame, but you got more. You are a prodigy, the product
+    of extraordinary union or perhaps simply an astonishing happenstance; when people
+    say 'one in every generation,' they're referring to you. Though your looks may
+    be deceiving, you have been dealt an incredible hand, and have all the tools one
+    could ever hope for to become a legendary ninja.
+  prerequisite: Age 5+ and one ability score 15 or higher. The Phenom's age requirement
+    is not subject to being reduced by the Genius Ninja feat, but he does not suffer
+    ability score penalties from being a child
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Acrobatics
+    slug: acrobatics
+    key: acr
+  - label: Appraise
+    slug: appraise
+    key: apr
+  - label: Bluff
+    slug: bluff
+    key: blf
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Craft Armor
+    slug: craft-armor
+    key: crf
+  - label: Diplomacy
+    slug: diplomacy
+    key: dip
+  - label: Disable Device
+    slug: disable-device
+    key: dev
+  - label: Disguise
+    slug: disguise
+    key: dis
+  - label: Escape Artist
+    slug: escape-artist
+    key: esc
+  - label: Fly
+    slug: fly
+    key: fly
+  - label: Fuinjutsu
+    slug: fuinjutsu
+    key: fui
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Handle Animal
+    slug: handle-animal
+    key: han
+  - label: Heal
+    slug: heal
+    key: hea
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Knowledge Arcana
+    slug: knowledge-arcana
+    key: kar
+  - label: Knowledge Dungeoneering
+    slug: knowledge-dungeoneering
+    key: kdu
+  - label: Knowledge Engineering
+    slug: knowledge-engineering
+    key: ken
+  - label: Knowledge History
+    slug: knowledge-history
+    key: khi
+  - label: Knowledge Local
+    slug: knowledge-local
+    key: klo
+  - label: Knowledge Nature
+    slug: knowledge-nature
+    key: kna
+  - label: Knowledge Ninja Lore
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Knowledge Nobility
+    slug: knowledge-nobility
+    key: kno
+  - label: Knowledge Planes
+    slug: knowledge-planes
+    key: kpl
+  - label: Knowledge Religion
+    slug: knowledge-religion
+    key: kre
+  - label: Linguistics
+    slug: linguistics
+    key: lin
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Perception
+    slug: perception
+    key: per
+  - label: Perform
+    slug: perform
+    key: prf
+  - label: Profession
+    slug: profession
+    key: pro
+  - label: Ride
+    slug: ride
+    key: rid
+  - label: Sense Motive
+    slug: sense-motive
+    key: sen
+  - label: Sleight Of Hand
+    slug: sleight-of-hand
+    key: slt
+  - label: Spellcraft
+    slug: spellcraft
+    key: spl
+  - label: Stealth
+    slug: stealth
+    key: ste
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Swim
+    slug: swim
+    key: swm
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  - label: Use Magic Device
+    slug: use-magic-device
+    key: umd
+  raw_skills: Select any two skills as permanent class skills. If a skill the character
+    selects is already a class skill, he receives a +1 competence bonus on checks
+    using that skill.
+  feat_select_count: 1
+  feat_options:
+  - name: Genius Ninja
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 0
+  reputation_bonus: 2
+  affiliation: ''
+  expertise: ''
+  tags:
+  - Occupation
+  - Core
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Samurai
+  slug: samurai
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Samurai.md
+  source_category: Core
+  source_subcategory: null
+  description: You were either raised in a samurai clan or were taught the secrets
+    of Bushido.
+  prerequisite: Age 15+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Gamble
+    slug: profession
+    key: pro
+  - label: Handle Animal
+    slug: handle-animal
+    key: han
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Jump
+    slug: acrobatics
+    key: acr
+  - label: Knowledge (tactics)
+    slug: knowledge-arcana
+    key: kar
+  - label: Listen
+    slug: perception
+    key: per
+  - label: Sense Motive
+    slug: sense-motive
+    key: sen
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any 2 skill from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Concentration, Gamble, Handle
+    Animal, Intimidate, Jump, Knowledge (tactics), Listen, Sense Motive, Spot, Taijutsu,
+    Tumble.'
+  feat_select_count: 1
+  feat_options:
+  - name: Archaic Weapons Proficiency
+    source_uuid: null
+  - name: Armor Proficiency (heavy)
+    source_uuid: null
+  - name: Armor Proficiency (light)
+    source_uuid: null
+  - name: Armor Proficiency (medium)
+    source_uuid: null
+  - name: Blind-Fight
+    source_uuid: null
+  - name: Defensive Martial Arts
+    source_uuid: null
+  - name: Exotic Melee Weapon Proficiency
+    source_uuid: null
+  - name: Precise Shot
+    source_uuid: null
+  - name: '[Universal: Risky Strike]'
+    source_uuid: null
+  - name: Quick Draw
+    source_uuid: null
+  - name: Windfall
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: ''
+  expertise: ''
+  tags:
+  - Occupation
+  - Core
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Seal Expert
+  slug: seal-expert
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Seal Expert.md
+  source_category: Core
+  source_subcategory: null
+  description: You come from a background of expertise in sealing ninjutsu.
+  prerequisite: Age 15+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Craft (calligraphy)
+    slug: craft-calligraphy
+    key: crf
+  - label: Fuinjutsu
+    slug: fuinjutsu
+    key: fui
+  - label: Knowledge (ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Craft (calligraphy), Fuinjutsu,
+    Knowledge (ninja lore), Ninjutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Sealweaver
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 0
+  reputation_bonus: 1
+  affiliation: ''
+  expertise: ''
+  tags:
+  - Occupation
+  - Core
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: The Puppet Master
+  slug: the-puppet-master
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/The Puppet Master.md
+  source_category: Core
+  source_subcategory: null
+  description: Through hard work, intensive practice and study, you have taken your
+    first steps on the path of the puppeteer. Often underestimated and overlooked,
+    you are sometimes considered a joke among your peers. This seldom lasts after
+    you display the sheer efficacy and efficiency of your puppeteer skills. You are
+    a performer, a wandering artiste, a master of puppets; the man behind the curtain.
+    You can create a masterpiece performance with a wave of your right hand, and bring
+    devastation and woe with a wave of your left.
+  prerequisite: Age 15+
+  skill_select_count: 3
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Craft (calligraphy)
+    slug: craft-calligraphy
+    key: crf
+  - label: Decipher Script
+    slug: linguistics
+    key: lin
+  - label: Disable Device
+    slug: disable-device
+    key: dev
+  - label: Disguise
+    slug: disguise
+    key: dis
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Knowledge (earth and life science)
+    slug: knowledge-nature
+    key: kna
+  - label: Knowledge (ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Knowledge (popular culture)
+    slug: knowledge-local
+    key: klo
+  - label: Knowledge (technology)
+    slug: knowledge-engineering
+    key: ken
+  - label: Listen
+    slug: perception
+    key: per
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Perform
+    slug: perform
+    key: prf
+  - label: Profession
+    slug: profession
+    key: pro
+  - label: Treat Injury
+    slug: heal
+    key: hea
+  raw_skills: "Select any three skills from the following list as permanent class\
+    \ skills. If a skill the character selects is already a class skill, he receives\
+    \ a +1 competence bonus on checks using that skill: \nChakra Control\nCraft (calligraphy,\
+    \ chemical, mechanical)\nDecipher Script\nDisable Device\nDisguise\nGenjutsu\n\
+    Hide\nKnowledge (earth and life science, ninja lore, popular culture, streetwise,\
+    \ technology)\nListen\nNinjutsu\nPerform\nProfession\nRepair\nSearch\nSpot\nTreat\
+    \ Injury."
+  feat_select_count: 1
+  feat_options:
+  - name: Craft Poisons
+    source_uuid: null
+  - name: Craft Puppets
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 0
+  reputation_bonus: 0
+  affiliation: ''
+  expertise: ''
+  tags:
+  - Occupation
+  - Core
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Uchiha Clan
+  slug: uchiha-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Uchiha Clan.md
+  source_category: Core
+  source_subcategory: null
+  description: One of Konoha's most famous clan, the Uchiha clan are amongst the most
+    respected and powerful individuals in the village. They are well known because
+    of the Sharingan, a special eye condition that can be awakened by some members
+    of the clan.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Knowledge (behavioral science)
+    slug: sense-motive
+    key: sen
+  - label: Knowledge (ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Knowledge (tactics)
+    slug: knowledge-arcana
+    key: kar
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Sleight of Hand
+    slug: sleight-of-hand
+    key: slt
+  - label: Spot
+    slug: perception
+    key: per
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skill from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill : Balance, Genjutsu, Hide, Intimidate, Knowledge
+    (behavioral science, ninja lore, tactics), Move Silently, Ninjutsu, Sleight of
+    Hand, Spot, Taijutsu, Tumble.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Sharingan Eye)
+    source_uuid: null
+  - name: Athletic
+    source_uuid: null
+  - name: Combat Martial Arts
+    source_uuid: null
+  - name: Defensive Martial Arts
+    source_uuid: null
+  - name: Educated
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Genius Ninja
+    source_uuid: null
+  - name: Nin Weapons Proficiency
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  technique_options:
+  - name: Goukakyuu no Jutsu
+    source_uuid: null
+  - name: Housenka no Jutsu
+    source_uuid: null
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Uchiha Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Core
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Vaudevillian
+  slug: vaudevillian
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Vaudevillian.md
+  source_category: Core
+  source_subcategory: null
+  description: You are a performer, a wandering artiste, a master of puppets; the
+    man behind the curtain. You can create a masterpiece performance with a wave of
+    your right hand, and bring devastation and woe with a wave of your left.
+  prerequisite: Age 15+
+  skill_select_count: 3
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Craft (calligraphy)
+    slug: craft-calligraphy
+    key: crf
+  - label: Decipher Script
+    slug: linguistics
+    key: lin
+  - label: Disable Device
+    slug: disable-device
+    key: dev
+  - label: Disguise
+    slug: disguise
+    key: dis
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Knowledge (earth and life science)
+    slug: knowledge-nature
+    key: kna
+  - label: Knowledge (ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Knowledge (popular culture)
+    slug: knowledge-local
+    key: klo
+  - label: Knowledge (technology)
+    slug: knowledge-engineering
+    key: ken
+  - label: Listen
+    slug: perception
+    key: per
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Perform
+    slug: perform
+    key: prf
+  - label: Profession
+    slug: profession
+    key: pro
+  - label: Treat Injury
+    slug: heal
+    key: hea
+  raw_skills: 'Select any three skills from the following list as permanent class
+    skills. If a skill the character selects is already a class skill, he receives
+    a +1 competence bonus on checks using that skill: Chakra Control, Craft (calligraphy,
+    chemical, mechanical), Concentration, Decipher Script, Disable Device, Disguise,
+    Genjutsu, Hide, Knowledge (earth and life science, ninja lore, popular culture,
+    streetwise, technology), Listen, Ninjutsu, Perform, Profession, Repair, Search,
+    Spot, Treat Injury.'
+  feat_select_count: 1
+  feat_options:
+  - name: Craft Poisons
+    source_uuid: null
+  - name: Craft Puppets
+    source_uuid: null
+  - name: Nin Weapons Proficiency
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 0
+  reputation_bonus: 0
+  affiliation: ''
+  expertise: ''
+  tags:
+  - Occupation
+  - Core
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Wandering Ninja
+  slug: wandering-ninja
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Wandering Ninja.md
+  source_category: Core
+  source_subcategory: null
+  description: You are a wandering ninja, a shinobi not attached to any village either
+    from being a missing-nin or from being raised or trained by one, or another wandering
+    ninja.
+  prerequisite: Age 15+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Craft (calligraphy)
+    slug: craft-calligraphy
+    key: crf
+  - label: Disable Device
+    slug: disable-device
+    key: dev
+  - label: Escape Artist
+    slug: escape-artist
+    key: esc
+  - label: Fuinjutsu
+    slug: fuinjutsu
+    key: fui
+  - label: Gamble
+    slug: profession
+    key: pro
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Knowledge (current events)
+    slug: knowledge-local
+    key: klo
+  - label: Knowledge (ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Knowledge (tactics)
+    slug: knowledge-arcana
+    key: kar
+  - label: Listen
+    slug: perception
+    key: per
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Perform
+    slug: perform
+    key: prf
+  - label: Sleight of Hand
+    slug: sleight-of-hand
+    key: slt
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Swim
+    slug: swim
+    key: swm
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Climb, Chakra Control, Craft (calligraphy),
+    Disable Device, Escape Artist, Fuinjutsu, Gamble, Genjutsu, Knowledge (current
+    events, ninja lore, streetwise, tactics), Listen, Ninjutsu, Perform, Profession,
+    Sleight of Hand, Spot, Survival, Swim and Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Archaic Weapon Proficiency
+    source_uuid: null
+  - name: Brawl
+    source_uuid: null
+  - name: Combat Martial Arts
+    source_uuid: null
+  - name: Nin Weapons Proficiency
+    source_uuid: null
+  - name: Precise Shot
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 2
+  affiliation: ''
+  expertise: ''
+  tags:
+  - Occupation
+  - Core
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Warrior Monk
+  slug: warrior-monk
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Warrior_Monk.md
+  source_category: Core
+  source_subcategory: null
+  description: You are a warrior monk, trained to kill but taught to avoid doing so
+    unless strictly necessary. Your body is a honed instrument that you use for either
+    war or peace, but to great effect either way.
+  prerequisite: Age 15+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Balance
+    slug: acrobatics
+    key: acr
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Craft (calligraphy)
+    slug: craft-calligraphy
+    key: crf
+  - label: Diplomacy
+    slug: diplomacy
+    key: dip
+  - label: Intimidate
+    slug: intimidate
+    key: int
+  - label: Knowledge (history)
+    slug: knowledge-history
+    key: khi
+  - label: Knowledge (ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Knowledge (tactics)
+    slug: knowledge-arcana
+    key: kar
+  - label: Knowledge (theology and philosophy)
+    slug: knowledge-religion
+    key: kre
+  - label: Listen
+    slug: perception
+    key: per
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Perform (martial arts)
+    slug: perform-martial-arts
+    key: prf
+  - label: Profession
+    slug: profession
+    key: pro
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Swim
+    slug: swim
+    key: swm
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skills from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Balance, Climb, Chakra Control, Craft (calligraphy),
+    Diplomacy, Jump, Intimidate, Knowledge (history, ninja lore, tactics, theology
+    and philosophy), Listen, Ninjutsu, Perform (martial arts), Profession, Spot, Survival,
+    Swim and Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Archaic Weapons Proficiency
+    source_uuid: null
+  - name: Combat Martial Arts
+    source_uuid: null
+  - name: Defensive Martial Arts
+    source_uuid: null
+  - name: Nin Weapons Proficiency
+    source_uuid: null
+  - name: '[Universal / Finesse Category]'
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 0
+  reputation_bonus: 1
+  affiliation: ''
+  expertise: ''
+  tags:
+  - Occupation
+  - Core
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'
+- name: Yachoumaru Clan
+  slug: yachoumaru-clan
+  status: active
+  source_md: Mechanics/Character_Options/Occupations/Yachoumaru Clan.md
+  source_category: Core
+  source_subcategory: null
+  description: A small but very powerful and respected clan of the Hidden Stone. They
+    possess a strong bloodline and one of its founding member was the first Tsuchikage
+    . They constitute a major trump card of the village's defense and have strong
+    connection in its military.
+  prerequisite: Age 8+
+  skill_select_count: 2
+  fixed_class_skills: []
+  class_skill_options:
+  - label: Chakra Control
+    slug: chakra-control
+    key: ckc
+  - label: Climb
+    slug: climb
+    key: clm
+  - label: Genjutsu
+    slug: genjutsu
+    key: gnj
+  - label: Hide
+    slug: stealth
+    key: ste
+  - label: Investigate
+    slug: perception
+    key: per
+  - label: Jump
+    slug: acrobatics
+    key: acr
+  - label: Knowledge (ninja lore)
+    slug: knowledge-ninja-lore
+    key: lor
+  - label: Knowledge (tactics)
+    slug: knowledge-arcana
+    key: kar
+  - label: Ninjutsu
+    slug: ninjutsu
+    key: nin
+  - label: Survival
+    slug: survival
+    key: sur
+  - label: Taijutsu
+    slug: taijutsu
+    key: tai
+  raw_skills: 'Select any two skill from the following list as permanent class skills.
+    If a skill the character selects is already a class skill, he receives a +1 competence
+    bonus on checks using that skill: Chakra Control, Climb, Genjutsu, Hide, Investigate,
+    Jump, Knowledge (ninja lore, tactics), Move Silently, Ninjutsu, Survival, Taijutsu.'
+  feat_select_count: 1
+  feat_options:
+  - name: Advanced Bloodline (Dairiki)
+    source_uuid: null
+  - name: Chakra Affinity
+    source_uuid: null
+  - name: Defensive Martial Arts
+    source_uuid: null
+  - name: Genin
+    source_uuid: null
+  - name: Nin Weapons Proficiency
+    source_uuid: null
+  - name: Ninjutsu Adept
+    source_uuid: null
+  - name: Taijutsu Adept
+    source_uuid: null
+  technique_options: []
+  wealth_bonus: 1
+  reputation_bonus: 1
+  affiliation: You require 1 less success to learn Yachoumaru Hijutsu techniques.
+  expertise: ''
+  tags:
+  - Occupation
+  - Core
+  foundry_source: null
+  house_rules_applied:
+  - kaihou-occupation-selector
+  created: '2026-06-07'
+  updated: '2026-06-07'

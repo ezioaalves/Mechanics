@@ -1,0 +1,614 @@
+spec_version: 1
+source_notes:
+  clan_mapping: Lore/World_of_Rokugan/Clan-Bloodline Village Relation.md
+  legacy_markdown_root: Mechanics/Character_Options/Schools
+  export_policy: Only status=active schools are exported to the Foundry schools pack.
+schools:
+  - name: Puppeteer Traveling School
+    slug: puppeteer-traveling-school
+    status: active
+    village: null
+    clan: null
+    legacy_name: Puppeteer Traveling School
+    source_md: Mechanics/Character_Options/Schools/Generic/Puppeteer Traveling School.md
+    focus: Puppet-based ninjutsu and utility.
+    description: A nomadic school that teaches puppetry for performance and combat, turning crafted puppets into extensions of the shinobi's will.
+    bonus_feat: {name: Craft Puppets, source_uuid: null}
+    starting_techniques:
+      - {name: "Ninpou: Chakra no Ito", source_uuid: null}
+      - {name: Saihou no Jutsu, source_uuid: null}
+      - {name: "Ninpou: Shurikenjutsu - Nageriki", source_uuid: null}
+    starting_outfit: Traveling clothes, a basic blank puppet, crafting tools, a scroll of Ninpou Chakra no Ito, and a traveling pack.
+    tags: [School, Generic, Puppeteer]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Worldly Ronin Path
+    slug: worldly-ronin-path
+    status: active
+    village: null
+    clan: null
+    legacy_name: Wordly Ronin Path
+    source_md: Mechanics/Character_Options/Schools/Generic/Wordly Ronin Path.md
+    focus: Masterless survival and adaptable field training.
+    description: Ronin are masterless shinobi, survivors, mercenaries, and wanderers whose training is assembled from what kept them alive on the road.
+    bonus_feat: {name: Skilled, source_uuid: null}
+    starting_techniques:
+      - {name: "Taijutsu: Keikai-uchi", source_uuid: null}
+      - {name: Doku Hakken no Jutsu, source_uuid: null}
+      - {name: Bunshin no Jutsu, source_uuid: null}
+    starting_outfit: Traveling clothes, any one weapon of rarity 6 or lower, katana or yumi, wakizashi, and any two items of rarity 4 or lower.
+    tags: [School, Generic, Ronin]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Uzumaki Loremaster School
+    slug: uzumaki-loremaster-school
+    status: active
+    village: Houohgakure
+    clan: Uzumaki
+    legacy_name: Asako Loremaster School
+    source_md: Mechanics/Character_Options/Schools/Houohgakure/Asako Loremaster School.md
+    focus: Scholarship, diplomacy, and mystic insight.
+    description: Uzumaki loremasters preserve Houohgakure's spiritual and historical memory, solving problems with knowledge before blades leave their sheaths.
+    bonus_feat: {name: Educated, source_uuid: null}
+    starting_techniques:
+      - {name: Weight of Duty, source_uuid: null}
+      - {name: Shitsukentou no Jutsu, source_uuid: null}
+      - {name: Artisan Appraisal, source_uuid: null}
+    starting_outfit: Ceremonial robes, sanctified robes, traveling clothes, wakizashi, knife, scroll satchel, calligraphy set, and traveling pack.
+    tags: [School, Houohgakure, Uzumaki]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Yota Elementalist School
+    slug: yota-elementalist-school
+    status: active
+    village: Houohgakure
+    clan: Yota
+    legacy_name: Isawa Elementalist School
+    source_md: Mechanics/Character_Options/Schools/Houohgakure/Isawa Elementalist School.md
+    focus: Elemental ninjutsu and battlefield control.
+    description: Yota elementalists treat chakra as weather made personal, training to shape flame, wind, and stone into decisive battlefield answers.
+    bonus_feat: {name: Elemental Focus, source_uuid: null}
+    starting_techniques:
+      - {name: Shoukakyuu no Jutsu, source_uuid: null}
+      - {name: Kazegama no Jutsu, source_uuid: null}
+      - {name: Toujun no Jutsu, source_uuid: null}
+    starting_outfit: Sanctified robes, wakizashi, knife, scroll satchel, and traveling pack.
+    tags: [School, Houohgakure, Yota]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Shimura Guardian School
+    slug: shimura-guardian-school
+    status: active
+    village: Houohgakure
+    clan: Shimura
+    legacy_name: Shiba Guardian School
+    source_md: Mechanics/Character_Options/Schools/Houohgakure/Shiba Guardian School.md
+    focus: Bodyguard taijutsu and defensive vigilance.
+    description: Shimura guardians are trained as the shield of Houohgakure, standing between a protected charge and danger with disciplined patience.
+    bonus_feat: {name: Defensive Martial Arts, source_uuid: null}
+    starting_techniques:
+      - {name: Zentai Bougyo, source_uuid: null}
+      - {name: "Taijutsu: Jiki-uchi", source_uuid: null}
+      - {name: Inuhana no Jutsu, source_uuid: null}
+    starting_outfit: Ashigaru armor, travel clothes, daisho, naginata or yari, and traveling pack.
+    tags: [School, Houohgakure, Shimura]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Ishimaru Taijutsu School
+    slug: ishimaru-taijutsu-school
+    status: active
+    village: Kanigakure
+    clan: Ishimaru
+    legacy_name: Hida Taijutsu School
+    source_md: Mechanics/Character_Options/Schools/Kanigakure/Hida Defender School.md
+    focus: Defensive taijutsu and heavy armor.
+    description: Ishimaru defenders endure first and strike second, turning armor, courage, and practical taijutsu into a survival doctrine.
+    bonus_feat: {name: Armor Focus, source_uuid: null}
+    starting_techniques:
+      - {name: "Ishimaru Ryu: Shodan Dachi", source_uuid: null}
+      - {name: "Taijutsu: Gouken", source_uuid: null}
+      - {name: Toujun no Jutsu, source_uuid: null}
+    starting_outfit: Lacquered armor, traveling clothes, daisho, tetsubo or otsuchi, club, knife, and traveling pack.
+    tags: [School, Kanigakure, Ishimaru]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Dattoumaru Ninpou School
+    slug: dattoumaru-ninpou-school
+    status: active
+    village: Kanigakure
+    clan: Dattoumaru
+    legacy_name: Hiruma Ninpou School
+    source_md: Mechanics/Character_Options/Schools/Kanigakure/Hiruma Scout School.md
+    focus: Ranged combat, stealth, and survival.
+    description: Dattoumaru scouts are Kanigakure's forward eyes, trained to survive alone, move unseen, and report before a threat reaches the village.
+    bonus_feat: {name: Improved Initiative, source_uuid: null}
+    starting_techniques:
+      - {name: "Ninpou: Shurikenjutsu - Renken", source_uuid: null}
+      - {name: "Kenjutsu: Kudari-uchi", source_uuid: null}
+      - {name: Kakureimino no Jutsu, source_uuid: null}
+    starting_outfit: Traveling clothes, ashigaru armor, daisho, yari or yumi with arrows, knife, traveling pack, and finger of jade.
+    tags: [School, Kanigakure, Dattoumaru]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Sendo Fuinjutsu School
+    slug: sendo-fuinjutsu-school
+    status: active
+    village: Kanigakure
+    clan: Sendo
+    legacy_name: Kaiu Fuinjutsu School
+    source_md: Mechanics/Character_Options/Schools/Kanigakure/Kaiu Engineer School.md
+    focus: Defensive fortifications, crafting, and siege warfare.
+    description: Sendo engineers read battlefields as structures to raise, break, seal, or redirect, making craft and fuinjutsu part of the same doctrine.
+    bonus_feat: {name: Siege Engineer, source_uuid: null}
+    starting_techniques:
+      - {name: "Kenjutsu: Urashamen-uchi", source_uuid: null}
+      - {name: Shinheki no Jutsu, source_uuid: null}
+      - {name: Chakra no Hikari, source_uuid: null}
+    starting_outfit: Traveling clothes, ceremonial clothes, ashigaru armor, daisho, club, oyumi with bolts, and traveling pack.
+    tags: [School, Kanigakure, Sendo]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Kaguya Purifier School
+    slug: kaguya-purifier-school
+    status: active
+    village: Kanigakure
+    clan: Kaguya
+    legacy_name: Kuni Purifier School
+    source_md: Mechanics/Character_Options/Schools/Kanigakure/Kuni Purifier School.md
+    focus: Anti-supernatural combat, fuinjutsu, and survival.
+    description: Kaguya purifiers train against corrupted spirits and monstrous threats, combining grim study with direct combat and cleansing rites.
+    bonus_feat: {name: Resist Taint, source_uuid: null}
+    starting_techniques:
+      - {name: "Taijutsu: Gouken", source_uuid: null}
+      - {name: Toujun no Jutsu, source_uuid: null}
+      - {name: Cleansing Rite, source_uuid: null}
+    starting_outfit: Sanctified robes, wakizashi, knife, makeup kit, scroll satchel, and traveling pack.
+    tags: [School, Kanigakure, Kaguya]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Katsuyama Merchant School
+    slug: katsuyama-merchant-school
+    status: active
+    village: Kanigakure
+    clan: Katsuyama
+    legacy_name: Yasuki Merchant School
+    source_md: Mechanics/Character_Options/Schools/Kanigakure/Yasuki Merchant School.md
+    focus: Social maneuvering, appraisal, and wealth.
+    description: Katsuyama merchants treat resources, favors, and documents as weapons, winning conflicts through logistics and leverage.
+    bonus_feat: {name: Windfall, source_uuid: null}
+    starting_techniques:
+      - {name: "Magen: Jigoku Tenshi no Jutsu", source_uuid: null}
+      - {name: Shougenzou no Jutsu, source_uuid: null}
+      - {name: Shinheki no Jutsu, source_uuid: null}
+    starting_outfit: Traveling clothes, ceremonial clothes, wakizashi, knife, yumi with arrows, calligraphy set, and traveling pack.
+    tags: [School, Kanigakure, Katsuyama]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Kisharin Trader School
+    slug: kisharin-trader-school
+    status: active
+    village: Kiringakure
+    clan: Kisharin
+    legacy_name: Ide Trader School
+    source_md: Mechanics/Character_Options/Schools/Kiringakure/Ide Trader School.md
+    focus: Diplomacy, logistics, and tradecraft.
+    description: Kisharin traders are Kiringakure's negotiators and route-makers, using wealth and movement to solve problems before they become wars.
+    bonus_feat: {name: Windfall, source_uuid: null}
+    starting_techniques:
+      - {name: Well of Desire, source_uuid: null}
+      - {name: Artisan Appraisal, source_uuid: null}
+      - {name: Kaisoku no Jutsu, source_uuid: null}
+    starting_outfit: Traveling clothes, wakizashi, yumi with arrows, calligraphy set, traveling pack, riding mount, and journal.
+    tags: [School, Kiringakure, Kisharin]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Tsuchigumo Meishodo Master School
+    slug: tsuchigumo-meishodo-master-school
+    status: active
+    village: Kiringakure
+    clan: Tsuchigumo
+    legacy_name: Iuchi Meishodo Master School
+    source_md: Mechanics/Character_Options/Schools/Kiringakure/Iuchi Meishodo Master School.md
+    focus: Talismans, medical ninjutsu, and foreign alchemy.
+    description: Tsuchigumo meishodo masters bind practical chakra into talismans, remedies, and field techniques for long journeys.
+    bonus_feat: {name: Craft Shinobi Drugs, source_uuid: null}
+    starting_techniques:
+      - {name: Inari's Blessing, source_uuid: null}
+      - {name: Mizudama no Jutsu, source_uuid: null}
+      - {name: Sarutobi no Jutsu, source_uuid: null}
+    starting_outfit: Traveling clothes, ceremonial clothes, wakizashi, one weapon of rarity 6 or lower, calligraphy set, traveling pack, and riding mount.
+    tags: [School, Kiringakure, Tsuchigumo]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Fuma Conqueror School
+    slug: fuma-conqueror-school
+    status: active
+    village: Kiringakure
+    clan: Fuma
+    legacy_name: Moto Conqueror School
+    source_md: Mechanics/Character_Options/Schools/Kiringakure/Moto Conqueror School.md
+    focus: Mounted assault and intimidation.
+    description: Fuma conquerors embrace speed and terror, breaking enemy lines with relentless charges and killing intent.
+    bonus_feat: {name: Training, source_uuid: null}
+    starting_techniques:
+      - {name: "Taijutsu: Gouken - Konoha Reppuu", source_uuid: null}
+      - {name: Kyougaku no Jutsu, source_uuid: null}
+      - {name: Chihou no Jutsu, source_uuid: null}
+    starting_outfit: Traveling clothes, concealed armor, daisho, yumi with arrows, two knives, traveling pack, and riding mount.
+    tags: [School, Kiringakure, Fuma]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Inuzuka Outrider School
+    slug: inuzuka-outrider-school
+    status: active
+    village: Kiringakure
+    clan: Inuzuka
+    legacy_name: Shinjo Outrider School
+    source_md: Mechanics/Character_Options/Schools/Kiringakure/Shinjo Outrider School.md
+    focus: Reconnaissance, mounted movement, and animal bonds.
+    description: Inuzuka outriders are scouts and vanguards who move with trained animals as a single hunting unit.
+    bonus_feat: {name: Animal Affinity, source_uuid: null}
+    starting_techniques:
+      - {name: Juuki no Jutsu, source_uuid: null}
+      - {name: "Kenjutsu: Agari-uchi", source_uuid: null}
+      - {name: Kuuryuuken no Jutsu, source_uuid: null}
+    starting_outfit: Ashigaru armor, traveling clothes, daisho, yumi with arrows, knife, traveling pack, and riding mount.
+    tags: [School, Kiringakure, Inuzuka]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Tenro Battle Maiden School
+    slug: tenro-battle-maiden-school
+    status: active
+    village: Kiringakure
+    clan: Tenro
+    legacy_name: Utaku Battle Maiden School
+    source_md: Mechanics/Character_Options/Schools/Kiringakure/Utaku Battle Maiden School.md
+    focus: Cavalry discipline and shock assault.
+    description: Tenro battle maidens are elite mounted warriors trained to defend allies and break enemy lines with disciplined charges.
+    bonus_feat: {name: Mobility, source_uuid: null}
+    starting_techniques:
+      - {name: Stonewall Tactics, source_uuid: null}
+      - {name: "Taijutsu: Jiki-uchi", source_uuid: null}
+      - {name: Shodan Jouryoku, source_uuid: null}
+    starting_outfit: Lacquered armor, ceremonial clothes, daisho, yari, yumi with arrows, knife, traveling pack, and trained mount.
+    tags: [School, Kiringakure, Tenro]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Amagiri Mystic School
+    slug: amagiri-mystic-school
+    status: active
+    village: Ryuugakure
+    clan: Amagiri
+    legacy_name: Agasha Mystic School
+    source_md: Mechanics/Character_Options/Schools/Ryuugakure/Agasha Mystic School.md
+    focus: Elemental mysticism, alchemy, and ritual purity.
+    description: Amagiri mystics commune with the land and its spirits, blending elemental ninjutsu with careful ritual practice.
+    bonus_feat: {name: Widen Technique, source_uuid: null}
+    starting_techniques:
+      - {name: Hiakahou, source_uuid: null}
+      - {name: Doku Hakken no Jutsu, source_uuid: null}
+      - {name: Cleansing Rite, source_uuid: null}
+    starting_outfit: Sanctified robes, wakizashi, bo, knife, traveling pack, scroll satchel, glass vials, and journal.
+    tags: [School, Ryuugakure, Amagiri]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Mibu Investigator School
+    slug: mibu-investigator-school
+    status: active
+    village: Ryuugakure
+    clan: Mibu
+    legacy_name: Kitsuki Investigator School
+    source_md: Mechanics/Character_Options/Schools/Ryuugakure/Kitsuki Investigator School.md
+    focus: Investigation, perception, and anti-deception work.
+    description: Mibu investigators train to see what others miss, exposing lies through disciplined observation and controlled pressure.
+    bonus_feat: {name: Attentive, source_uuid: null}
+    starting_techniques:
+      - {name: Weight of Duty, source_uuid: null}
+      - {name: Genjutsu Kai, source_uuid: null}
+      - {name: "Kenjutsu: Shamen-uchi", source_uuid: null}
+    starting_outfit: Traveling clothes, wakizashi, knife, calligraphy set, bo or jian, traveling pack, and observation journal.
+    tags: [School, Ryuugakure, Mibu]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Ryu Two-Heavens Adept School
+    slug: ryu-two-heavens-adept-school
+    status: active
+    village: Ryuugakure
+    clan: Ryu
+    legacy_name: Mirumoto Two-Heavens Adept School
+    source_md: Mechanics/Character_Options/Schools/Ryuugakure/Mirumoto Two-Heavens Adept School.md
+    focus: Two-weapon kenjutsu and adaptable assault.
+    description: Ryu adepts train in paired blades and fluid pressure, overwhelming enemies with continuous attacks from changing angles.
+    bonus_feat: {name: Two-Weapon Fighting, source_uuid: null}
+    starting_techniques:
+      - {name: "Kenjutsu: Agari-uchi", source_uuid: null}
+      - {name: "Kenjutsu: Kudari-uchi", source_uuid: null}
+      - {name: Ikaku no Jutsu, source_uuid: null}
+    starting_outfit: Traveling clothes, ceremonial clothes, ashigaru armor, daisho or wakizashi plus two weapons of rarity 6 or lower, and traveling pack.
+    tags: [School, Ryuugakure, Ryu]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Seijina Tattooed Order
+    slug: seijina-tattooed-order
+    status: active
+    village: Ryuugakure
+    clan: Seijina
+    legacy_name: Togashi Tattooed Order
+    source_md: Mechanics/Character_Options/Schools/Ryuugakure/Togashi Tattooed Order.md
+    focus: Ascetic body conditioning and chakra tattoos.
+    description: Seijina tattooed shinobi treat the body as a seal-script canvas, seeking enlightenment through physical trial and internal discipline.
+    bonus_feat: {name: Craft Sealed Item, source_uuid: null}
+    starting_techniques:
+      - {name: Ishi no Teashi, source_uuid: null}
+      - {name: Gyoukou, source_uuid: null}
+      - {name: Kawa no Yoroi, source_uuid: null}
+    starting_outfit: Common clothing, bo, and traveling pack.
+    tags: [School, Ryuugakure, Seijina]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Kagetsuki Manipulator School
+    slug: kagetsuki-manipulator-school
+    status: active
+    village: Sasorigakure
+    clan: Kagetsuki
+    legacy_name: Bayushi Manipulator School
+    source_md: Mechanics/Character_Options/Schools/Sasorigakure/Bayushi Manipulator School.md
+    focus: Deception, social pressure, and mental manipulation.
+    description: Kagetsuki manipulators protect Sasorigakure with lies, masks, and perfectly placed pressure instead of open force.
+    bonus_feat: {name: Force of Personality, source_uuid: null}
+    starting_techniques:
+      - {name: Onwaku no Jutsu, source_uuid: null}
+      - {name: Henge no Jutsu, source_uuid: null}
+      - {name: Well of Desire, source_uuid: null}
+    starting_outfit: Ceremonial clothes, common clothes, traveling clothes, wakizashi, one weapon of rarity 6 or lower, calligraphy set, and traveling pack.
+    tags: [School, Sasorigakure, Kagetsuki]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Iburi Infiltrator School
+    slug: iburi-infiltrator-school
+    status: active
+    village: Sasorigakure
+    clan: Iburi
+    legacy_name: Shosuro Infiltrator School
+    source_md: Mechanics/Character_Options/Schools/Sasorigakure/Shosuro Infiltrator School.md
+    focus: Disguise, infiltration, and assassination.
+    description: Iburi infiltrators become smoke, rumor, and borrowed faces, reaching targets without leaving a trace.
+    bonus_feat: {name: Death Blow (3.5), source_uuid: null}
+    starting_techniques:
+      - {name: Kakureimino no Jutsu, source_uuid: null}
+      - {name: Sensational Distraction, source_uuid: null}
+      - {name: Fukumihari, source_uuid: null}
+    starting_outfit: Ceremonial clothes, common clothes, traveling clothes, daisho, knife, yumi with arrows, and traveling pack.
+    tags: [School, Sasorigakure, Iburi]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Chinoike Illusionist School
+    slug: chinoike-illusionist-school
+    status: active
+    village: Sasorigakure
+    clan: Chinoike
+    legacy_name: Soshi Illusionist School
+    source_md: Mechanics/Character_Options/Schools/Sasorigakure/Soshi Illusionist School.md
+    focus: Genjutsu, terror, and mental collapse.
+    description: Chinoike illusionists specialize in fear and pain, breaking minds with sensory lies before bodies need to fall.
+    bonus_feat: {name: Genjutsu Adept, source_uuid: null}
+    starting_techniques:
+      - {name: "Magen: Jigoku Tenshi no Jutsu", source_uuid: null}
+      - {name: Shougenzou no Jutsu, source_uuid: null}
+      - {name: Shinheki no Jutsu, source_uuid: null}
+    starting_outfit: Sanctified robes, inconspicuous garb, wakizashi, knife, scroll satchel, and traveling pack.
+    tags: [School, Sasorigakure, Chinoike]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Karatachi Wardmaster School
+    slug: karatachi-wardmaster-school
+    status: active
+    village: Sasorigakure
+    clan: Karatachi
+    legacy_name: Yogo Wardmaster School
+    source_md: Mechanics/Character_Options/Schools/Sasorigakure/Yogo Wardmaster School.md
+    focus: Fuinjutsu wards, traps, and spirit binding.
+    description: Karatachi wardmasters guard Sasorigakure's secrets with layered seals, hidden alarms, and binding techniques.
+    bonus_feat: {name: Sealwaver, source_uuid: null}
+    starting_techniques:
+      - {name: Cleansing Rite, source_uuid: null}
+      - {name: Seal of Alertness, source_uuid: null}
+      - {name: Youso Fuuin no Jutsu, source_uuid: null}
+    starting_outfit: Sanctified robes, concealed armor, wakizashi, bo or knife, three shuriken, calligraphy set, scroll satchel, and traveling pack.
+    tags: [School, Sasorigakure, Karatachi]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Sarutobi Commander School
+    slug: sarutobi-commander-school
+    status: active
+    village: Shishigakure
+    clan: Sarutobi
+    legacy_name: Akodo Commander School
+    source_md: Mechanics/Character_Options/Schools/Shishigakure/Akodo Commander School.md
+    focus: Battlefield command and direct assault.
+    description: Sarutobi commanders lead from the front, turning tactical discipline and martial presence into victory for the pride.
+    bonus_feat: {name: Weapon Focus, source_uuid: null}
+    starting_techniques:
+      - {name: Ikaku no Jutsu, source_uuid: null}
+      - {name: Dazzling Performance, source_uuid: null}
+      - {name: "Taijutsu: Gouken", source_uuid: null}
+    starting_outfit: Ashigaru armor, traveling clothes, daisho, yari, one weapon of rarity 6 or lower, two knives, yumi with arrows, and traveling pack.
+    tags: [School, Shishigakure, Sarutobi]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Yamanaka Bard School
+    slug: yamanaka-bard-school
+    status: active
+    village: Shishigakure
+    clan: Yamanaka
+    legacy_name: Ikoma Bard School
+    source_md: Mechanics/Character_Options/Schools/Shishigakure/Ikoma Bard School.md
+    focus: Propaganda, morale, and psychological warfare.
+    description: Yamanaka bards know that memory, story, and voice can turn a battlefield before the first weapon is drawn.
+    bonus_feat: {name: Creative, source_uuid: null}
+    starting_techniques:
+      - {name: Esagashi no Jutsu, source_uuid: null}
+      - {name: Shougenzou no Jutsu, source_uuid: null}
+      - {name: Lightning Raid, source_uuid: null}
+    starting_outfit: Traveling clothes, wakizashi, yari or tessen, yumi with arrows, traveling pack, one musical instrument, and journal.
+    tags: [School, Shishigakure, Yamanaka]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Hyuuga Medium School
+    slug: hyuuga-medium-school
+    status: active
+    village: Shishigakure
+    clan: Hyuuga
+    legacy_name: Kitsu Medium School
+    source_md: Mechanics/Character_Options/Schools/Shishigakure/Kitsu Medium School.md
+    focus: Ancestor communion and spiritual perception.
+    description: Hyuuga mediums combine perception, discipline, and ritual practice to consult the dead and keep spiritual corruption at bay.
+    bonus_feat: {name: Keen Sight, source_uuid: null}
+    starting_techniques:
+      - {name: Ancestry Unearthed, source_uuid: null}
+      - {name: Youso Fuuin no Jutsu, source_uuid: null}
+      - {name: Cleansing Rite, source_uuid: null}
+    starting_outfit: Sanctified robes, traveling clothes, wakizashi, knife, bo, scroll satchel, and traveling pack.
+    tags: [School, Shishigakure, Hyuuga]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Lee Berserker School
+    slug: lee-berserker-school
+    status: active
+    village: Shishigakure
+    clan: Lee
+    legacy_name: Matsu Berserker School
+    source_md: Mechanics/Character_Options/Schools/Shishigakure/Matsu Berserker School.md
+    focus: Aggressive taijutsu and fearless assault.
+    description: Lee berserkers value courage, momentum, and physical excellence, overwhelming foes through relentless forward pressure.
+    bonus_feat: {name: Cleave, source_uuid: null}
+    starting_techniques:
+      - {name: "Taijutsu: Gouken - Konoha Reppuu", source_uuid: null}
+      - {name: Chouyaku no Jutsu, source_uuid: null}
+      - {name: "Iryou Ninjutsu: Ryoji - Kekki", source_uuid: null}
+    starting_outfit: Ashigaru armor, traveling clothes, daisho, nodachi or tessen, knife, yumi with arrows, and traveling pack.
+    tags: [School, Shishigakure, Lee]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Fujiwara Diplomat School
+    slug: fujiwara-diplomat-school
+    status: active
+    village: Tsurugakure
+    clan: Fujiwara
+    legacy_name: Doji Diplomat School
+    source_md: Mechanics/Character_Options/Schools/Tsurugakure/Doji Diplomat School.md
+    focus: Court influence, etiquette, and subtle genjutsu.
+    description: Fujiwara diplomats are the eyes, ears, and voice of Tsurugakure, resolving conflicts with words, favors, and quiet pressure.
+    bonus_feat: {name: Trustworthy, source_uuid: null}
+    starting_techniques:
+      - {name: Kuchijouzu no Jutsu, source_uuid: null}
+      - {name: Shitsunen no Jutsu, source_uuid: null}
+      - {name: Kaisoku no Jutsu, source_uuid: null}
+    starting_outfit: Ceremonial clothes, wakizashi, yumi or yari, calligraphy set, traveling pack, and attendant or pony.
+    tags: [School, Tsurugakure, Fujiwara]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
+
+  - name: Uchiha Duelist School
+    slug: uchiha-duelist-school
+    status: active
+    village: Tsurugakure
+    clan: Uchiha
+    legacy_name: Kakita Duelist School
+    source_md: Mechanics/Character_Options/Schools/Tsurugakure/Kakita Duelist School.md
+    focus: Iaijutsu, quick draw, and precision striking.
+    description: Uchiha duelists train for the single perfect moment, blending speed, perception, and blade discipline into decisive strikes.
+    bonus_feat: {name: Quick Draw, source_uuid: null}
+    starting_techniques:
+      - {name: "Kenjutsu: Iaido", source_uuid: null}
+      - {name: Reppushou, source_uuid: null}
+      - {name: Akari Henko no Jutsu, source_uuid: null}
+    starting_outfit: Traveling clothes, ceremonial clothes, daisho, yari or yumi with arrows, traveling pack, and attendant or pony.
+    tags: [School, Tsurugakure, Uchiha]
+    foundry_source: null
+    house_rules_applied: [kaihou-static-school-package, l5r-name-adaptation]
+    created: 2026-06-07
+    updated: 2026-06-07
