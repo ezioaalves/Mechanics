@@ -23,5 +23,5 @@ Source: `Sourcebooks/OSR/modernsrd.pdf`. Sections the vault already rewrote are 
 
 **Tiers:** *core* = universal resolution mechanics inherited largely unchanged; *reference* = Naruto adapts these, so treat as background, not authoritative.
 
-> Tables flagged `<!-- TODO: rebuild table grid -->` were extracted cell-per-line and still need a manual grid pass.
+> All extracted tables have been rebuilt into proper markdown grids from the SRD PDF (2026-06-10) — the cell-per-line `<!-- TODO: rebuild table grid -->` artifacts in Skill Basics and Combat are resolved.
 

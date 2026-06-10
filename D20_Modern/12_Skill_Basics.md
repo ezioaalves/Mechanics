@@ -28,35 +28,18 @@ Miscellaneous Modifiers: Miscellaneous modifiers include bonuses provided by fea
 
 Ranks indicate how much training or experience a character has with a given skill. Each skill has a number of ranks, from 0 (for a skill in which a character has no training at all) to 23 (for a 20th-level character who has increased a class skill to its maximum rank). When making a skill check, a character adds his or her skill ranks to the roll as part of the skill modifier. The rules assume that a character can always find a way to learn any skill. However, the GM can impose limits depending on circumstances and a given situation.
 
-<!-- TODO: rebuild table grid -->
-```text
-Table: Skill Points per Level
+**Table: Skill Points per Level**
 
-1st-Level
-Higher-Level
-Class
-Skill Points
-Skill Points
-Strong
-(3 + Int modifier) x4
-3 + Int modifier
-Fast
-(5 + Int modifier) x4
-5 + Int modifier
-Tough
-(3 + Int modifier) x4
-3 + Int modifier
-Smart
-(9 + Int modifier) x4
-9 + Int modifier
-Dedicated
-(5 + Int modifier) x4
-5 + Int modifier
-Charismatic (7 + Int modifier) x4
-7 + Int modifier
+| Class | 1st-Level Skill Points | Higher-Level Skill Points |
+| :--- | :--- | :--- |
+| Strong | (3 + Int modifier) × 4 | 3 + Int modifier |
+| Fast | (5 + Int modifier) × 4 | 5 + Int modifier |
+| Tough | (3 + Int modifier) × 4 | 3 + Int modifier |
+| Smart | (9 + Int modifier) × 4 | 9 + Int modifier |
+| Dedicated | (5 + Int modifier) × 4 | 5 + Int modifier |
+| Charismatic | (7 + Int modifier) × 4 | 7 + Int modifier |
 
-Skill Checks
-```
+### Skill Checks
 
 Unlike with attack rolls and saving throws, a natural roll of 20 on the d20 is not an automatic success when making a skill check, and a natural roll of 1 is not an automatic failure.
 
@@ -64,88 +47,37 @@ Unlike with attack rolls and saving throws, a natural roll of 20 on the d20 is n
 
 Some checks are made against a Difficulty Class (DC). The DC is a number set by the GM (using the skill rules as a guideline) that a character must attain to succeed.
 
-<!-- TODO: rebuild table grid -->
-```text
-Table: Difficulty Class Examples
-Difficulty (DC)
-Example (Skill Used)
-Very easy (0)
-Notice something large in plain sight
+**Table: Difficulty Class Examples**
 
-(Spot)
-Easy (5)
-Climb a knotted rope (Climb)
-Average (10)
-Hear an approaching security guard
-
-(Listen)
-Tough (15)
-Disarm an explosive (Demolitions)
-Challenging (20)
-Swim against a strong current (Swim)
-Formidable (25)
-Break into a secure computer system
-
-(Computer Use)
-Heroic (30)
-Leap across a 30-foot chasm (Jump)
-Superheroic (35)
-Convince the guards that even though
-
-you’re not wearing an ID badge and
-
-aren’t on their list, they should let you
-
-into the building (Bluff)
-```
-
-Nearly impossible (40) Track a trained commando through the
-
-forests of Brazil on a moonless night
-
-after 12 days of rainfall (Survival)
+| Difficulty (DC) | Example (Skill Used) |
+| :--- | :--- |
+| Very easy (0) | Notice something large in plain sight (Spot) |
+| Easy (5) | Climb a knotted rope (Climb) |
+| Average (10) | Hear an approaching security guard (Listen) |
+| Tough (15) | Disarm an explosive (Demolitions) |
+| Challenging (20) | Swim against a strong current (Swim) |
+| Formidable (25) | Break into a secure computer system (Computer Use) |
+| Heroic (30) | Leap across a 30-foot chasm (Jump) |
+| Superheroic (35) | Convince the guards that even though you're not wearing an ID badge and aren't on their list, they should let you into the building (Bluff) |
+| Nearly impossible (40) | Track a trained commando through the forests of Brazil on a moonless night after 12 days of rainfall (Survival) |
 
 ### Opposed Checks
 
 Some skill checks are opposed checks. They are made against a randomized number, usually another character’s skill check result. For ties on opposed checks, the character with the higher key ability score wins. If those scores are the same, roll again.
 
-<!-- TODO: rebuild table grid -->
-```text
-Table: Example Opposed Checks
+**Table: Example Opposed Checks**
 
-Opposing
-Task
+| Task | Skill | Opposing Skill |
+| :--- | :--- | :--- |
+| Sneak up on someone | Move Silently | Listen |
+| Con someone | Bluff | Sense Motive |
+| Hide from someone | Hide | Spot |
+| Win a car race | Drive | Drive |
+| Pretend to be someone else | Disguise | Spot |
+| Steal a key chain | Sleight of Hand | Spot |
+| Create a fake ID | Forgery | Forgery |
 
-Skill
-
-Skill
-Sneak up on someone
-Move Silently
-Listen
-Con someone
-
-Bluff
-
-Sense Motive
-Hide from someone
-Hide
-
-Spot
-Win a car race
-
-Drive
-
-Drive
-Pretend to be someone elseDisguise
-Spot
-Steal a key chain
-Sleight of Hand Spot
-Create a fake ID
-Forgery
-Forgery
-
-Trying Again
-```
+### Trying Again
 
 If a character fails on a skill check, he or she can sometimes try again. Check the skill description to find out if, and under what circumstances, a character can try again. Many skills, however, have natural consequences for failing that must be accounted for. Some skills can’t be tried again once a check has failed for a particular task.
 
