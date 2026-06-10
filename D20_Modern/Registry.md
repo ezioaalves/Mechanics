@@ -25,3 +25,18 @@ Source: `Sourcebooks/OSR/modernsrd.pdf`. Sections the vault already rewrote are 
 
 > All extracted tables have been rebuilt into proper markdown grids from the SRD PDF (2026-06-10) — the cell-per-line `<!-- TODO: rebuild table grid -->` artifacts in Skill Basics and Combat are resolved.
 
+## Reference content (base layer)
+
+Imported 2026-06-10 alongside the existing [Character Classes](Character%20Classes.md), [Feats](Feats.md), [Ordinaries](Ordinaries.md), and [Equipments Basics](Equipments%20Basics.md):
+
+| Page(s) | File | Notes |
+|---|---|---|
+| 10–12 | [Starting Occupation](Starting%20Occupation.md) | 19 modern occupations (Kaihou uses its own — reference only) |
+| 108–116 | [Equipment — Weapons & Armor](Equipment_Weapons_and_Armor.md) | melee weapons, improvised, explosives & splash, armor |
+| 91–101 | [Equipment — General Gear](Equipment_General_Gear.md) | bags, clothing, professional & survival gear |
+| 144–147 | [Creature Overview](Creature_Overview.md) | stat-block format + advancement rules |
+| 149–156 | [Creature Types](Creature_Types.md) | the 15 type trait blocks |
+| 157–178 | [Creatures](Creatures.md) | the full SRD bestiary (46 creatures/templates) |
+
+**Deliberate carve-outs** (off-theme for Kaihou, not imported): the FX/magic system, modern firearms & firearm ammunition, vehicles & vehicle combat, modern electronics/surveillance gear, modern services, and the d20 Modern advanced classes (Kaihou has its own). Consult the SRD directly if ever needed. Each type's per-size physical-ability/damage advancement grid is also left in the SRD (the numeric tables extract with misaligned columns).
+
