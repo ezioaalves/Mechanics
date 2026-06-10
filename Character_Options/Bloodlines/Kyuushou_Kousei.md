@@ -45,3 +45,14 @@ While under the effects of Pseudomortality, the character gains a bonus to Forti
 
 ### Ageless (Ex)
 The character stops aging, and no longer suffers penalty from advancing an age category. Any previously applied aging penalty remain, and the character can still die of old age.
+
+## Feats
+
+### Timeless Body [Epic Feat]
+*Source: NarutoD20 Redux v1.3, Chapter 10 (p325).*
+
+**Prerequisites**: Kyuushou Kousei, Wis 17.
+
+**Benefit**: Your lifespan increases by 10d6 years.
+
+**Special**: Can be selected multiple times.
