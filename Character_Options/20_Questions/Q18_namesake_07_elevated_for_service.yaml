@@ -1,0 +1,15 @@
+name: "Namesake: Elevated for Service"
+slug: q18-namesake-elevated-for-service
+description: |
+  Your family was elevated for service. (Heritage roll 7)
+  <p><b>Modifier:</b> -1 Reputation, +1 Action Point.</p>
+  <p><b>Other effects (apply manually):</b> Craft is a class skill;
+  pick an untrained Craft subskill and gain +1 rank in it.</p>
+minor_benefits:
+  - kind: reputation
+    value: -1
+  - kind: action_point
+    value: 1
+tags:
+  - "20 Questions Q18"
+  - "Namesake Heritage"

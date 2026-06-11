@@ -7,8 +7,8 @@ description: |
   worldly trades worth knowing that the academy never taught.
   <p><b>Grants:</b> 1 bonus skill point to invest in Craft or Profession at character creation.</p>
 minor_benefit:
-  kind: doc_only
-  value: "+1 skill point (Craft or Profession; player picks subskill)"
+  kind: bonus_skill_rank
+  value: 1
 tags:
   - "20 Questions Q8"
   - "Shinobi Code"

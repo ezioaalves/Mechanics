@@ -1,0 +1,14 @@
+name: Parental Influence
+slug: q17-parental-influence
+img: icons/svg/book.svg
+description: |
+  Your parents' lessons left their mark. They tried to teach you
+  something you may have ignored — a skill you never bothered to
+  practice until now.
+  <p><b>Grants:</b> 1 bonus skill rank to allocate freely (GM oversight).</p>
+minor_benefit:
+  kind: bonus_skill_rank
+  value: 1
+tags:
+  - "20 Questions Q17"
+  - "Parental Influence"

@@ -1,0 +1,13 @@
+name: "Namesake: Wondrous Work"
+slug: q18-namesake-wondrous-work
+description: |
+  You were named for a wondrous work. (Heritage roll 3)
+  <p><b>Modifier:</b> +2 Reputation.</p>
+  <p><b>Other effects (apply manually):</b> Perform is a class skill;
+  pick an untrained Perform subskill and gain +1 rank in it.</p>
+minor_benefits:
+  - kind: reputation
+    value: 2
+tags:
+  - "20 Questions Q18"
+  - "Namesake Heritage"

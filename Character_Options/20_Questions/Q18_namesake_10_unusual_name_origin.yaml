@@ -1,0 +1,13 @@
+name: "Namesake: Unusual Name Origin"
+slug: q18-namesake-unusual-name-origin
+description: |
+  Your name has an unusual origin. (Heritage roll 10)
+  <p><b>Modifier:</b> -1 Reputation.</p>
+  <p><b>Other effects (apply manually):</b> Reduce one ability score by 2
+  and increase another by 2; OR start with one mastercraft +1 item.</p>
+minor_benefits:
+  - kind: reputation
+    value: -1
+tags:
+  - "20 Questions Q18"
+  - "Namesake Heritage"

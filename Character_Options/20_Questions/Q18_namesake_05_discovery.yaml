@@ -1,0 +1,14 @@
+name: "Namesake: Discovery"
+slug: q18-namesake-discovery
+description: |
+  You were named for a discovery. (Heritage roll 5)
+  <p><b>Modifier:</b> +1 Reputation.</p>
+  <p><b>Other effects (apply manually):</b> Pick a Knowledge skill — it
+  becomes a class skill; pick an untrained Perform subskill and gain
+  +1 rank (OR +1 trait bonus if already a class skill).</p>
+minor_benefits:
+  - kind: reputation
+    value: 1
+tags:
+  - "20 Questions Q18"
+  - "Namesake Heritage"

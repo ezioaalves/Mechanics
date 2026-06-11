@@ -1,0 +1,14 @@
+name: "Mentor's Lesson"
+slug: q13-mentors-lesson
+img: icons/svg/book.svg
+description: |
+  Your mentor's training settled deep. Beyond the technique itself,
+  they drilled you in a discipline that became second nature.
+  <p><b>Grants:</b> one class skill, chosen in the 20 Questions wizard
+  and written onto this feat when granted.</p>
+minor_benefit:
+  kind: doc_only
+  value: "Mentor-taught class skill (chosen in the wizard)"
+tags:
+  - "20 Questions Q13"
+  - "Mentor"

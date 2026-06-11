@@ -1,0 +1,15 @@
+name: "Namesake: Stolen Knowledge"
+slug: q18-namesake-stolen-knowledge
+description: |
+  Your name carries stolen knowledge. (Heritage roll 8)
+  <p><b>Modifier:</b> -2 Action Points.</p>
+  <p><b>Other effects (apply manually):</b> Learn a Rank 3 technique
+  (d10 type roll: 1-2 Ninjutsu, 3 Chakra Control, 4-6 Taijutsu,
+  7 Fuinjutsu, 8 Genjutsu, 9 Hijutsu, 10 Kinjutsu); pick one technique
+  of that type.</p>
+minor_benefits:
+  - kind: action_point
+    value: -2
+tags:
+  - "20 Questions Q18"
+  - "Namesake Heritage"

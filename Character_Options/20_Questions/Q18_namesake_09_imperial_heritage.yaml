@@ -1,0 +1,13 @@
+name: "Namesake: Imperial Heritage"
+slug: q18-namesake-imperial-heritage
+description: |
+  Your name carries imperial heritage. (Heritage roll 9)
+  <p><b>Modifier:</b> +3 Action Points.</p>
+  <p><b>Other effects (apply manually):</b> Gain Action Boost as a
+  bonus feat.</p>
+minor_benefits:
+  - kind: action_point
+    value: 3
+tags:
+  - "20 Questions Q18"
+  - "Namesake Heritage"

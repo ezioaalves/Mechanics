@@ -1,0 +1,14 @@
+name: "Namesake: Dynasty Builder"
+slug: q18-namesake-dynasty-builder
+description: |
+  You were named for a dynasty builder. (Heritage roll 4)
+  <p><b>Modifier:</b> -1 Reputation.</p>
+  <p><b>Other effects (apply manually):</b> Roll d4 for a social skill
+  (1 Diplomacy, 2 Bluff, 3 Intimidate, 4 Sense Motive); it becomes a
+  class skill, OR gain +1 trait bonus if it already is one.</p>
+minor_benefits:
+  - kind: reputation
+    value: -1
+tags:
+  - "20 Questions Q18"
+  - "Namesake Heritage"

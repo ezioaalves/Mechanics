@@ -1,0 +1,15 @@
+name: "Namesake: Glorious Sacrifice"
+slug: q18-namesake-glorious-sacrifice
+description: |
+  You were named for a glorious sacrifice. (Heritage roll 2)
+  <p><b>Modifier:</b> +2 Action Points, +2 Reputation.</p>
+  <p><b>Other effects (apply manually):</b> A lost family heirloom
+  (d10 item type as Famous Deed) exists somewhere in the world.</p>
+minor_benefits:
+  - kind: reputation
+    value: 2
+  - kind: action_point
+    value: 2
+tags:
+  - "20 Questions Q18"
+  - "Namesake Heritage"
