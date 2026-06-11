@@ -43,7 +43,7 @@ Passo à Passo da Criação de Personagem Compilado e incluindo o homebrew:
 
 6. Distribua seus skill ranks dentre a lista atualizada de perícias on [[Skills]] e [[Skill - Conversion]]
 
-7. Responda as [[20 Perguntas]]. Incluindo:
+7. Responda as [[20 Questions]]. Incluindo:
 
     1. Vila [[Vilas e Bônus]]
 
